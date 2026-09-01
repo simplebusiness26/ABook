@@ -22,7 +22,7 @@ Craig remains the major exception: he is central to Book One but receives **no P
 
 **Function:** Reader's doorway into HMP Lewes and prison generally.
 
-Connor comes from a rough, single-parent household where money has always been tight. He has a mum, brothers, a sister and a particularly young little brother. Part of the story Connor tells himself about his criminal life is that he is helping his family: he wants his brothers and siblings to have things he did not have and does not want his mum carrying every financial burden alone.
+Connor comes from a rough, single-parent household where money has always been tight. He has a mum, brothers, a sister and a particularly young little brother. Part of the story Connor tells himself about his criminal life is that he is helping his family: he wants his brothers and siblings to have things they otherwise could not afford and does not want his mum carrying every financial burden alone.
 
 That motive does not erase his choices. By twenty-one he is already involved in crime, runs a cannabis line and has younger runners around him. He has begun to confuse providing for people with being successful and being needed with being powerful.
 
@@ -32,11 +32,17 @@ Connor also has a girlfriend when he enters custody. At first she represents par
 
 The offence is an **aggravated burglary**. Watches are stolen and the victim's Mercedes C63 AMG is taken. The car is later recovered.
 
-During the burglary Connor cuts a finger. He notices the cut afterwards but never connects it to the offence and does not realise that he has left blood in the recovered car. Time passes without an arrest, so he gradually convinces himself that he got away with the burglary.
+During the burglary Connor cuts the **middle finger** of one hand. He notices the cut afterwards but never connects it to the offence. He does not realise he has left blood in the recovered car. Time passes without an arrest, so he gradually convinces himself that he got away with the burglary.
 
-On the night Book One opens, Connor is at home after spending the day working his cannabis line. Armed police arrive. Until he hears that they have come about the burglary, it has been pushed into the back of his mind.
+On the night Book One opens, Connor is at home after spending the day working his cannabis line. Armed police arrive. Until he realises they have come about the burglary, it has been pushed into the back of his mind.
 
-After arrest, his solicitor tells him that blood recovered from the car has been attributed to him. Connor suddenly remembers the cut and realises that the tiny injury he had dismissed is the thing linking him to the offence. The emotional effect matters more than forensic procedure: until that conversation he can still imagine the police may be fishing; afterwards the case feels real.
+After arrest, his solicitor tells him that blood recovered from the car has been attributed to him. Connor suddenly remembers the cut and realises that the tiny injury he had dismissed is the thing linking him to the offence.
+
+Connor is the only participant identified and arrested for the burglary because the physical evidence identifies him but does not identify his co-offenders. He gives a **no-comment interview** and does not identify the others.
+
+Witnesses report that a firearm was present during the burglary. Police do not recover one and Connor does not admit possessing or using one. From Connor's point of view, however, the allegation changes the emotional weight of the case: detectives repeatedly tell him that the presence of a gun is why they regard what happened as having crossed into much more serious territory.
+
+The story should preserve the distinction between **what the prosecution alleges, what witnesses report, what evidence exists and what Connor admits**. We do not need operational detail about the weapon.
 
 After custody and interview, Connor is remanded. During the journey to HMP Lewes he catastrophises about the sentence he might receive, replaying frightening figures and convincing himself he may lose a huge part of his life. Much later he receives a five-year sentence, but Book One should preserve the emotional truth that he cannot know that during remand.
 
@@ -52,11 +58,29 @@ After custody and interview, Connor is remanded. During the journey to HMP Lewes
 
 **Function:** Gravitational centre of the novel.
 
-Craig arrives at HMP Lewes with a reputation that reaches the prison before he does. His name changes conversations. Some prisoners respect him, some resent him, some see an opportunity, and some are frightened by what his arrival may bring.
+Craig is originally from London but has become one of the dominant organised-crime figures across Sussex. Prisoners know him for money, influence, violence in his reputation, connections, loyalty to people he regards as his own and an almost unnerving lack of visible fear.
+
+He is not merely somebody with a gang around him. The mythology around Craig is that he sits at the top of a network so large that many people earning money beneath it do not know who ultimately controls the chain.
+
+### Working Book One charge
+
+Craig arrives at HMP Lewes on remand facing a **large-scale conspiracy to supply Class A drugs**, with the prosecution alleging that he occupied a leading organising role in a commercial network. Supporting counts can include **participating in the activities of an organised crime group** and **money laundering / concealing criminal property**.
+
+The novel should usually refer to the headline allegation simply as **the conspiracy**. Police, newspapers and prisoners may describe Craig as a kingpin or organised-crime boss, but the indictment itself should use real legal offences rather than a fictional “kingpin charge.”
+
+This is a working legal framework and should be checked against the final story year before publication.
+
+### Connor connection
+
+Connor eventually discovers that the drug line he had been working before his arrest was, several layers up the chain, part of Craig's wider network. Connor had effectively been selling Craig's product without knowing Craig existed.
+
+That discovery makes Craig's world suddenly much larger in Connor's eyes. It also explains why Craig understands Connor's background faster than Connor expects.
+
+Craig comes to genuinely like Connor because he recognises something of his younger self in him: the family responsibility, the belief that money can solve everything, the loyalty, the ambition and the dangerous confidence of a young man who thinks he understands the world he has entered.
 
 **Book One rule:** We never enter Craig's thoughts. The reader builds an image of him from what he says, what he does and what other people believe.
 
-**Book One movement:** arrival → rumours → outside pressure reaches Lewes → Connor backs him → Connor becomes his right-hand companion while he awaits sentence → Craig receives a major sentence → transfer to the dispersal/high-security system.
+**Book One movement:** arrival → rumours → outside pressure reaches Lewes → Connor backs him → Craig recognises something of himself in Connor → Connor becomes his right-hand companion while he awaits sentence → Connor learns his old drug line ultimately sat inside Craig's network → Craig receives a major sentence → transfer to the dispersal/high-security system.
 
 **Book Two:** Craig becomes a POV character for the first time.
 
@@ -124,11 +148,15 @@ Deano and Jay are useful mirrors: sometimes opposed, sometimes cooperating, some
 
 ## Big Sharky — remote Book One interlude / major Book Two character
 
-A senior figure held in a dispersal/high-security prison. He has unfinished business with Craig, but **Book One does not explain why**.
+A senior figure held in a dispersal/high-security prison. He is older than Craig and was part of Craig's world when they were younger. The two effectively grew up around one another, with Big Sharky occupying the senior position early on.
+
+Big Sharky later went to prison and came to believe that Craig had done him dirty or played some part in setting him up. That belief is wrong or seriously incomplete, but Big Sharky has carried it for years. Craig's rise while Big Sharky was imprisoned has made the resentment worse.
+
+**Book One secrecy rule:** the reader is not told this history. Big Sharky's Book One scenes reveal only that the feud is old, personal and powerful enough for him to reach into Lewes from another prison.
 
 From another establishment, Big Sharky receives word that Craig has landed at HMP Lewes and pushes an instruction down through outside and prison contacts: there is money attached to Craig.
 
-His Book One scenes should reveal reach and threat, not backstory. Craig eventually reaches the dispersal system in Book Two, where the two men can finally meet and the reader learns what created the feud.
+Craig eventually reaches the dispersal system in Book Two, where the truth behind Big Sharky's belief can be explored properly.
 
 ## Bruce — recurring wildcard / comic pressure-release
 
