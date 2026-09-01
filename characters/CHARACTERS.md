@@ -20,13 +20,19 @@ Craig remains the major exception: he is central to Book One but receives **no P
 
 **Function:** Reader's doorway into HMP Lewes and prison generally.
 
-Young, inexperienced and entering custody for the first time after becoming involved in crime and participating in a robbery. He knows enough to have made serious mistakes but not enough to understand the world he has entered.
+Connor is young, inexperienced in prison and already involved in crime before Book One begins. He has a small cannabis line and runners working for him, but the case that puts him into custody is a robbery. On the night of his arrest he is at home with some of the people around him when armed police arrive. In panic he throws a bag of cannabis and the phone used for his drug business out of the window. The drug material does not become part of the case he ultimately faces; the robbery does.
 
-**Book One movement:** outsider → observer → makes a consequential choice → becomes associated with Craig → gains status → discovers that loyalty and reputation both carry a price.
+He is therefore not an innocent boy accidentally dropped into prison. He has been making increasingly serious choices and believes he understands the criminal world. What he does **not** understand is prison, long sentences, institutional life or how quickly other people's reputations can become his problem.
 
-**Strengths:** instinctive loyalty, empathy, ability to notice people.
+After arrest, custody and interview, Connor is remanded. During the journey to HMP Lewes he catastrophises about the sentence he might receive, replaying the worst figures mentioned by police, solicitors and barristers and convincing himself he may lose a huge part of his life. Much later he receives a five-year sentence, but Book One should preserve the important emotional truth that he cannot know that during remand.
 
-**Weaknesses:** naïve, eager not to look weak, sometimes acts before understanding what he is stepping into.
+**Book One movement:** confident young offender at home → frightened defendant → first-time remand prisoner → observer → makes a consequential choice → becomes associated with Craig → gains status → discovers that loyalty and reputation both carry a price.
+
+**Strengths:** instinctive loyalty, empathy, ability to notice people, social confidence outside prison.
+
+**Weaknesses:** naïve about prison, eager not to look weak, sometimes acts before understanding what he is stepping into, overestimates how much he understands criminal life.
+
+**Central emotional contradiction:** Connor entered custody believing he was already a criminal. Lewes makes him realise how young and unprepared he actually is.
 
 ## Craig — central mystery, NEVER POV in Book One
 
