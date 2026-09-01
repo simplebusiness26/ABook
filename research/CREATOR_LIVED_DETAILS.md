@@ -15,10 +15,22 @@ These notes record story-world and prison-life details supplied directly by the 
 - Only after arrest/custody does a solicitor become part of Connor's robbery case.
 - The scene should show the instant transition from confidence/normality to loss of control, not teach evidence-avoidance techniques.
 
+## Why Connor was caught for the robbery
+
+- During the robbery Connor accidentally cut one of his fingers.
+- He noticed the cut afterwards but did not connect it with the robbery and did not realise he had left blood at the scene.
+- Because no arrest came immediately, he gradually convinced himself he had got away with the robbery.
+- After his arrest, his solicitor tells him that blood recovered from the robbery scene has been attributed to him. This is the moment Connor finally understands why the police came for him.
+- The solicitor can describe the evidence bluntly as leaving Connor effectively “caught red-handed.”
+- Connor's emotional reaction matters more than forensic procedure: the apparently insignificant cut he had forgotten about suddenly becomes the thing that changes the next several years of his life.
+- Do not use this plot point to provide advice about avoiding forensic evidence or evading detection.
+
 ## Police custody / court emotion
 
 - Connor spends time in a holding cell replaying what happened and, now that he knows why he was arrested, obsessively thinking about the robbery.
 - The emotional contrast matters: immediately before the raid the robbery was barely in his conscious mind; immediately afterwards it becomes almost impossible for him to think about anything else.
+- When the solicitor explains the blood evidence, Connor remembers noticing the cut on his finger after the robbery and finally connects the two events.
+- That revelation should land before the interview and make Connor feel that the case has suddenly become real and difficult to explain away.
 - Interview should feel psychologically intimidating from Connor's perspective. A forceful detective makes the possible consequences feel huge.
 - Connor hears frightening sentence estimates and possibilities from different people and fixates on the worst numbers.
 - Court ends with Connor being remanded rather than released.
