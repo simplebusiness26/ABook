@@ -1,489 +1,709 @@
 # Chapter One — Connor
 
-Connor had imagined prison would begin with a bang.
+Connor's last night outside did not feel like a last night.
 
-A gate slamming. Somebody shouting his surname. Maybe a corridor full of men who could tell, just by looking at him, that he had never done this before.
+That was the bit he would remember later.
 
-Instead, it began with waiting.
+Nothing had announced itself.
 
-He had already waited in court. He had waited in a holding cell. He had waited in a van that seemed to have been designed by somebody who hated both knees and windows. Now he was waiting again, sitting on a plastic chair beneath a clock that appeared to have stopped out of spite.
+There had been no strange feeling in his stomach. No meaningful glance at the front door. No sudden urge to ring his mum. No voice in his head telling him to appreciate the sofa because, by breakfast, he would have absolutely no say over where he sat.
 
-Nobody had taken his shoelaces yet.
+It was just a normal night.
 
-He wasn't sure why this bothered him.
+His normal, anyway.
 
-In every film he'd ever seen, shoelaces seemed to be the first thing prison wanted from you. Shoelaces and dignity. Yet Connor still had both, although the second one had taken a fairly serious knock when he had been told to stand on a painted yellow line and then immediately told he was standing on the wrong yellow line.
+There were four of them in the front room, shoes all over the floor, music low enough not to annoy the neighbours and three different conversations happening at once. One of the lads was complaining about money. Another was telling a story Connor had already heard twice but was telling it with such confidence that Connor almost admired him for trying again.
 
-“Move over a bit,” said the officer behind the desk.
+Connor lay across the corner of the sofa with one socked foot on the coffee table.
 
-Connor moved over a bit.
+His phone buzzed beside him.
 
-“Not that much.”
+Not his normal phone.
 
-He moved back.
+The other one.
 
-The officer looked at him.
+He looked at the screen, read the message and put it face-down again.
 
-Connor stopped moving altogether.
+"You gonna answer that?" Reece asked.
 
-“That'll do.”
+"In a minute."
 
-There were six men in reception with him. Or seven. Connor kept losing count because one of them had disappeared through a door marked STAFF ONLY and another had appeared through a different door carrying a clear plastic bag containing what looked like his entire life.
+"You said that ten minutes ago."
 
-A grey tracksuit.
+"Then I'll answer it in eleven."
 
-A paperback with no cover.
+Reece laughed and threw a cushion at him.
 
-Two letters.
+Connor caught it against his chest.
 
-A pair of sliders.
+This was what being in control felt like to him then.
 
-A photograph folded in half.
+People came to his house. Phones rang because people wanted something from him. Lads a couple of years younger listened when he spoke. Money arrived in little bursts. Problems arrived too, but Connor had begun to mistake having problems for being important.
 
-Connor wondered how long you had to be in prison before all your possessions could fit inside something meant for carrying sandwiches.
+The robbery case was sitting somewhere in the background of his life, ugly and unfinished, but he had become good at not thinking about it.
 
-He looked down at his own clothes.
+His solicitor was dealing with it.
 
-Black trainers. Black joggers. Black hoodie.
+That was how Connor described anything he didn't want to understand.
 
-He had spent forty minutes choosing them that morning.
+*My solicitor's dealing with it.*
 
-That seemed ridiculous now.
+As if there were a man in an office somewhere whose job was to absorb consequences on Connor's behalf.
 
-He had wanted to look normal. Not scared. Not like somebody who had spent most of the previous night staring at the ceiling and replaying one particular sentence from his solicitor.
+He took the last pull of the joint, held it, coughed once and immediately pretended he hadn't.
 
-*There is a very real possibility you will be remanded in custody.*
+"Strong?" Reece said.
 
-Very real possibility.
+"Shut up."
 
-Solicitors had a way of making horrible things sound like weather forecasts.
+Connor stubbed it into an ashtray already crowded with old ends, then leaned forward and pulled off his trainers.
 
-Connor rubbed his palms against his thighs.
+One hit the floor properly.
 
-Across from him, a man with a shaved head was asleep.
+The other landed on its side.
 
-Actually asleep.
+He wriggled his toes inside his socks.
 
-His chin rested against his chest and every so often he made a small clicking noise with his tongue.
+"I'm done," he said. "No one's getting me back out tonight."
 
-Connor found this almost offensive.
+Someone laughed.
 
-How could anyone sleep here?
+Then there was a noise outside.
 
-He wanted to tap the man awake and ask if he understood where they were.
+Not loud at first.
 
-Then Connor noticed the man's prison-issue bag by his feet and decided the answer was probably yes.
+A vehicle door.
 
-A buzzer sounded somewhere beyond the wall.
+Then another.
 
-Connor looked towards it.
+Connor looked towards the window.
 
-Nobody else did.
+Reece kept talking.
 
-That, more than anything so far, made him feel new.
+The shout came a second later.
 
-Every noise meant something to him because he didn't know which noises meant nothing.
+"ARMED POLICE!"
 
-Keys rattled behind him.
+Everything inside Connor stopped.
 
-He turned.
+Not slowed.
 
-An officer came through the inner door with another prisoner.
+Stopped.
 
-The new man wasn't especially big.
+The room that had felt warm and stupid and ordinary half a second earlier suddenly contained too many things.
 
-That was Connor's first thought.
+Phones.
 
-His second was that everybody else had noticed him too.
+Smoke.
 
-Not openly. Nobody sat up and pointed. Nobody whispered dramatically. It was smaller than that.
+People.
 
-The sleeping man opened his eyes.
+The bag on the side.
 
-The lad with the clear bag stopped arguing about a phone number.
+Nine ounces of weed.
 
-One of the orderlies near the counter looked across, looked away, then looked across again.
+The work phone.
 
-The new arrival seemed not to notice any of it.
+The front door.
 
-He walked to the desk, gave his name when asked and waited while the officer typed something into the computer.
+His bare feet.
 
-Connor tried not to stare.
+"Oh, shit," somebody said.
 
-There was nothing obvious to stare at.
+Connor moved before he had properly decided to.
 
-No face tattoo. No enormous scar. No army of people following behind him.
+He grabbed the bag and the second phone and threw them from the window in one panicked movement, less like a criminal mastermind and more like somebody whose brain had reduced itself to one instruction: *not here*.
 
-He was just a bloke being booked into prison.
+Then the front of the house filled with noise.
 
-Then the orderly nearest the cupboard muttered something to the other one.
+Commands.
 
-Connor couldn't hear it.
+Boots.
 
-The second orderly glanced towards the desk.
+Someone telling everyone to stay where they were.
 
-“Serious?” he said quietly.
+Reece had both hands up before Connor did.
 
-The first nodded.
+Connor noticed that and, absurdly, felt annoyed with him for being quicker.
 
-Connor looked back at the new prisoner.
+"Hands where I can see them!"
 
-The man leaned one elbow against the counter while the officer searched through paperwork.
+Connor lifted his hands.
 
-He looked bored.
+He had no shoes on.
 
-Connor envied him immediately.
+That bothered him for some reason.
 
-Bored was a luxury. Connor was currently feeling seventeen emotions and none of them were useful.
+Of all the things happening, his mind fixed on the fact that he had taken his trainers off about thirty seconds too early.
 
-“Connor Blake?”
+A police officer moved him away from the window.
 
-Connor jumped.
+Another was speaking to the others.
 
-The officer at the desk was looking at him.
+Connor heard his own name.
 
-“Yeah.”
+Then the word *robbery*.
 
-“Come here.”
+And that was when fear stopped being general and became specific.
 
-Connor stood too quickly, caught the heel of his trainer against the chair and sent it scraping backwards.
+They weren't there because of the weed.
 
-The noise seemed deafening.
+They were there for the thing he had spent months telling himself his solicitor was dealing with.
 
-Nobody laughed.
+---
 
-That was somehow worse.
+Police cells had too much time in them.
 
-He walked over.
+Connor discovered that within the first hour.
 
-“Date of birth?”
+There was nothing to do except think, and thinking had never been one of his hobbies.
 
-Connor answered.
+He sat on the hard bench with his elbows on his knees and replayed the arrest until the details began to feel unreal.
 
-“Address?”
+The shout.
 
-He answered that too.
+The window.
 
-“Next of kin?”
+Reece's hands going up.
 
-He hesitated.
+The officer saying his name.
 
-“Mum.”
+He thought about the robbery.
 
-“Name?”
+He tried to remember who had said what afterwards. Who knew what. Who might have been arrested as well. Whether somebody had spoken. Whether there was CCTV he didn't know about. Whether police had messages. Whether there was something his solicitor knew and hadn't told him.
 
-He gave it.
+Every possibility became evidence in his head.
 
-The officer typed.
+Every silence became betrayal.
 
-Connor watched the computer screen even though it was angled away from him and he couldn't read any of it.
+Every minute that passed made the case stronger.
 
-“You got any medical issues?”
+By the time the hatch opened, Connor had mentally convicted himself of offences he had not even been accused of.
 
-“No.”
+"Solicitor's here."
 
-“Medication?”
+Connor stood too quickly.
 
-“No.”
+"What are they saying?" he asked almost immediately.
 
-“Anything we need to know about?”
+His solicitor had the maddening calm of a person whose liberty was not currently under discussion.
 
-Connor almost laughed.
+"Let's go through it properly."
 
-There seemed to be quite a lot everybody needed to know about, starting with the fact that he had made a series of increasingly stupid decisions over the previous eighteen months and apparently ended the sequence here.
+Connor hated that sentence.
 
-“No.”
+Nobody ever said *let's go through it properly* before telling you something good.
 
-The officer continued through the questions.
+He listened, sort of.
 
-Connor answered automatically.
+There were facts. Allegations. Evidence. Things the police said they could prove and things the solicitor said they would have to prove.
 
-He became aware that the other new arrival was now only a few feet away.
+Connor heard perhaps half of it.
 
-“Craig Mercer?” another officer called.
+He was waiting for a number.
 
-The man beside Connor looked up.
+"How long?" he said.
 
-“That's me.”
+"We're nowhere near that stage yet."
 
-Craig.
+"Yeah, but how long could I get?"
 
-So that was his name.
+"Connor—"
 
-Connor didn't know why he remembered it.
+"Worst case."
 
-Maybe because two seconds later somebody behind him whispered it again.
+The solicitor looked at him for a moment.
 
-“Craig Mercer?”
+That look alone added five years in Connor's head.
 
-The voice had changed.
+"You're getting ahead of yourself."
 
-It wasn't the bored repetition of an officer reading a form.
+Which was not an answer, so Connor supplied one himself.
 
-It was recognition.
+Ten years.
 
-Connor glanced over his shoulder.
+Maybe twelve.
 
-The shaved-headed man was awake now, properly awake, looking straight at Craig.
+Fifteen.
 
-Craig looked back.
+Once fifteen entered his head, it refused to leave.
 
-For a moment neither said anything.
+Fifteen years.
 
-Then Craig gave him a small nod.
+He was young enough that fifteen years did not feel like a sentence. It felt like another lifetime belonging to somebody older.
 
-Not friendly.
+He pictured his mum fifteen years older.
 
-Not unfriendly.
+His friends with children.
 
-Just enough to say: yes, I can see you looking.
+New phones, new cars, new music, new people living in his area who had never heard his name.
 
-The shaved-headed man looked away first.
+He pictured walking out and not knowing how anything worked.
 
-Connor felt he had just watched a conversation in a language he didn't speak.
+"Connor."
 
-“Right,” said the officer in front of him. “Sit back down.”
+He looked up.
 
-Connor returned to his chair.
+"Listen to me. We deal with what is in front of us. Not fifteen imaginary years."
 
-This time he managed not to kick it.
+Connor nodded.
 
-Progress.
+Then spent the next six hours thinking about fifteen imaginary years.
 
-A few minutes later a young lad came through the inner door carrying two cups of water. He handed one to the sleeping man, who had apparently given up sleeping, and stood beside the wall.
+---
 
-He looked about Connor's age but had the relaxed face of somebody at home.
+The detective in interview did not help.
 
-Connor hated him for that as well.
+He had a folder in front of him that Connor immediately decided was too thick.
 
-“You just come in?” the lad asked.
+No folder needed to be that thick unless your life was about to become extremely inconvenient.
 
-Connor looked around to make sure the question was meant for him.
+The recorder started.
 
-“Yeah.”
+Names were stated.
 
-“First time?”
+Formal words filled the room.
 
-Connor paused.
+Connor sat beside his solicitor and tried to look like somebody who had been interviewed many times before.
 
-There had to be a right answer to this.
+He had not.
 
-He just didn't know what it was.
+The detective knew it.
 
-If he said yes, he was advertising that he knew nothing.
+Connor could tell.
 
-If he said no, somebody would probably ask where he'd been before and expose him within thirty seconds.
+"You understand the seriousness of what you're facing?"
 
-“Yeah,” Connor said.
+Connor looked at his solicitor.
 
-The lad nodded.
+"You can answer if you understand the question," the solicitor said.
 
-“Thought so.”
+"Yeah."
 
-Connor's stomach dropped.
+"Do you?" the detective said.
 
-“What d'you mean?”
+Connor disliked him immediately.
 
-The lad smiled.
+Not because he was shouting. He wasn't.
 
-“You keep looking at the doors every time one buzzes.”
+That would almost have been easier.
 
-Connor immediately stopped looking at all doors.
+He spoke calmly, as though the worst possible version of Connor's future had already been agreed by everyone except Connor.
 
-The lad laughed.
+He talked about the robbery. He talked about the evidence. He talked about consequences.
 
-“I'm messing with you. You'll be all right.”
+Whenever Connor thought there might be a gap to breathe, another question arrived.
 
-Connor wasn't sure whether this reassured him.
+"Who was with you?"
 
-The lad sipped his water and glanced towards Craig.
+Connor stared at the table.
 
-His smile disappeared.
+"Where did you go afterwards?"
 
-“That's Craig, innit?”
+The table had a scratch near the corner shaped like a lightning bolt.
 
-Connor looked over.
+"Whose idea was it?"
 
-“Dunno.”
+Connor wondered how many people had sat in exactly his chair and decided the table was suddenly fascinating.
 
-“You were standing next to him.”
+The detective leaned back eventually.
 
-“I don't know him.”
+"You're a young man, Connor. You need to start thinking very carefully about how much of your life you want to lose over other people."
 
-“I didn't say you did.”
+There it was again.
 
-There was something in the way he said it that made Connor want to make the point again.
+His life, converted into something measurable.
 
-“I literally just got here.”
+Years.
 
-“All right, mate.”
+Chunks.
 
-The lad held up one hand.
+The interview ended without Connor feeling that anything had actually ended.
 
-Connor felt stupid.
+He went back to the cell carrying more fear than he'd taken into the room.
 
-He had been inside less than an hour and was already defending himself against accusations nobody had made.
+---
 
-The lad wandered off.
+Court moved quickly once the important bit arrived.
 
-Connor stared at the floor.
+Before that there was waiting.
 
-Grey tiles. Scratches. A dark mark by the skirting board. One small piece of blue plastic that had probably been there for months.
+Waiting in a cell.
 
-He tried to focus on ordinary things.
+Waiting for a solicitor.
 
-His mum would be home by now.
+Waiting for a barrister Connor had met for approximately six minutes to discuss decisions that seemed capable of swallowing his twenties.
 
-That thought arrived suddenly and hit harder than the court result had.
+Waiting to be called.
 
-Home would still look exactly the same.
+Waiting while people spoke about him in a language that was technically English but seemed designed to prevent defendants understanding their own lives.
 
-The mug he used would still be beside the sink.
+Then somebody said the word *remanded*.
 
-His charger would still be plugged into the wall by the sofa.
+Connor looked at his barrister.
 
-There was probably milk in the fridge that he'd bought.
+He knew what the word meant.
 
-The world hadn't rearranged itself because Connor had gone to prison.
+He just wanted it to mean something different this time.
 
-It had simply carried on without him.
+"So I'm not going home?" he whispered.
 
-He swallowed.
+The barrister turned slightly.
 
-Not here.
+"Not today."
 
-He wasn't crying here.
+Not today.
 
-Absolutely not.
+It was such a small sentence.
 
-A man somewhere down the corridor shouted something unintelligible.
+It broke something enormous.
 
-Somebody else shouted back.
+Until then Connor had preserved a private version of events in which all of this was temporary.
 
-An officer said, “Pack it in.”
+Police station temporary.
 
-Then everything became quiet again.
+Court temporary.
 
-Connor exhaled slowly.
+Handcuffs temporary.
 
-When he looked up, Craig was sitting two chairs away.
+Someone would eventually open a door and he would walk back into his own life.
 
-Connor hadn't seen him move there.
+Instead, he was taken downstairs.
 
-Craig was reading a laminated notice fixed to the opposite wall.
+The door closed behind him.
 
-It had approximately two hundred words on it and Connor doubted anybody had ever read all of them.
+Home continued without him.
 
-Craig seemed determined to become the first.
+---
+
+The prison van had tiny windows.
+
+That seemed crueler than having no windows at all.
+
+No window would have allowed Connor to imagine nothing was out there.
+
+A tiny window gave him glimpses.
+
+A road he knew.
+
+A petrol station.
+
+A row of houses.
+
+A bloke walking a dog.
+
+Traffic lights.
+
+People carrying shopping.
+
+The normal world appeared in fragments and vanished again.
+
+At one point they passed close enough to an area Connor knew that he recognised a turning.
+
+He leaned towards the little pane.
+
+For a second, he knew exactly where he was.
+
+He could have told the driver which lane moved quicker.
+
+He knew where the nearest chicken shop was. Knew a girl who lived three streets over. Knew which pub had a pool table and which alley always stank because the bins were never collected properly.
+
+And none of that knowledge was useful anymore.
+
+The van kept moving.
+
+Connor sat back.
+
+*Fifteen years.*
+
+His solicitor had never told him he was getting fifteen years.
+
+His barrister had not told him he was getting fifteen years.
+
+Even the detective had not actually told him he was getting fifteen years.
+
+But Connor had assembled fifteen years from tone, fear, half-heard possibilities and every prison story anyone had ever told him.
+
+He did the maths.
+
+Then did it differently.
+
+Then tried to remember things he'd heard about release dates and sentences and licences, none of which he understood properly.
+
+Perhaps ten.
+
+Maybe eight.
+
+Then his brain returned faithfully to fifteen.
+
+By the time the van reached Lewes, Connor had been sentenced in his imagination six different ways.
+
+Years later, he would understand how often fear did that in prison: took an unanswered question and supplied the worst answer available.
+
+But he did not know that yet.
+
+He only knew that he was young and frightened and being driven towards a prison that looked as if it had been waiting for him since before his great-grandparents were born.
+
+The first proper glimpse of Lewes shut him up inside his own head.
+
+Old walls.
+
+Stone and flint and brick.
+
+A place built in another century still doing exactly what it had been built to do.
+
+Connor had seen prisons on television.
+
+They were always strangely clean in his memory. Long corridors. Shiny floors. Doors arranged neatly for the camera.
+
+This was different.
+
+Lewes looked old because it was old.
+
+Not abandoned-old.
+
+Worse.
+
+Working-old.
+
+Generations of men had arrived here frightened, angry, drunk, withdrawing, innocent, guilty, confident, broken, swearing they would never return and sometimes returning anyway.
+
+Connor did not find that comforting.
+
+He found it terrifying.
+
+The van went through the entrance procedure and the outside world disappeared.
+
+That was the first moment Connor understood a prison could swallow a vehicle.
+
+---
+
+Reception returned him to waiting.
+
+Prison, Connor would learn, contained an extraordinary amount of waiting for a place obsessed with controlling time.
+
+Stand there.
+
+Wait here.
+
+Move.
+
+Stop.
+
+Name.
+
+Date of birth.
+
+Wait again.
+
+His confidence had been shrinking all day, but he was still trying to preserve the appearance of it.
+
+Chin up.
+
+Don't stare.
+
+Don't look scared.
+
+Don't look *too* not-scared either because that probably looked scared.
+
+He was still trying to solve this impossible face when a woman officer stepped in front of him.
+
+She was broad-shouldered, older than Connor's mum and had the expression of someone who had met ten thousand young men who believed their personality required special handling.
+
+Connor straightened without meaning to.
+
+"Name?"
+
+"Connor Blake."
+
+"Look at me when I'm talking to you."
+
+He looked at her.
+
+Immediately too intensely.
+
+She frowned.
+
+Connor adjusted to what he hoped was a normal amount of eye contact.
+
+"You listen when staff speak to you. You follow instructions. You don't start trying to impress people. You don't create problems, and we won't have problems. Understand?"
+
+"Yeah."
+
+"Yes, miss."
+
+"Yes, miss."
+
+"Good."
+
+Connor felt about nine years old.
+
+Two prisoners stood nearby in prison clothes.
+
+They were there in some kind of peer-worker role, helping with new arrivals, but Connor barely registered the purpose.
+
+He registered the size of them.
+
+One had a neck like a tree stump.
+
+The other had forearms Connor suspected had been assembled separately and attached later.
+
+Both looked calm.
+
+That somehow made them worse.
+
+Connor's mind immediately promoted them to the most dangerous men in Sussex.
+
+Lifers, he decided.
+
+They had to be lifers.
+
+Nobody got that comfortable inside unless they had forgotten what outside looked like.
+
+One of them noticed Connor staring.
+
+Connor looked away so fast he nearly gave himself neck pain.
+
+The officer saw it.
+
+"Connor."
+
+He looked back at her.
+
+"I said look at me."
+
+"I am."
+
+"Then keep doing it."
+
+"Yes, miss."
+
+Behind her, one of the big prisoners smiled.
+
+Not cruelly.
+
+That was almost more embarrassing.
+
+Connor had the horrible suspicion he was being found adorable.
+
+He was led through another door.
+
+Then another.
+
+The building seemed constructed entirely from doors designed to prove he could not open them himself.
+
+A key turned somewhere behind him.
+
+Metal moved.
+
+A gate shut.
+
+The sounds were different in here.
+
+Harder.
+
+Everything bounced off walls and came back changed: voices, keys, shoes, distant shouting, a laugh from somewhere Connor could not see.
+
+He tried to remember all of it at once.
+
+Which officer had said what.
+
+Which direction they had walked.
+
+Where the exit might be.
+
+Where the toilets were.
+
+Who had looked at him.
+
+Whether the two huge prisoners were still behind him.
+
+He knew none of this mattered, but his brain was collecting details because details felt like control.
+
+Eventually he was taken into a holding room.
+
+Cell room, Connor called it in his head.
+
+There were benches along the wall and several prisoners already inside.
+
+Some looked up.
+
+Some did not.
+
+Connor stepped through the door and immediately became aware that he did not know where to sit.
+
+That was his first prison problem.
+
+Not violence.
+
+Not gangs.
+
+A chair.
+
+He chose a space near the end of a bench and sat down.
+
+Nobody objected.
+
+Small victory.
+
+Then a man opposite him shifted his legs.
+
+Connor looked up.
+
+He would remember afterwards that there was nothing dramatic about Craig at first glance.
+
+He wasn't the biggest man in the room.
+
+He wasn't pacing.
+
+He wasn't staring people down.
+
+He was simply sitting there, elbows on his knees, looking as bored as though he'd been delayed at a train station.
 
 Connor looked away.
 
-“You all right?” Craig said.
+Then looked back.
 
-Connor looked back.
+Something was happening around the man.
 
-“Yeah.”
+Not *to* him.
 
-Craig nodded.
+Around him.
 
-Connor waited.
+One prisoner had gone quiet.
 
-Nothing else came.
+Another looked across and then immediately found something interesting on the floor.
 
-“Are you?” Connor asked, because silence made him nervous.
+A third leaned towards the man beside him.
 
-Craig looked at him.
+Connor could not hear the first whisper.
 
-Then he smiled slightly.
+He heard the reply.
 
-“I'm in prison.”
+"Serious?"
 
-Connor wasn't sure how to answer that.
+A nod.
 
-Craig returned his attention to the notice.
+Connor glanced at the bored man again.
 
-After a moment he added, “Other than that, can't complain.”
+The bored man noticed.
 
-Connor laughed before he could stop himself.
+Their eyes met.
 
-It was the first normal sound he had made all day.
+Connor looked away first.
 
-Craig glanced at him, the smile still there, then looked away again.
+Of course he did.
 
-That was it.
+He had been in prison for roughly fifteen minutes and had already failed at looking normal, eye contact and choosing a seat without conducting a risk assessment.
 
-A pointless little conversation between two men waiting to be processed.
+Somebody near the door whispered a name.
 
-Connor would think about it later and wonder why it mattered.
+"Craig."
 
-At the time, all it did was make him feel slightly less terrified.
+Connor kept his eyes down.
 
-Another door opened.
+There was a pause.
 
-A prisoner pushing a laundry trolley came through, talking to an officer behind him.
+Then, quieter still:
 
-He looked across the room.
-
-Saw Craig.
-
-Stopped pushing.
-
-Not for long. Barely a second.
-
-But Connor saw it.
-
-The man leaned towards somebody beside the counter.
-
-“Oi,” he whispered.
-
-The other prisoner turned.
-
-The laundry man nodded in Craig's direction.
-
-Connor couldn't hear the first few words.
-
-He heard the last three clearly.
-
-“Craig's in here.”
-
-The second man looked immediately.
-
-Connor looked at Craig too.
-
-Craig was still reading the notice.
-
-Either he hadn't heard them or he didn't care.
-
-Connor had the strange feeling that everybody in reception knew something except him.
-
-He looked towards the young lad with the water.
-
-The lad was already watching Craig.
-
-So was the shaved-headed man.
-
-Even one of the orderlies had found a reason to stay near the counter.
-
-Connor felt the tiny hairs rise on his arms.
-
-He leaned back in the plastic chair and told himself not to get involved in anything.
-
-That would be his rule.
-
-A simple rule.
-
-He would keep his head down, do whatever he had to do, get through the case and go home.
-
-No politics.
-
-No drama.
-
-No getting involved in other people's problems.
-
-Across the room, Craig finally gave up on the laminated notice.
-
-He folded his arms and closed his eyes.
-
-Behind him, almost too quietly for Connor to hear, somebody said:
-
-“That's him.”
+"Craig's here."
