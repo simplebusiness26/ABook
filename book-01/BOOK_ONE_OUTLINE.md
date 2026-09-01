@@ -18,6 +18,16 @@ We will use reliable public sources for stable facts and period-specific researc
 
 The present HMP Lewes is **nineteenth-century, not eighteenth-century**: it was built in the early 1850s and first used in 1853.
 
+## Emotional promise
+
+Book One should not begin with Connor already adapted to prison. The reader must travel with him through the entire emotional collapse of normal life:
+
+home and confidence → armed arrest → police cell → interview pressure → court uncertainty → remand → prison transport → first sight of Lewes → reception/induction → first night.
+
+Connor is already involved in crime, but that must not make him emotionally prepared for prison. The opening should show the gap between **thinking you are part of the criminal world** and suddenly facing the possibility of losing years of your life.
+
+During remand Connor repeatedly imagines the worst possible sentence. He hears frightening figures and convinces himself he may receive around fifteen years. Much later he receives five years, but the reader should feel the uncertainty before that outcome exists.
+
 ## What Book One is really about
 
 On the surface, Connor enters prison, meets a feared man called Craig, intervenes when trouble reaches him and becomes part of Craig's orbit.
@@ -40,16 +50,40 @@ The book **does not reveal the origin of Craig and Big Sharky's feud**. That bel
 # ACT I — EVERYBODY HEARS THE NAME
 
 ## 1 — CONNOR
-Connor arrives at HMP Lewes for the first time after a robbery case. Before the prison politics even begin, the building itself gets to him: an old prison whose history is visible in its walls and entrance, daunting precisely because it has been receiving frightened men for generations.
+The novel opens **before prison**.
 
-Reception is intimidating, boring and strangely ordinary all at once. Another new arrival causes a subtle change in the atmosphere.
+Connor is at home late at night with several of his runners/friends around him. He is involved in a cannabis line and still feels socially confident inside the life he has chosen. He finishes the last of a joint, kicks off his shoes and assumes the night is winding down.
 
-Connor first hears the name **Craig**.
+Then everything changes: armed police arrive.
 
-**End beat:** somebody farther down reception says, “That's him.”
+Connor panics and throws the cannabis he has nearby and the phone associated with his drug business from the window. The scene is written as confused instinct and fear, not as a lesson in avoiding evidence. The drug material does not become part of the case he ultimately faces; the robbery does.
+
+We stay with Connor through the emotional descent:
+
+- the sudden loss of control during arrest;
+- the silence and overthinking of the police holding cell;
+- replaying the robbery and wondering which part of the case has collapsed around him;
+- a forceful interview in which the detective makes the possible consequences feel enormous;
+- solicitor/barrister conversations that Connor only half understands because he is listening for numbers;
+- court;
+- the moment he realises he is not going home and has been remanded.
+
+On the prison transport to Lewes, Connor passes familiar parts of his old world and experiences the surreal feeling of seeing ordinary streets from inside custody. He catastrophises about sentence length: ten years, twelve, fifteen — perhaps longer in his frightened imagination. He thinks about what police said, what his solicitor said, what his barrister said, and interprets every uncertainty as the worst possible outcome.
+
+When Lewes finally appears, the old prison feels far more intimidating than anything Connor imagined from films. Its age matters: generations of men have arrived frightened before him, but that thought offers no comfort.
+
+Inside reception/induction, an imposing female officer immediately identifies him as young and inexperienced and lays down expectations firmly. Connor is told to keep his attention on her while she speaks. Nearby are two prisoner peer-workers/orderlies who look enormous and experienced to Connor; he assumes the worst about them because fear is making everyone look more dangerous than they may actually be.
+
+Connor is taken onward into the reception holding/cell area.
+
+That is where he first sees **Craig**.
+
+Craig is not introduced with exposition. Connor simply notices that the atmosphere around one man is different and that other prisoners are looking without wanting to be seen looking.
+
+**End beat:** somebody quietly says, “Craig's here.”
 
 ## 2 — MASON
-Older repeat prisoner Mason knows every small rhythm of reception. He recognises Craig's name and notices prisoners watching him without trying to look as though they are watching him.
+Older repeat prisoner Mason sees the same arrivals completely differently. What terrified Connor is routine to him. He recognises Craig's name and notices prisoners watching him without trying to look as though they are watching him.
 
 Mason establishes the first rule of this world: **reputation travels faster than people**.
 
@@ -61,12 +95,12 @@ She is initially irritated by the mythology surrounding him.
 ## 4 — CONNOR
 First-night procedures, cell allocation, strange noises through doors, bravado disappearing when Connor is alone. A call home makes prison suddenly real.
 
-Craig briefly speaks to him. Connor is surprised by how normal he seems.
+Connor has his first actual conversation with Craig and is surprised by how normal he seems compared with the reaction his name produces.
 
 ## 5 — MALIK
 Malik hears fragments: Craig has arrived; people outside care; somebody may be willing to pay serious money for somebody to hurt him.
 
-Malik initially treats it as exaggerated wing gossip.
+Malik initially treats it as exaggerated prison gossip.
 
 ## 6 — JAY
 Jamal “Jay” Cole hears the same rumour inside his own friendship network. His group is predominantly Black and has strong neighbourhood connections outside, but Jay is immediately wary of letting somebody else's feud turn his people into disposable soldiers.
@@ -325,12 +359,13 @@ Craig and Big Sharky's eventual meeting becomes one of Book Two's major engines.
 
 # Drafting rules still to lock
 
-1. Connor's exact age, background and robbery circumstances.
-2. Craig's age, case and sentence.
-3. Leah and Bennett's exact ages/backgrounds.
-4. Big Sharky's real name and origin of nickname.
-5. The true Craig/Big Sharky backstory — known to us before Book Two is drafted, but withheld from Book One readers.
-6. **Book One's exact year/time period**, so Lewes facts can be researched accurately for that period.
-7. Which publicly documented parts of Lewes are useful to the story, and which lived details the creator wants to add from experience.
-8. Which secondary characters are likely to transfer with, before or after Craig so later reunions feel earned.
-9. Which Book One characters have enough life to lead their own future books.
+1. Connor's exact age.
+2. Exact robbery circumstances and evidence against Connor.
+3. Craig's age, case and sentence.
+4. Leah and Bennett's exact ages/backgrounds.
+5. Big Sharky's real name and origin of nickname.
+6. The true Craig/Big Sharky backstory — known to us before Book Two is drafted, but withheld from Book One readers.
+7. **Book One's exact year/time period**, so Lewes facts can be researched accurately for that period.
+8. Which publicly documented parts of Lewes are useful to the story, and which lived details the creator wants to add from experience.
+9. Which secondary characters are likely to transfer with, before or after Craig so later reunions feel earned.
+10. Which Book One characters have enough life to lead their own future books.
