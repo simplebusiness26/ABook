@@ -8,7 +8,7 @@ That was how quickly a person could adjust to anything.
 
 Three days earlier the doors, shouting, keys and endless instructions had felt impossible. Now he knew which noises mattered and which ones could be ignored. He knew roughly when food appeared. He knew which officer would answer a question properly and which one would answer it while already walking away.
 
-He even knew where the toilets were.
+He even knew where the showers were.
 
 Progress.
 
