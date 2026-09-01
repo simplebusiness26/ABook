@@ -5,15 +5,20 @@ These notes record story-world and prison-life details supplied directly by the 
 ## Connor opening sequence
 
 - Connor is already involved in crime before prison and runs a cannabis line using runners.
-- Opening night: Connor is at home with several runners/friends, relaxing as the night winds down.
+- Opening night: Connor is at home with several runners/friends, relaxing as the night winds down after spending the day working his line.
+- **Critical continuity rule:** before the armed police arrive, Connor does **not** believe he has an active robbery case and does not have a solicitor dealing with it. He believes he got away with the robbery because time has passed and nothing happened.
+- The robbery can exist only as an occasional buried memory before the raid. It is not what he is consciously worrying about while sitting at home.
 - He finishes the last of a joint and kicks his shoes off immediately before armed police arrive.
 - In panic, Connor throws a bag containing roughly nine ounces of cannabis and the phone associated with the drug line out of the window.
 - The drug material does not become part of the criminal case he ultimately faces; the robbery is the case that puts him on remand.
+- **The word “robbery” during the arrest is the trigger that brings the old robbery crashing back into Connor's mind and tells him what the police have actually come for.**
+- Only after arrest/custody does a solicitor become part of Connor's robbery case.
 - The scene should show the instant transition from confidence/normality to loss of control, not teach evidence-avoidance techniques.
 
 ## Police custody / court emotion
 
-- Connor spends time in a holding cell replaying what happened and thinking about the robbery case.
+- Connor spends time in a holding cell replaying what happened and, now that he knows why he was arrested, obsessively thinking about the robbery.
+- The emotional contrast matters: immediately before the raid the robbery was barely in his conscious mind; immediately afterwards it becomes almost impossible for him to think about anything else.
 - Interview should feel psychologically intimidating from Connor's perspective. A forceful detective makes the possible consequences feel huge.
 - Connor hears frightening sentence estimates and possibilities from different people and fixates on the worst numbers.
 - Court ends with Connor being remanded rather than released.
