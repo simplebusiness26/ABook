@@ -18,21 +18,35 @@ Craig remains the major exception: he is central to Book One but receives **no P
 
 ## Connor — primary Book One POV
 
+**Age at arrest:** 21.
+
 **Function:** Reader's doorway into HMP Lewes and prison generally.
 
-Connor is young, inexperienced in prison and already involved in crime before Book One begins. He has a small cannabis line and runners working for him, but the case that puts him into custody is a robbery. On the night of his arrest he is at home with some of the people around him when armed police arrive. In panic he throws a bag of cannabis and the phone used for his drug business out of the window. The drug material does not become part of the case he ultimately faces; the robbery does.
+Connor comes from a rough, single-parent household where money has always been tight. He has a mum, brothers, a sister and a particularly young little brother. Part of the story Connor tells himself about his criminal life is that he is helping his family: he wants his brothers and siblings to have things he did not have and does not want his mum carrying every financial burden alone.
 
-He is therefore not an innocent boy accidentally dropped into prison. He has been making increasingly serious choices and believes he understands the criminal world. What he does **not** understand is prison, long sentences, institutional life or how quickly other people's reputations can become his problem.
+That motive does not erase his choices. By twenty-one he is already involved in crime, runs a cannabis line and has younger runners around him. He has begun to confuse providing for people with being successful and being needed with being powerful.
 
-After arrest, custody and interview, Connor is remanded. During the journey to HMP Lewes he catastrophises about the sentence he might receive, replaying the worst figures mentioned by police, solicitors and barristers and convincing himself he may lose a huge part of his life. Much later he receives a five-year sentence, but Book One should preserve the important emotional truth that he cannot know that during remand.
+Connor also has a girlfriend when he enters custody. At first she represents part of the outside life he expects to return to. During his imprisonment she cheats on him. That betrayal becomes part of Connor learning that prison does not freeze the outside world in place. His deepest homesickness, however, is for his mum, his brothers, his sister and especially his little brother.
 
-**Book One movement:** confident young offender at home → frightened defendant → first-time remand prisoner → observer → makes a consequential choice → becomes associated with Craig → gains status → discovers that loyalty and reputation both carry a price.
+### The case that brings him to Lewes
 
-**Strengths:** instinctive loyalty, empathy, ability to notice people, social confidence outside prison.
+The offence is an **aggravated burglary**. Watches are stolen and the victim's Mercedes C63 AMG is taken. The car is later recovered.
 
-**Weaknesses:** naïve about prison, eager not to look weak, sometimes acts before understanding what he is stepping into, overestimates how much he understands criminal life.
+During the burglary Connor cuts a finger. He notices the cut afterwards but never connects it to the offence and does not realise that he has left blood in the recovered car. Time passes without an arrest, so he gradually convinces himself that he got away with the burglary.
 
-**Central emotional contradiction:** Connor entered custody believing he was already a criminal. Lewes makes him realise how young and unprepared he actually is.
+On the night Book One opens, Connor is at home after spending the day working his cannabis line. Armed police arrive. Until he hears that they have come about the burglary, it has been pushed into the back of his mind.
+
+After arrest, his solicitor tells him that blood recovered from the car has been attributed to him. Connor suddenly remembers the cut and realises that the tiny injury he had dismissed is the thing linking him to the offence. The emotional effect matters more than forensic procedure: until that conversation he can still imagine the police may be fishing; afterwards the case feels real.
+
+After custody and interview, Connor is remanded. During the journey to HMP Lewes he catastrophises about the sentence he might receive, replaying frightening figures and convincing himself he may lose a huge part of his life. Much later he receives a five-year sentence, but Book One should preserve the emotional truth that he cannot know that during remand.
+
+**Book One movement:** confident twenty-one-year-old provider/offender at home → armed arrest → frightened defendant → first-time remand prisoner → misses and worries about family → outside relationship begins to deteriorate → observer → makes a consequential choice → becomes associated with Craig → gains status → discovers that loyalty and reputation both carry a price.
+
+**Strengths:** instinctive loyalty, empathy, ability to notice people, strong attachment to family, social confidence outside prison, willingness to provide for people he loves.
+
+**Weaknesses:** naïve about prison, eager not to look weak, sometimes acts before understanding what he is stepping into, overestimates how much he understands criminal life, uses good intentions toward family to justify increasingly serious choices.
+
+**Central emotional contradiction:** Connor entered custody believing crime had made him capable of looking after everyone else. Lewes makes him realise how young and powerless he can still be — while his family continues living without him.
 
 ## Craig — central mystery, NEVER POV in Book One
 
