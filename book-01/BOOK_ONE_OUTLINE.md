@@ -2,11 +2,21 @@
 
 **Working title:** *Big Shark in a Creek*
 
-**Primary location:** fictional local/remand prison **HMP Greybank**.
+**Primary location:** **HMP Lewes**, East Sussex — a real Category B reception/resettlement prison with a Victorian core dating from the early 1850s.
 
 **Target:** approximately 90,000–105,000 words.
 
 **Structure:** roughly 36 chapters, usually 2,300–3,200 words each. Chapter titles are POV names. Connor has the largest share. Craig never receives a POV chapter.
+
+## Setting promise
+
+Lewes is not just a name on the gate. The prison itself should become a character in Book One.
+
+The old Victorian fabric, high walls, flint, brick and stone, institutional corridors, newer additions beside older buildings, noise, waiting, locked doors, weather, views, routines and the contrast between a historic prison and ordinary modern life outside should all affect the atmosphere.
+
+We will use reliable public sources for stable facts and period-specific research for anything that may change. Lived details supplied by the creator should be recorded separately from public research so fiction and fact do not blur accidentally.
+
+The present HMP Lewes is **nineteenth-century, not eighteenth-century**: it was built in the early 1850s and first used in 1853.
 
 ## What Book One is really about
 
@@ -20,7 +30,7 @@ The central suspense questions are:
 
 - Who is Craig really?
 - Why is there money on his head?
-- Who is Big Sharky and why does he care that Craig has landed at Greybank?
+- Who is Big Sharky and why does he care that Craig has landed at Lewes?
 - What will Connor become after choosing to stand beside Craig?
 
 The book **does not reveal the origin of Craig and Big Sharky's feud**. That belongs to Book Two, after Craig reaches the dispersal system.
@@ -30,7 +40,9 @@ The book **does not reveal the origin of Craig and Big Sharky's feud**. That bel
 # ACT I — EVERYBODY HEARS THE NAME
 
 ## 1 — CONNOR
-Connor arrives at Greybank for the first time after a robbery case. Reception is intimidating, boring and strangely ordinary all at once. Another new arrival causes a subtle change in the atmosphere.
+Connor arrives at HMP Lewes for the first time after a robbery case. Before the prison politics even begin, the building itself gets to him: an old prison whose history is visible in its walls and entrance, daunting precisely because it has been receiving frightened men for generations.
+
+Reception is intimidating, boring and strangely ordinary all at once. Another new arrival causes a subtle change in the atmosphere.
 
 Connor first hears the name **Craig**.
 
@@ -62,14 +74,14 @@ Jamal “Jay” Cole hears the same rumour inside his own friendship network. Hi
 The chapter shows that group identity, friendship, race and outside loyalty overlap without being the same thing.
 
 ## 7 — TOM BENNETT
-Officer Tom Bennett starts an ordinary shift carrying an extraordinary private problem. A prisoner-linked network already has leverage over him and is pressuring him to bring contraband packages into Greybank.
+Officer Tom Bennett starts an ordinary shift carrying an extraordinary private problem. A prisoner-linked network already has leverage over him and is pressuring him to bring contraband packages into Lewes.
 
 He tells himself he can contain the situation.
 
 ## 8 — BIG SHARKY
-For the first time the book leaves Greybank.
+For the first time the book leaves Lewes.
 
-Big Sharky is already housed in a dispersal/high-security prison. He receives word that Craig has landed at Greybank.
+Big Sharky is already housed in a dispersal/high-security prison. He receives word that Craig has landed at HMP Lewes.
 
 We learn almost nothing about their history. What matters is his reaction: calm, immediate and personal.
 
@@ -82,29 +94,29 @@ Bruce enters the story: small, skinny, ginger, permanently appearing from nowher
 
 His tuna-tin mythology is introduced through other prisoners' stories rather than a graphic scene.
 
-Bruce hears Craig is on the wing and finds the situation more amusing than frightening.
+Bruce hears Craig is at Lewes and finds the situation more amusing than frightening.
 
 ---
 
 # ACT II — ONE PRISON, TEN DIFFERENT WORLDS
 
 ## 10 — CONNOR
-Connor begins learning the wing: where people gather, how quickly gossip moves, why harmless questions can expose a newcomer.
+Connor begins learning Lewes: where people gather, how quickly gossip moves, why harmless questions can expose a newcomer, and how an old building changes when doors close behind you.
 
 He notices groups forming naturally — some mostly Black, some mostly white, some mixed — while friendship and everyday prison life constantly cross those lines.
 
 ## 11 — DARREN
 Darren's prison revolves around addiction. Craig's reputation is almost irrelevant to him until the increased tension begins affecting debts, availability and who is willing to deal with whom.
 
-The reader sees an entirely different Greybank.
+The reader sees an entirely different Lewes.
 
 ## 12 — DEANO
-Dean “Deano” Walsh sees the wing through another social group. His circle is mostly white and initially regards the Craig problem as something happening elsewhere.
+Dean “Deano” Walsh sees the prison through another social group. His circle is mostly white and initially regards the Craig problem as something happening elsewhere.
 
 Then money enters the story. Suddenly neutrality has a price.
 
 ## 13 — LEAH MERCER
-Leah watches Craig on the wing and realises the man in front of her does not neatly match either the frightening reports or the heroic stories prisoners tell.
+Leah watches Craig and realises the man in front of her does not neatly match either the frightening reports or the heroic stories prisoners tell.
 
 Her curiosity begins here — not romance yet, simply an uncomfortable desire to understand him.
 
@@ -135,7 +147,7 @@ Malik confirms the reward on Craig is real enough that multiple people are discu
 His problem changes: knowing about the money once gave him status; now it makes him vulnerable.
 
 ## 18 — JAY
-Outside associates expect Jay's circle to help. Jay has to weigh loyalty to people outside against the reality that they will not be the ones serving the consequences inside Greybank.
+Outside associates expect Jay's circle to help. Jay has to weigh loyalty to people outside against the reality that they will not be the ones serving the consequences inside Lewes.
 
 He does not want to attack Craig himself, but he cannot control everybody who has heard the figure being offered.
 
@@ -147,9 +159,9 @@ Craig gives Connor one piece of advice: being close to somebody with a reputatio
 ## 20 — MACCA
 Macca's chapter barely cares about prison politics. His partner is struggling outside and his child has started asking why he is never home.
 
-The Craig situation intrudes only because lockdowns, tension and staff attention interfere with the small routines Macca depends on.
+The Craig situation intrudes only because disruption, tension and staff attention interfere with the small routines Macca depends on.
 
-The point is clear: **the biggest story on the wing is not the biggest story in every prisoner's life.**
+The point is clear: **the biggest story in the prison is not the biggest story in every prisoner's life.**
 
 ## 21 — BRUCE
 Bruce notices unusual conversations, people temporarily forgetting old grudges and men hovering where they normally would not.
@@ -172,7 +184,7 @@ The scene is tense but not graphic. The defining event is **Connor's decision**.
 **End beat:** afterwards Connor looks around and realises the entire social meaning of his sentence has changed because people saw what he did.
 
 ## 23 — LEAH MERCER
-The staff-side aftermath looks nothing like the story already spreading through the wing.
+The staff-side aftermath looks nothing like the story already spreading among prisoners.
 
 Leah deals with separation, conflicting accounts, risk decisions and the reality that Connor has now been reclassified in everybody's mind.
 
@@ -191,17 +203,17 @@ Connor becomes, informally, Craig's right-hand companion while Craig awaits sent
 Connor likes the status more than he admits.
 
 ## 26 — DEANO
-Deano sees the failed attempt reshuffle relationships on the wing. Some men suddenly want distance from the money; others see the failure as unfinished business.
+Deano sees the failed attempt reshuffle relationships. Some men suddenly want distance from the money; others see the failure as unfinished business.
 
 Deano and Jay have a conversation that would surprise Connor: two men from different groups trying to stop another man's conflict swallowing their own people.
 
 ## 27 — DARREN
-The fallout hits Darren's world. Debts move, people become nervous and his dependency puts him in the path of people using weaker prisoners to carry messages and pressure.
+The fallout hits Darren's world. Debts move, people become nervous and his dependency puts him in the path of people using weaker prisoners for messages and pressure.
 
 Darren gets an opportunity to step away from one bad pattern — but taking it costs him something immediately.
 
 ## 28 — MALIK
-Malik learns that the order did not originate at Greybank. The name **Big Sharky** becomes more concrete.
+Malik learns that the order did not originate at Lewes. The name **Big Sharky** becomes more concrete.
 
 He still does not know the whole history. What he understands is worse: Craig's problem will follow him from prison to prison.
 
@@ -213,7 +225,7 @@ Then he overreaches. A minor disagreement nearly becomes serious because somebod
 Craig makes Connor fix his own mistake rather than rescuing him.
 
 ## 30 — MASON
-Mason sees Connor becoming whatever identity Greybank is handing him.
+Mason sees Connor becoming whatever identity prison is handing him.
 
 He warns Connor that prison gives young men characters to play and then keeps them in costume long after the performance stops being useful.
 
@@ -242,7 +254,7 @@ He must decide whether to keep compromising himself, seek help and risk exposure
 His arc remains unresolved enough to continue into another book if needed.
 
 ## 33 — BIG SHARKY
-Big Sharky learns the Greybank attempt failed.
+Big Sharky learns the Lewes attempt failed.
 
 He is not furious in the theatrical way people expect. His calm makes him more unsettling.
 
@@ -259,7 +271,7 @@ Jay deals with the consequences of refusing to let outside people dictate every 
 
 This chapter reinforces that “the Black lads,” “the white lads” or any other label hides individual arguments, friendships and ambitions.
 
-Jay also realises Craig leaving Greybank may solve one problem while carrying a much larger one elsewhere.
+Jay also realises Craig leaving Lewes may solve one problem while carrying a much larger one elsewhere.
 
 ## 35 — CONNOR
 Craig receives a major sentence.
@@ -271,23 +283,23 @@ Connor asks the question the reader wants answered: what exactly happened betwee
 Craig gives him only enough of an answer to make the mystery bigger.
 
 ## 36 — CONNOR
-Craig leaves Greybank.
+Craig leaves HMP Lewes.
 
-Connor watches the departure and realises the wing already feels different. People immediately begin rewriting what happened, turning recent events into legend.
+Connor watches the departure and realises the prison already feels different. People immediately begin rewriting what happened, turning recent events into legend.
 
 Around him, everybody returns to their own prison:
 - Darren faces his next choice;
 - Leon trains;
 - Macca waits for a call;
-- Jay and Deano manage their people;
+- Jay and Deano manage their relationships;
 - Bennett turns up for another shift carrying a secret;
-- Leah watches a space on the wing where Craig used to be;
+- Leah notices Craig's absence;
 - Mason returns to routine;
 - Bruce appears somewhere he absolutely should not be.
 
 Connor is no longer the frightened newcomer from Chapter One. He is not sure whether that is a victory.
 
-**Final sequence:** at another establishment, Craig arrives in the dispersal system.
+**Final sequence:** at another real establishment in the dispersal system, Craig arrives.
 
 For the first time in the series, the next book can open with the chapter heading the reader has been denied all novel:
 
@@ -299,12 +311,12 @@ For the first time in the series, the next book can open with the chapter headin
 
 Book Two opens inside Craig's head for the first time.
 
-The world becomes larger and more dangerous because Craig is now in the dispersal system — the same network in which Big Sharky already lives.
+The world becomes larger because Craig is now in the dispersal system — the same network in which Big Sharky already lives.
 
 The reader can finally discover the difference between:
 
 - what Connor believed about Craig;
-- what Greybank believed about Craig;
+- what people at Lewes believed about Craig;
 - what Leah believed about Craig;
 - what Big Sharky believes Craig did;
 - and what actually happened.
@@ -318,6 +330,7 @@ Craig and Big Sharky's eventual meeting becomes one of Book Two's major engines.
 3. Leah and Bennett's exact ages/backgrounds.
 4. Big Sharky's real name and origin of nickname.
 5. The true Craig/Big Sharky backstory — known to us before Book Two is drafted, but withheld from Book One readers.
-6. Greybank's internal geography and which characters live/work on which wing.
-7. Which secondary characters are likely to transfer with, before or after Craig so later reunions feel earned.
-8. Which Book One characters have enough life to lead their own future books.
+6. **Book One's exact year/time period**, so Lewes facts can be researched accurately for that period.
+7. Which publicly documented parts of Lewes are useful to the story, and which lived details the creator wants to add from experience.
+8. Which secondary characters are likely to transfer with, before or after Craig so later reunions feel earned.
+9. Which Book One characters have enough life to lead their own future books.
