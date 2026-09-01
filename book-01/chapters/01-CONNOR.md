@@ -46,7 +46,7 @@ Now he was tired.
 
 That was all he was thinking about.
 
-The robbery was not a *case* in Connor's mind.
+The burglary was not a *case* in Connor's mind.
 
 Not yet.
 
@@ -156,9 +156,9 @@ Another was speaking to the others.
 
 Connor heard his own name.
 
-Then the word *robbery*.
+Then the words *aggravated burglary*.
 
-The robbery came back into his mind all at once.
+The burglary came back into his mind all at once.
 
 Not as a memory anymore.
 
@@ -172,7 +172,7 @@ They were there for the thing he had decided was finished simply because nobody 
 
 For one stupid second his mind produced the thought: *How do they even know?*
 
-Then another voice said *robbery* again, and whatever little story Connor had told himself about getting away with it disappeared.
+Then somebody said the words again, and whatever little story Connor had told himself about getting away with it disappeared.
 
 ---
 
@@ -192,13 +192,17 @@ Reece's hands going up.
 
 The officer saying his name.
 
-*Robbery.*
+*Aggravated burglary.*
 
-Now that somebody else had said the word, Connor could not stop thinking about it.
+Now that somebody else had said it out loud, Connor could not stop thinking about it.
 
 The whole thing he had spent weeks treating as old news was suddenly the only thing in the world.
 
-He tried to remember who had said what afterwards. Who knew what. Who might have been arrested as well. Whether somebody had spoken. Whether there was CCTV he didn't know about. Whether police had messages. How long they had been looking at him while he carried on living as though nothing was happening.
+The watches.
+
+The Mercedes.
+
+Who knew what. Who might have been arrested as well. Whether somebody had spoken. Whether there was CCTV he didn't know about. How long the police had been looking at him while he carried on living as though nothing was happening.
 
 Every possibility became evidence in his head.
 
@@ -226,23 +230,31 @@ Nobody ever said *let's go through it properly* before telling you something goo
 
 The solicitor sat opposite him and opened his notes.
 
-"They've got blood from the scene."
+"They recovered the C63."
 
 Connor stared at him.
 
-For a second, the sentence did not connect to anything.
+He had known the car might be found. Cars got found.
+
+That wasn't the sentence that frightened him.
+
+It was the next one.
+
+"There's blood in it, Connor. Quite a bit. They're saying it's yours."
+
+For a second, the words did not connect to anything.
 
 "What blood?"
 
-"Blood recovered at the robbery. They're saying it's yours."
+His solicitor looked at him.
 
 Connor looked down at his hands.
 
 And then he remembered.
 
-A cut on one finger afterwards.
+His finger.
 
-Small enough that he had noticed it and then forgotten it. He had never thought of it as part of the robbery. Never thought he had left anything behind. Never even considered that the stupid little cut mattered.
+A cut he had noticed afterwards. Small enough to look at once, swear about, and then forget. He had never connected it to the burglary. Never thought he had left blood in the car. Never thought the stupid little cut mattered.
 
 Now it seemed to fill the whole room.
 
@@ -268,13 +280,13 @@ Connor hated how ordinary the phrase sounded.
 
 Caught red-handed.
 
-As though there were something almost funny about the fact that a cut he had barely remembered could now be used to place him at the scene of the thing he thought he had got away with.
+As though there were something almost funny about the fact that a cut he had barely remembered could now be the thing placing him inside the car he thought he had left behind with the rest of the night.
 
 The room felt smaller.
 
 Until that moment there had still been little escape routes in Connor's head. Maybe somebody had talked. Maybe the police were fishing. Maybe they had the wrong end of something and his solicitor would find the hole in it.
 
-Blood did not feel like a hole.
+The blood did not feel like a hole.
 
 It felt like a door closing.
 
@@ -306,11 +318,23 @@ Once fifteen entered his head, it refused to leave.
 
 Fifteen years.
 
-He was young enough that fifteen years did not feel like a sentence. It felt like another lifetime belonging to somebody older.
+He was twenty-one.
+
+Fifteen years was nearly everything he could properly remember living once again.
 
 He pictured his mum fifteen years older.
 
-His friends with children.
+His brothers grown men.
+
+His sister with a life he knew nothing about.
+
+His little brother not little anymore.
+
+That one hurt the most.
+
+He pictured his girlfriend moving on, then immediately told himself she wouldn't.
+
+He pictured everybody else living while he stayed in one place.
 
 New phones, new cars, new music, new people living in his area who had never heard his name.
 
@@ -366,25 +390,19 @@ That would almost have been easier.
 
 He spoke calmly, as though the worst possible version of Connor's future had already been agreed by everyone except Connor.
 
-He talked about the robbery. He talked about the evidence. He talked about consequences.
+He talked about the burglary. The watches. The car. The evidence. The consequences.
 
 Whenever Connor thought there might be a gap to breathe, another question arrived.
 
-"Who was with you?"
-
 Connor stared at the table.
 
-"Where did you go afterwards?"
-
 The table had a scratch near the corner shaped like a lightning bolt.
-
-"Whose idea was it?"
 
 Connor wondered how many people had sat in exactly his chair and decided the table was suddenly fascinating.
 
 The detective leaned back eventually.
 
-"You're a young man, Connor. You need to start thinking very carefully about how much of your life you want to lose over other people."
+"You're a young man, Connor. You need to start thinking very carefully about how much of your life you want to lose."
 
 There it was again.
 
@@ -490,6 +508,26 @@ The van kept moving.
 
 Connor sat back.
 
+He thought about his mum.
+
+He thought about whether she had slept at all.
+
+He thought about his brothers and his sister and all the stupid little things he had spent money on for them because buying things had always been easier than explaining why he was never around enough.
+
+Then he thought about his little brother.
+
+How old would he be if Connor really did fifteen years?
+
+Connor stopped doing that maths halfway through.
+
+His girlfriend would wait, he told himself.
+
+His family would visit.
+
+Everything would still be there.
+
+He needed to believe that because the alternative was too large to fit inside the van with him.
+
 *Fifteen years.*
 
 His solicitor had never told him he was getting fifteen years.
@@ -518,7 +556,7 @@ Years later, he would understand how often fear did that in prison: took an unan
 
 But he did not know that yet.
 
-He only knew that he was young and frightened and being driven towards a prison that looked as if it had been waiting for him since before his great-grandparents were born.
+He only knew that he was twenty-one, frightened and being driven towards a prison that looked as if it had been waiting for him since before his great-grandparents were born.
 
 The first proper glimpse of Lewes shut him up inside his own head.
 
