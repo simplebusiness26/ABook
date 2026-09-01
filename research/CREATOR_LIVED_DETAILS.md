@@ -24,6 +24,17 @@ These notes record story-world and prison-life details supplied directly by the 
 - The arrest is the trigger that brings the old offence crashing back into Connor's mind and tells him what the police have actually come for.
 - Only after arrest/custody does a solicitor become part of Connor's burglary case.
 
+## Critical arrest-to-prison timeline
+
+- **Do not compress Connor's arrest, police custody, court and arrival at HMP Lewes into one day.** The procedure itself should occupy multiple days and the waiting is part of the emotional story.
+- Working chronology: Connor is arrested **late on a Friday**.
+- Friday night: armed arrest, transport into police custody, first shock and initial cell time.
+- Saturday: police custody continues; solicitor consultation, blood-evidence revelation, interview and the allegation about a firearm all have room to breathe rather than happening as a rapid montage.
+- Sunday: more waiting, uncertainty, cells, interrupted sleep, family thoughts and the psychological strain of not knowing what comes next. Exact procedural details can be adjusted after period-specific research, but Connor is **not yet in HMP Lewes**.
+- Monday: Connor reaches court, is remanded, experiences the decisive realisation that he is not going home, then travels in prison transport and arrives at **HMP Lewes**.
+- The key storytelling principle is duration: by the time Connor reaches Lewes he has already had several days in which his ordinary life has disappeared and he has had almost nothing to do except think.
+- The precise weekday/date/year can be locked later, but all future drafts must preserve the multi-day progression.
+
 ## Aggravated burglary facts in the story
 
 - The offence is an **aggravated burglary**.
