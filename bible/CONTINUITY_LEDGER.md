@@ -171,6 +171,9 @@ Draft V2 uses **day/month headings without a year**. Exact story year remains op
 
 ### Mason
 - Warns Connor about borrowed reputation / other people's problems.
+- Gives Connor a memorable piece of prison advice: **“Hear all. See all. Say nothing.”**
+- Meaning for Connor: observe and learn everything around him without feeling the need to repeat what he knows or involve himself in every situation.
+- This line can recur later as an internal test of whether Connor is learning prison sense or ignoring it.
 
 ### Bruce
 - Senses something approaching before Connor does.
