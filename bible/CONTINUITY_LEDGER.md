@@ -6,16 +6,26 @@ This is the working continuity source of truth. Update it whenever a draft chang
 
 Draft V2 uses **day/month headings without a year**. Exact story year remains open until period-specific legal and HMP Lewes details are finalised.
 
-## 14 OCTOBER
+**Locked timing rule:** Connor's arrest, police custody, court and prison arrival must span several days. He is arrested late on a Friday and does not arrive at HMP Lewes until Monday.
+
+## FRIDAY 14 OCTOBER — ARREST
 
 ### Connor
 - Age: 21.
-- At home after spending day working his cannabis line.
+- At home after spending the day working his cannabis line.
 - Believes he got away with the aggravated burglary because time has passed without arrest.
 - No solicitor/case in his conscious life before arrest.
-- Armed police arrive.
+- Armed police arrive late in the evening.
 - Connor realises arrest concerns aggravated burglary.
 - Crime facts known to Connor: watches taken; victim's Mercedes C63 AMG taken; Connor had noticed a cut afterwards but did not connect it with crime.
+- Connor enters police custody that night.
+- He does **not** see Craig and does **not** reach HMP Lewes on Friday.
+
+## SATURDAY 15 OCTOBER — POLICE CUSTODY
+
+### Connor
+- Still in police custody.
+- Solicitor becomes part of Connor's case only after arrest.
 - Solicitor tells him recovered C63 contains blood attributed to Connor.
 - Connor realises the blood must relate to the cut on his middle finger.
 - Connor is only person identified by the available physical evidence.
@@ -23,20 +33,37 @@ Draft V2 uses **day/month headings without a year**. Exact story year remains op
 - Connor gives no-comment interview and does not identify co-offenders.
 - Police frame alleged firearm as evidence Connor “crossed the line.”
 - Connor catastrophises about 10/12/15 years.
-- Court remands Connor.
-- Prison transport to HMP Lewes.
-- Connor thinks about mum, brothers, sister, little brother and girlfriend.
-- HMP Lewes arrival/reception.
+- The rhythm should feel repetitive and claustrophobic: cell, solicitor, interview, cell, waiting.
+
+## SUNDAY 16 OCTOBER — WAITING
+
+### Connor
+- Still not at HMP Lewes.
+- Exact procedural location/staging can be refined after story-year research, but the emotional truth is another day dominated by custody and waiting.
+- Poor sleep, uncertainty and nothing useful to do create obsessive thinking.
+- Connor thinks repeatedly about mum, brothers, sister, little brother and girlfriend.
+- He worries about co-offenders without identifying them.
+- Blood evidence, alleged firearm and imagined sentence length loop through his head.
+- The lack of control is the event; do not rush this day merely because it contains less outward action.
+
+## MONDAY 17 OCTOBER — COURT / REMAND / LEWES
+
+### Connor
+- Court occurs after the weekend custody period.
+- The decisive emotional beat is understanding that he is remanded and **not going home**.
+- Prison transport to HMP Lewes follows.
+- Connor sees ordinary outside life through the custody transport and thinks about family and sentence length.
+- HMP Lewes arrival/reception happens only now.
 - Connor first sees Craig only in reception holding area.
 - Connor hears: “Craig's here.”
 
 ### Craig
-- Already in/reaches HMP Lewes reception same broad period.
+- Already in/reaches HMP Lewes reception in the same broad Monday arrival period.
 - Facing major organised-crime case, working headline: large-scale conspiracy to supply Class A drugs; additional organised-crime/money-laundering counts possible.
 - No Book One POV.
 - Connor does not yet know Craig or that Connor's old cannabis line sat several levels beneath Craig's network.
 
-## 15 OCTOBER — THE NAME
+## TUESDAY 18 OCTOBER — THE NAME
 
 ### Mason
 - One of experienced prisoner peer-workers/orderlies Connor found intimidating.
@@ -52,7 +79,7 @@ Draft V2 uses **day/month headings without a year**. Exact story year remains op
 - No emotional attachment yet.
 
 ### Connor
-- First night/early prison reality.
+- First proper night/early prison reality.
 - Attempts family contact; mum/family emotional anchor.
 - First proper conversation with Craig.
 - Craig seems unexpectedly ordinary compared with rumours.
@@ -62,7 +89,7 @@ Draft V2 uses **day/month headings without a year**. Exact story year remains op
 - Learns people outside Lewes are asking after Craig.
 - At this point may suspect interest but not yet know confirmed money exists.
 
-## 16 OCTOBER — THE MESSAGE
+## WEDNESDAY 19 OCTOBER — THE MESSAGE
 
 ### Big Sharky
 - Receives confirmation Craig is at Lewes.
@@ -87,7 +114,7 @@ Draft V2 uses **day/month headings without a year**. Exact story year remains op
 - Separate prisoner-connected coercion storyline begins tightening.
 - No operational contraband mechanics on page.
 
-## 17 OCTOBER — EVERYBODY KNOWS SOMETHING
+## THURSDAY 20 OCTOBER — EVERYBODY KNOWS SOMETHING
 
 ### General prison information state
 - Craig money story has begun mutating.
@@ -113,7 +140,7 @@ Draft V2 uses **day/month headings without a year**. Exact story year remains op
 - Notices unusual interest around Craig.
 - Does not yet know full reason.
 
-## 18 OCTOBER — LINES
+## FRIDAY 21 OCTOBER — LINES
 
 ### Leon
 - Routine/gym-focused.
@@ -136,7 +163,7 @@ Draft V2 uses **day/month headings without a year**. Exact story year remains op
 ### Malik
 - Knows enough to become nervous about possessing the information.
 
-## 19 OCTOBER — PRESSURE
+## SATURDAY 22 OCTOBER — PRESSURE
 
 ### Connor
 - Seen near Craig often enough for others to notice.
@@ -155,7 +182,7 @@ Draft V2 uses **day/month headings without a year**. Exact story year remains op
 ### Big Sharky
 - Patient, personal, remote pressure continues.
 
-## 20 OCTOBER — THE CHOICE
+## SUNDAY 23 OCTOBER — THE CHOICE
 
 ### Threat event
 - Trouble reaches Craig in an ordinary prison/induction context.
@@ -191,3 +218,14 @@ Draft V2 uses **day/month headings without a year**. Exact story year remains op
 - Full Craig/Big Sharky history is Book Two material.
 - Connor ultimately receives five years, but neither Connor nor reader should feel certain of that during opening remand period.
 - Connor's girlfriend later cheats while he is imprisoned; do not rush this subplot into opening week.
+
+## Canon priority
+
+When chronology conflicts:
+1. This continuity ledger.
+2. `book-01/STRUCTURE_V2.md`.
+3. `research/CREATOR_LIVED_DETAILS.md`.
+4. Active Draft V2 scene files.
+5. Older one-POV chapter drafts.
+
+Draft scene files can contain strong prose while still needing to be moved to the correct date.
