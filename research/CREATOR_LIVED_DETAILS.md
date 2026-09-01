@@ -109,6 +109,14 @@ These notes record story-world and prison-life details supplied directly by the 
 - **This is where Connor first sees Craig.**
 - Craig should not have been visible earlier in the chapter.
 
+## Prison advice Connor receives
+
+- At a moment when Connor is becoming too curious about the conversations and politics around Craig, an experienced prisoner gives him a piece of advice the creator remembers receiving on first coming to prison:
+  **“Hear all. See all. Say nothing.”**
+- Meaning in the story: notice what is happening around you, listen, learn, but do not feel compelled to repeat every piece of information or insert yourself into every situation.
+- This should become a memorable recurring line for Connor rather than a one-off slogan. Later choices can be measured against whether he follows or ignores it.
+- Mason is a strong fit to deliver it because he already functions as Connor's experienced long-view warning voice.
+
 ## Writing principle extracted from these details
 
 The series must show the **emotion of process**. Arrest, interview, court, transport, induction, waiting, cell doors and uncertainty are not filler between plot events. For a first-time prisoner, they *are* major events.
