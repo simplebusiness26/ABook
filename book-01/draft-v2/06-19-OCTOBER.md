@@ -530,7 +530,45 @@ Connor looked towards Craig.
 
 Mason followed his eyes.
 
-"And that's the other thing," Mason said.
+"Someone told me something the first time I came in," Mason said. "Best bit of advice I ever got in here."
+
+Connor looked back at him.
+
+"Go on then."
+
+Mason held his gaze.
+
+"Hear all. See all. Say nothing."
+
+Connor waited.
+
+"That's it?"
+
+"That's it. Hear everything around you. See everything around you. But you don't need to prove to anyone what you know. You don't need to repeat every story. You don't need to put yourself in the middle of every problem."
+
+Connor gave a small nod.
+
+Mason pointed towards his eyes, then his ears, then tapped two fingers against his closed lips.
+
+"Half the trouble in prison starts because someone saw something, heard something, then couldn't resist letting everybody know they knew it."
+
+Connor glanced towards the room around them differently this time.
+
+People talking.
+
+People listening.
+
+People pretending not to listen.
+
+"Hear all, see all, say nothing," he repeated.
+
+"Exactly."
+
+Mason let the silence sit for a second.
+
+Then he nodded towards Craig.
+
+"And that's the other thing."
 
 "What?"
 
@@ -551,5 +589,9 @@ Mason shook his head.
 Mason walked off.
 
 Connor stood where he was for a while.
+
+*Hear all. See all. Say nothing.*
+
+It sounded simple enough.
 
 Then, despite every warning he had received that week, he went back to Craig.
