@@ -1,10 +1,14 @@
 # 21 OCTOBER
 
-## MALIK
+## MALIK — C WING
 
 By breakfast, Connor had become a story.
 
 This irritated Malik because Connor had not been interesting enough to become a story forty-eight hours earlier.
+
+Connor himself was not there to enjoy it.
+
+He was still off the wing after yesterday's incident, which only helped the rumours.
 
 Now everybody had a version.
 
@@ -108,63 +112,39 @@ Separation.
 
 No paragraph could properly capture the second before trouble started, when everybody in the room had still been having an ordinary day.
 
-Leah read Connor's account again.
+The CCTV helped with the important distinction.
 
-Simple.
+The first man moved at Craig.
 
-He saw movement towards Craig.
+Connor moved after him.
 
-He reacted.
+Connor had not arrived with the attackers and had not been waiting for a signal. He had reacted.
 
-He had not known about any planned assault.
+A stupid reaction, professionally speaking.
 
-Nothing she had seen suggested otherwise.
+A very human one, personally speaking.
 
-The complication was what happened now.
+Leah preferred the professional version.
 
-Prisoners did not need evidence to classify people.
+It was easier.
 
-Connor had been classified.
+Connor had spent the night separated while staff untangled who had done what. The two original attackers were not returning to normal association with Craig that morning.
 
-She saw it when he came through later.
+Connor was.
 
-Men who had ignored him a week ago acknowledged him.
+That did not mean what he had done had no consequences.
 
-Some nodded.
+It meant the cameras had stopped one consequence from becoming the wrong one.
 
-One moved aside.
+Leah wondered what sort of reception he was going to get when he stepped back onto C Wing.
 
-Connor noticed every bit of it and tried to pretend he noticed none.
+Then decided she already knew.
 
-That worried her.
-
-Attention could be addictive to somebody who had spent his outside life building importance through money and younger lads listening to him.
-
-She did not know that history in detail yet.
-
-She could see the shape of it.
-
-Craig appeared a few minutes later.
-
-Leah watched Connor's posture change.
-
-Not fear.
-
-Ease.
-
-Craig said something.
-
-Connor laughed.
-
-Leah looked away before she could become one more person watching Craig.
-
-Then looked back almost immediately.
-
-That annoyed her.
+Prisoners had had an entire night to improve the story.
 
 ---
 
-## DEANO
+## DEANO — A WING
 
 "It's done."
 
@@ -216,205 +196,357 @@ Whether prison allowed people to stay out was another question.
 
 ---
 
-## CONNOR
+## CONNOR — SEGREGATION
 
-Connor had not expected respect to feel embarrassing.
+Connor had slept badly.
 
-He had expected it to feel good.
+That made it sound as though he had slept.
 
-Outside, being known had felt good.
+Mostly he had lain down, sat up, lain down again and replayed ten seconds until they became longer than the rest of the day combined.
 
-People rang him. Asked him for things. Needed him. Younger lads listened when he spoke.
+When the door finally opened, Connor sat up too quickly.
 
-Inside, men Connor did not know were nodding at him because of something he had done without thinking.
+An officer looked in.
 
-He did not know what to do with the nods.
+"Blake. Get your things together."
 
-Nod back?
+Connor's stomach tightened.
 
-Too much?
+"Where am I going?"
 
-Don't nod?
+"Back to C."
 
-Disrespectful?
+For a second Connor said nothing.
 
-Prison had turned basic neck movement into politics.
+"I'm going back?"
 
-Bruce found this hilarious.
+The officer looked at him.
 
-"You've got fans."
+"That is what back to C means, yes."
 
-"Shut up."
+Connor almost laughed.
 
-"Want me to manage you?"
+Prison officers, he was learning, could make good news sound like a parking ticket.
 
-"No."
+"What about yesterday?"
 
-"Ten percent."
+"It's been looked at."
 
-"Of what?"
+"And?"
 
-"Exactly. Very cheap."
+"And you're moving."
 
-Connor smiled.
+That was all he got.
 
-Mason appeared behind Bruce.
+Connor picked up the few things he had with him.
 
-"Don't encourage him."
+The relief came first.
 
-"I'm building his brand."
+Then something else.
 
-"He doesn't need a brand."
+C Wing.
 
-Bruce looked at Connor.
+Craig.
 
-"Everyone needs a brand."
+Everybody who had seen what happened.
 
-Connor pointed at his ginger hair.
+He almost preferred another hour alone.
 
-"Is that yours?"
-
-Bruce looked offended.
-
-"Natural marketing."
-
-Mason walked away shaking his head.
-
-Connor was still smiling when Craig came over.
-
-Bruce's expression changed just enough to show he noticed.
-
-"I'll leave the celebrities," he said.
-
-"Please do," Craig replied.
-
-Bruce pointed at Connor.
-
-"Remember who knew you before fame."
-
-"You met me four days ago."
-
-"Exactly. Day one."
-
-He vanished into the landing.
-
-Craig stood beside Connor.
-
-"How's the arm?"
-
-"Fine."
-
-"Still lying."
-
-"Bit sore."
-
-"Better."
-
-Connor looked around.
-
-"Everyone's weird with me now."
-
-Craig's face gave away nothing.
-
-"Told you."
-
-"Told me what?"
-
-"Reputation you didn't earn can still cost you."
-
-Connor frowned.
-
-"I did earn this one."
-
-Craig looked at him.
-
-There was no anger in it.
-
-But Connor immediately heard himself.
-
-"You know what I mean."
-
-"Do I?"
-
-Connor sighed.
-
-"I helped you."
-
-"You did."
-
-"So people know."
-
-"They know what they saw."
-
-"Same thing."
-
-Craig shook his head.
-
-"Never the same thing."
-
-Connor thought of the burglary rumours outside. Three guns. Three people arrested. Watches piled to the ceiling.
-
-He understood the point.
-
-"So what do I do?"
-
-Craig shrugged.
-
-"Be Connor."
-
-"That's your advice?"
-
-"You want a speech?"
-
-"Mason gives better speeches."
-
-"Then go ask Mason."
-
-Connor laughed.
-
-Craig started to walk away.
-
-"Craig."
-
-He turned.
-
-Connor hesitated.
-
-"Who was that yesterday?"
-
-Craig looked at him for a moment.
-
-"A man making a bad decision."
-
-"Because of you?"
-
-"Apparently."
-
-"Why?"
-
-Craig smiled faintly.
-
-"There you are again."
-
-"What?"
-
-"Chasing the car."
-
-Connor rolled his eyes.
-
-Craig walked off.
-
-Connor watched him go.
-
-He still did not know why there was trouble around Craig.
-
-What he knew now was worse.
-
-The trouble was real.
+Almost.
 
 ---
 
-## JAY
+## CONNOR — C WING
+
+Connor heard the wing before he saw it.
+
+Normal noise.
+
+Voices.
+
+Doors.
+
+Someone laughing too loudly.
+
+A television somewhere.
+
+It sounded exactly the same as it had before the fight.
+
+Connor had changed more than the wing had.
+
+The officer opened the way through.
+
+Connor stepped onto C.
+
+Heads turned.
+
+There it was again.
+
+That first-day feeling.
+
+Everybody looking.
+
+Except this time they knew who he was.
+
+Bruce spotted him first.
+
+Of course Bruce spotted him first.
+
+He was leaning near Jamo with a mug in his hand.
+
+Bruce's face lit up.
+
+"Here he is."
+
+Connor kept walking.
+
+"Don't."
+
+Bruce ignored him.
+
+"Rush."
+
+Connor stopped.
+
+"What?"
+
+Jamo started laughing.
+
+Connor looked between them.
+
+"What the fuck's Rush?"
+
+Bruce pointed at him with the mug.
+
+"You."
+
+"No it ain't."
+
+"Saw trouble. Rushed straight into it. Got knocked away. Rushed back in. Rush."
+
+Jamo was laughing harder now.
+
+"That's actually decent."
+
+"Shut up," Connor said.
+
+Bruce looked pleased with himself.
+
+"It's already done."
+
+"You've literally just made it up."
+
+A voice further along the landing called:
+
+"Oi, Rush!"
+
+Connor turned automatically.
+
+Three men laughed.
+
+Bruce spread his arms.
+
+"See? Democracy."
+
+Connor shook his head.
+
+"I fucking hate this place."
+
+"Rush hates the name," Jamo announced.
+
+"Stop saying it."
+
+That made them say it more.
+
+Connor carried his things towards the cell trying not to smile.
+
+That was the worst part.
+
+A man Connor had never spoken to gave him a nod.
+
+Another said, "All right, Rush?"
+
+Connor almost corrected him.
+
+Then didn't.
+
+By the time he reached his cell, the name had travelled further down the landing than he had.
+
+He put his things down.
+
+Jamo followed him in.
+
+"Could've been worse."
+
+"How?"
+
+"Bruce could've called you Bench."
+
+Connor laughed despite himself.
+
+"Fuck off."
+
+"Rush is better."
+
+Connor sat on the bunk.
+
+Yesterday he had been Connor Blake, new boy, first timer, the lad always standing near Craig.
+
+Now strangers had a name for him.
+
+He had not chosen it.
+
+That seemed important.
+
+---
+
+## CONNOR / CRAIG — C WING
+
+Craig came over later.
+
+Not immediately.
+
+Connor noticed that.
+
+He did not know whether Craig was giving him space or simply refusing to join the audience.
+
+"Connor."
+
+Connor looked up.
+
+Bruce, ten feet away, shouted, "Rush!"
+
+Craig looked towards him.
+
+"Don't encourage him," Connor said.
+
+Craig looked back.
+
+"I wasn't planning to."
+
+"Apparently that's my name now."
+
+"Your name's Connor."
+
+For reasons Connor could not explain, he liked hearing that.
+
+Craig nodded towards his side.
+
+"How is it?"
+
+"Sore."
+
+"Better answer than fine."
+
+Connor smiled.
+
+There was a pause.
+
+He had spent half the night wondering what Craig would say.
+
+Thanks.
+
+Why did you do it?
+
+You shouldn't have.
+
+Something.
+
+Craig looked at him.
+
+"Why'd you get back up?"
+
+Connor frowned.
+
+"What?"
+
+"First hit put you out of it. You could've stayed there."
+
+Connor thought about the segregation cell.
+
+He had asked himself the same question for hours.
+
+"Dunno."
+
+Craig waited.
+
+"You were still there," Connor said finally.
+
+Craig studied him.
+
+That unreadable look again.
+
+"Most people move the other way."
+
+Connor shrugged.
+
+"I'm not most people then."
+
+The sentence came out cockier than he meant it to.
+
+Craig smiled.
+
+"No."
+
+Another pause.
+
+"Probably not."
+
+Connor looked at him.
+
+"You knew they were coming?"
+
+Craig's smile disappeared.
+
+"No."
+
+"You know why?"
+
+"I've got ideas."
+
+"Sharky?"
+
+Craig looked at him for a moment.
+
+Connor immediately knew he had touched something real.
+
+"Hear all," Craig said.
+
+Connor sighed.
+
+"See all. Say nothing. Yeah, yeah."
+
+Craig smiled again.
+
+"Maybe listen to Mason occasionally."
+
+He started walking away.
+
+Connor called after him.
+
+"Craig."
+
+Craig turned.
+
+"You gonna call me Rush?"
+
+"No."
+
+"Why not?"
+
+Craig looked almost amused.
+
+"Because I know your name."
+
+Then he walked off.
+
+Connor sat there pretending that sentence had not meant anything to him.
+
+It had.
+
+---
+
+## JINX — A WING
 
 Rico had become everybody's problem and nobody's friend.
 
@@ -422,15 +554,15 @@ That happened quickly in prison.
 
 Men encouraged you until an event became real, then suddenly remembered appointments elsewhere.
 
-Jay sat with him for ten minutes.
+Jinx sat with him for ten minutes when he got the chance.
 
 Rico barely spoke.
 
-"Anyone outside been in touch?" Jay asked.
+"Anyone outside been in touch?" Jinx asked.
 
 Rico shook his head.
 
-"Course not," Jay said.
+"Course not," Jinx said.
 
 Rico looked up angrily.
 
@@ -444,7 +576,7 @@ Rico looked up angrily.
 
 Rico stared at the floor.
 
-Jay's anger softened despite himself.
+Jinx's anger softened despite himself.
 
 "You all right?"
 
@@ -460,7 +592,7 @@ Rico laughed bitterly.
 
 Rico said nothing.
 
-Jay leaned back.
+Jinx leaned back.
 
 "This is what I was trying to tell you. People outside talk about loyalty because it's free for them."
 
@@ -468,7 +600,7 @@ Rico finally looked at him.
 
 "You think Craig's gonna come for me?"
 
-Jay did not know.
+Jinx did not know.
 
 That was the answer Rico feared most.
 
@@ -476,7 +608,7 @@ That was the answer Rico feared most.
 
 It sounded annoyingly like something an older man would say.
 
-Jay hated that.
+Jinx hated that.
 
 He was becoming Mason.
 
@@ -492,13 +624,17 @@ Big Sharky listened to the explanation without interrupting.
 
 Connor's name appeared for the first time.
 
-"Who?" Sharky asked.
+Then a second name.
 
-The caller repeated it.
+Rush.
 
-Young lad. New arrival. Apparently stepped in.
+Sharky frowned.
 
-Sharky stared at the wall.
+"Who?"
+
+The caller explained.
+
+Young lad. New arrival. Apparently stepped in. Spent the night separated. Came back to the wing this morning and the place had already named him.
 
 "He with Craig?"
 
@@ -540,9 +676,9 @@ Before Craig's name grew while Sharky's life narrowed.
 
 A new boy had stood beside him after less than a week.
 
-Big Sharky found that irritating in a way he could not quite explain.
+Now the new boy had a prison name because of it.
 
-He put the phone down.
+Big Sharky found that irritating in a way he could not quite explain.
 
 Craig was still in Lewes.
 
