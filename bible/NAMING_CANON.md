@@ -66,20 +66,35 @@ Connor must **not** enter prison with the nickname that defines him later.
 
 He starts as simply **Connor** / **Connor Blake**. That matters because the reader watches prison create a second identity around him.
 
-### Working earned nickname: RUSH
+### Earned nickname: RUSH
 
-The current preferred working nickname is **Rush**.
+The working nickname is **Rush**.
 
-It should arise **after Connor instinctively backs Craig during the threat incident**, not before.
+It is earned only after Connor instinctively intervenes when Craig is attacked.
 
-The name comes from Connor's defining flaw/strength: he moves before he has fully thought through what he is stepping into. Someone — ideally Bruce or Jamo — can make a throwaway remark about Connor always *rushing* into things. Another prisoner repeats **Rush**, and within a few days Connor hears somebody who has never spoken to him call him that.
+### Exact birth of the name
+
+After the fight, Connor is initially treated as one of the participants because staff saw him rush into the violence. He is separated from the wing and spends the night in segregation while CCTV and accounts are reviewed.
+
+The following day he is cleared of being part of the original attack and returned to **C Wing**.
+
+By then the story has travelled around the prison without him.
+
+**Bruce introduces the nickname.** It should feel casual and funny rather than like a gang ceremony. Connor walks back onto the wing and Bruce calls something like:
+
+**“Here he is. Rush.”**
+
+Connor does not immediately understand it. Bruce explains that Connor saw trouble and rushed straight into it before anybody with sense could stop him. Jamo finds this funny. Somebody else repeats the name. Then somebody Connor does not know uses it later.
+
+That is the moment Connor realises he has not simply been *given* a nickname by Bruce - the wing has accepted it.
 
 The important point is that Connor does **not choose the name**. The prison chooses it for him.
 
-That lets the nickname carry two meanings:
+The name carries several meanings:
 
 1. To other prisoners, **Rush** is the young lad who did not hesitate when Craig was in trouble.
-2. To the reader, it also describes Connor's dangerous habit of acting before he understands the consequences.
+2. It literally describes the act that made him known: he rushed into a fight he could have avoided.
+3. To the reader, it describes Connor's deeper strength/flaw: he often acts before he understands the consequences.
 
 Craig should usually continue calling him **Connor**, even after the wing starts calling him Rush. That subtly distinguishes Craig's personal relationship with him from the reputation everyone else is building around him.
 
