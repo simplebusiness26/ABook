@@ -1,8 +1,8 @@
 # 20 OCTOBER
 
-## JAY
+## JINX — A WING
 
-Jay knew something was wrong because Rico had stopped talking.
+Jinx knew something was wrong because Rico had stopped talking.
 
 Rico talked when he was nervous.
 
@@ -12,7 +12,7 @@ Talked when he had nothing to say and treated the absence of material as a perso
 
 This morning he was quiet.
 
-Jay found him near breakfast.
+Jinx found him near breakfast.
 
 "You all right?"
 
@@ -34,7 +34,7 @@ Too tiny for anybody who did not know him.
 
 "Nothing."
 
-Jay's stomach tightened.
+Jinx's stomach tightened.
 
 "Rico."
 
@@ -46,7 +46,7 @@ Rico laughed.
 
 "Everyone says that to me like I'm planning something."
 
-Jay did not laugh.
+Jinx did not laugh.
 
 "Are you?"
 
@@ -54,7 +54,7 @@ Rico's face closed.
 
 "No."
 
-Jay believed half of it.
+Jinx believed half of it.
 
 That was not enough.
 
@@ -66,7 +66,7 @@ That was not enough.
 
 Rico looked away.
 
-Jay lowered his voice.
+Jinx lowered his voice.
 
 "Money sounds different when you're broke. I get it. But it ain't magic. It doesn't make consequences disappear."
 
@@ -76,9 +76,9 @@ Rico shrugged.
 
 He walked off.
 
-Jay watched him go.
+Jinx watched him go.
 
-For the first time, Jay considered telling staff something.
+For the first time, Jinx considered telling staff something.
 
 The thought felt like betrayal even though he had nothing concrete to tell them.
 
@@ -110,7 +110,7 @@ Statements.
 
 Something concrete.
 
-Instead she had men becoming quieter when officers approached, a prisoner called Malik suddenly pretending he had forgotten every rumour he had ever heard, and Bennett looking as though he had not slept for a month.
+Instead she had men becoming quieter when officers approached, Malik suddenly pretending he had forgotten every rumour he had ever heard, and Bennett looking as though he had not slept for a month.
 
 "Anything?" she asked Patel.
 
@@ -126,9 +126,9 @@ Patel nodded.
 
 That distinction mattered.
 
-Craig had been mostly compliant since arriving. The problem was the gravitational field around him.
+Craig had been mostly compliant since arriving. The problem was everything collecting around him.
 
-Leah looked across the area where several prisoners were waiting for the next induction movement.
+Leah looked across the area where several prisoners were waiting for movement.
 
 Connor sat beside Craig.
 
@@ -248,19 +248,15 @@ Nothing about the next ten seconds announced itself.
 
 That was what Connor remembered afterwards.
 
-The first day had armed police shouting outside his house.
-
-This had nothing.
-
-No warning music.
+No warning.
 
 No silence falling across the room.
 
-A man simply moved too quickly.
+One man simply moved too quickly.
 
 Connor saw the movement before he understood it.
 
-Somebody coming towards Craig with intent written all over his face.
+The man drove through the group towards Craig.
 
 Craig turned.
 
@@ -268,444 +264,340 @@ Connor did not think.
 
 Thinking would have taken too long.
 
-He grabbed Craig's shoulder and pulled him half a step back as he moved forward himself.
+He caught Craig by the sleeve and dragged him half a step sideways while stepping into the space Craig had just occupied.
 
-Bodies collided.
+The first impact hit Connor instead.
 
-There was shouting.
+It knocked the breath out of him and sent him sideways into the edge of a bench.
 
-A second man surged in from the side and the whole space seemed to fold at once—arms, uniforms, prisoners backing away, someone swearing, an officer shouting for everyone to stop.
+For a second his arm went numb.
 
-Connor took a hard knock and stumbled into a bench.
+He could have stayed there.
 
-He got back up.
+He didn't.
 
-Craig was still on his feet.
+Connor pushed himself upright just as a second man came in from Craig's other side.
 
-The first man tried to come forward again but staff were already between them.
+There was no time to work out who he was or what exactly Connor had stepped into.
 
-Connor found himself shoulder to shoulder with Craig without remembering choosing the position.
+Craig was turning towards the first man.
 
-"Back!" an officer shouted.
+The second was already coming.
 
-Connor put his hands up.
+Connor stepped between them.
 
-"I'm back!"
+The second man crashed into him.
 
-"Then stay there!"
+Someone grabbed at Connor's top. Connor shoved back. Feet scraped across the floor. A chair went over behind them.
 
-He stayed there.
+Craig was moving now as well, no longer caught by surprise, forcing space between himself and the first man.
 
-His heart felt large enough to be visible through his top.
+Connor took another hard knock in the side and went into the wall.
 
-Craig looked at him.
+Pain flashed through him.
+
+For half a second he thought: *stay down*.
+
+Then he saw the first man trying to come forward again.
+
+Connor got back up.
+
+He shoved himself back beside Craig.
+
+Not in front of him now.
+
+Beside him.
+
+That was the bit people remembered.
+
+The alarm was screaming by then.
+
+Officers were shouting.
+
+Men who had been standing nearby suddenly wanted to be nowhere near any of it.
+
+"BACK! BACK NOW!"
+
+Connor barely heard the order.
+
+An officer forced between the men. Another grabbed Connor and hauled him away from Craig.
+
+Connor twisted round on instinct.
+
+"I'm not fucking—"
+
+"STOP!"
+
+More staff arrived at a run.
+
+The whole thing collapsed into bodies being separated, orders being shouted and doors opening and slamming.
+
+Connor was pushed against the wall and restrained before he had properly understood that, to the officers arriving late, he looked exactly like another prisoner in the fight.
+
+"I weren't with them!"
+
+"You'll explain it later."
+
+"They went for him!"
+
+"Blake, stop moving."
+
+Connor stopped.
+
+Craig was several feet away now with staff between them.
+
+The two men who had come at him were being held separately.
+
+Nobody was listening to explanations yet.
+
+The alarm kept going.
+
+Then came the order for everyone else to get behind their doors.
+
+The landing emptied in fragments.
+
+Connor caught one last look at Craig.
+
+Craig looked back.
 
 Not grateful.
 
 Not angry.
 
-Almost surprised.
+Surprised.
 
-That was somehow better.
-
-Then officers separated everybody and the moment broke into instructions.
-
-Connor was moved away.
-
-As he went, he looked around.
-
-Nobody was pretending not to stare anymore.
+Then Connor was taken away.
 
 ---
 
-## MASON
+## MASON — M WING
 
-Mason heard about it before Connor came back through.
+The story reached Mason before the facts did.
 
-Of course he did.
+Of course it did.
 
-By the time Connor appeared, the story had already developed features the real event could not possibly have had.
+By the time men were locked behind their doors, Connor had apparently fought three people, Craig had fought six, somebody had a weapon, nobody had a weapon, and one version had Connor saving Craig's life single-handedly.
 
-Connor had fought three men.
+Mason believed almost none of it.
 
-Craig had fought six.
+What he did believe was the part repeated in every version.
 
-Somebody had a weapon.
+Connor had moved towards the trouble.
 
-Nobody had a weapon.
+"Idiot," Mason said quietly.
 
-Craig had known it was coming.
+There was affection in it, which annoyed him.
 
-Craig had been completely surprised.
+He thought about the advice he had given the lad.
 
-Connor had saved Craig's life.
+Hear all.
 
-Craig had saved Connor's.
+See all.
 
-Mason listened to all of it and believed almost none.
+Say nothing.
 
-Then Connor appeared with his face pale and his jaw set.
+Apparently he should have added:
 
-Mason stood.
-
-"You all right?"
-
-Connor nodded.
-
-"Yeah."
-
-"That's twice you've used that answer when it isn't true."
-
-Connor laughed once.
-
-A shaky sound.
-
-"I didn't even think."
-
-Mason looked at him.
-
-"That's generally when the expensive decisions happen."
-
-Connor rubbed the side of his arm.
-
-"He just came at him."
-
-Mason waited.
-
-Connor's eyes moved around the room.
-
-People were watching.
-
-Some with curiosity.
-
-Some with new respect.
-
-Some with something less friendly.
-
-Connor saw it too.
-
-"Why's everyone looking at me?"
-
-Mason almost said *I told you so*.
-
-He deserved enormous credit for not doing it.
-
-"Because yesterday you were the new kid."
-
-"And?"
-
-Mason nodded towards where Craig had been taken another way.
-
-"Today you're the new kid who stood with Craig."
-
-Connor's face changed.
-
-The meaning arrived slowly.
-
-"I weren't trying to make a point."
-
-"Doesn't matter."
-
-"I just—"
-
-"Doesn't matter," Mason repeated. "People saw what they saw."
-
-Connor looked around again.
-
-Mason felt sorry for him.
-
-Then worried for him.
-
-Then, against his better judgement, a little proud.
-
-The lad had moved when plenty of experienced men would have found a very interesting patch of floor to study.
-
-That said something.
-
-The problem was prison would now decide what it said before Connor got a vote.
+*And when two men start fighting beside you, don't volunteer for a practical demonstration.*
 
 ---
 
-## LEAH
+## LEAH — AFTER THE ALARM
 
-The prisoner version of an incident began before staff had finished dealing with the actual incident.
+The prisoner version of an incident began before staff had finished dealing with the actual one.
 
-Leah could almost feel it multiplying through the walls.
-
-She dealt with facts.
+Leah dealt with what she could establish.
 
 Who moved first.
 
 Who was where.
 
-What staff saw.
+What staff had seen.
 
-What Connor said.
+What the cameras might show.
 
-What Connor did not know.
+Connor was a problem because he had unquestionably joined the physical confrontation.
 
-What Craig said, which was very little.
+That did not mean he had joined the attack.
 
-Connor sat in front of her looking offended by the concept of paperwork.
+Those were two different things.
 
-"I'm telling you, I weren't involved."
+In the first seconds after the alarm, nobody had the luxury of making that distinction.
 
-Leah looked at him.
+Connor, Craig and the two men who had come at him were all separated.
 
-"Connor. You physically involved yourself."
+The rest of the wing was put behind doors while staff brought the situation under control.
 
-"You know what I mean."
+Leah watched part of the CCTV later with Patel.
 
-"I genuinely don't."
+There it was.
 
-"I weren't part of whatever that was."
+The first man moved at Craig.
 
-"I believe you."
+Connor reacted afterwards.
 
-That stopped him.
+Not planned.
 
-"You do?"
+Not waiting.
 
-"You looked as surprised as everybody else."
+Not moving with the attackers.
 
-Connor exhaled.
+He pulled Craig aside, took the collision himself, got knocked away and then got back up when the second man came in.
 
-"Exactly."
+Patel paused the footage.
 
-"That doesn't mean what you did has no consequences."
+"Stupid," he said.
 
-His face tightened again.
-
-"I helped someone."
+Leah looked at the frozen image of Connor halfway back to his feet.
 
 "Yes."
 
-"So what was I meant to do?"
+"Brave."
 
-Leah paused.
+Leah hated that she agreed with that too.
 
-That was harder.
+"Also stupid."
 
-Professionally, the answer was obvious. Follow instructions. Move away. Let staff intervene.
+Patel restarted the footage.
 
-Humanly, she had seen how fast it happened.
+The two original attackers would remain off the normal wing while the incident was dealt with.
 
-"You were meant to keep yourself safe," she said.
+Connor's position was different.
 
-Connor looked down.
+The footage supported what he had been shouting from the beginning: he had not arrived as part of the attack.
 
-"He was right there."
+But he had still thrown himself into it.
 
-Leah heard something in that sentence.
+He would spend the night separated from the wing while everything was untangled.
 
-Not heroics.
-
-Not admiration.
-
-A simple inability to watch someone beside him get hurt and do nothing.
-
-That made Connor easier to understand.
-
-It also made him easier to manipulate.
-
-"Listen to me," she said.
-
-He looked up.
-
-"What you did today will mean different things to different people. Some will think you're brave. Some will think you're stupid. Some will decide you're with Craig now whether you say you are or not."
-
-Connor looked unsettled.
-
-"I'm not with anyone."
-
-"I know."
-
-"Then tell them."
-
-Leah almost laughed.
-
-"Connor, if prison officers could control prison gossip, we'd all work shorter shifts."
-
-He smiled despite himself.
-
-Leah's voice softened.
-
-"Be careful."
-
-"Everyone keeps saying that."
-
-"Maybe listen."
-
-Connor stood to leave.
-
-At the door he stopped.
-
-"Is Craig all right?"
-
-Leah looked at him.
-
-There it was again.
-
-Craig before himself.
-
-"He's all right."
-
-Connor nodded and left.
-
-Leah sat still for a moment after the door closed.
-
-Then she wrote the next line of the report.
+Leah suspected the night alone would do more to him than any lecture she could give.
 
 ---
 
-## JAY
+## JINX — A WING
 
-Rico would not look at him.
+Rico was gone from normal association by evening.
 
-That told Jay almost everything he needed to know.
+Jinx did not need anybody to explain why.
 
-"You fucking idiot," Jay said quietly.
+The attempt had failed.
 
-Rico's face hardened.
+Connor had been taken away too.
 
-"I didn't—"
+That detail travelled almost as fast as the fight.
 
-"Don't."
+"They got the new kid as well," somebody said.
 
-"You don't know what happened."
+Jinx looked at him.
 
-"I know enough."
+"Course they did. He jumped in."
 
-Rico looked over his shoulder.
-
-"Keep your voice down."
-
-Jay laughed without humour.
-
-"Now you're worried about attention?"
-
-Rico said nothing.
-
-Jay felt anger arrive, then fear underneath it.
-
-Not fear of Craig.
-
-Fear of the next part.
-
-Outside people would hear the attempt failed.
-
-Men inside would start assigning blame.
-
-Somebody would claim money had been promised. Somebody else would deny it. People who had encouraged things from a safe distance would suddenly become difficult to contact.
-
-And Rico would still be here.
-
-"Was it worth it?" Jay asked.
-
-Rico stared at the floor.
-
-Jay already had the answer.
-
----
-
-## CONNOR
-
-Connor saw Craig again that evening.
-
-For the first time all day, nobody else was close enough to interrupt immediately.
-
-Craig looked at him.
-
-Connor looked back.
-
-"You all right?" Connor asked.
-
-Craig smiled.
-
-"Apparently that's the question of the week."
-
-Connor laughed, then winced because laughing pulled something in his side.
-
-Craig noticed.
-
-"You took a knock."
-
-"I'm fine."
-
-"Terrible liar."
-
-There was a pause.
-
-Connor expected thanks.
-
-He did not want a big speech.
-
-He also definitely expected something.
-
-Craig gave him nothing for long enough that Connor became annoyed.
-
-"What?"
-
-Craig looked at him.
-
-"Why'd you do that?"
-
-Connor frowned.
-
-"What do you mean?"
-
-"You could've moved."
-
-"He came at you."
-
-"I noticed."
-
-"So what was I meant to do?"
-
-Craig studied him.
-
-That look again.
-
-The one Connor could not read.
-
-"Most people move," Craig said.
-
-Connor shrugged.
-
-"I'm not most people then."
-
-The sentence came out cockier than he intended.
-
-Craig smiled.
+"You reckon he's involved?"
 
 "No."
 
-Another pause.
+"How do you know?"
 
-"You're probably not."
+Jinx thought about Rico's face that morning.
 
-That was all.
+Thought about Connor walking around the prison barely understanding his own situation, let alone everybody else's.
 
-Craig walked away.
+"Because that boy doesn't know enough to be involved in anything yet."
 
-Connor stood there feeling oddly disappointed and oddly proud at the same time.
+The man laughed.
 
-Then he looked across the wing.
+Jinx did not.
 
-Three men looked away when he caught them watching.
+That was no longer completely true.
 
-One gave him a nod.
+Connor knew Craig now.
 
-Another didn't.
+And after today, everybody knew Connor.
 
-Mason's words came back.
+---
 
-Yesterday you were the new kid.
+## CONNOR — SEGREGATION
 
-Today you're the new kid who stood with Craig.
+The worst part was how quickly the noise disappeared.
 
-Connor had arrived at Lewes six days earlier not knowing where to sit.
+One minute alarms, shouting, bodies, officers, Craig, pain in his side.
 
-Now the prison had found him a place.
+Then a door closed.
 
-He was not sure he had chosen it.
+And Connor was alone.
+
+He sat on the bed and stared at the wall.
+
+His body still thought the fight was happening.
+
+His hands would not quite settle.
+
+His breathing took too long to slow down.
+
+He replayed it.
+
+The first man moving.
+
+Craig turning.
+
+Connor stepping in.
+
+The bench.
+
+Getting back up.
+
+The second man.
+
+The officers grabbing him.
+
+Again.
+
+Again.
+
+Again.
+
+He tried to work out the exact second when he could have chosen differently.
+
+There were several.
+
+That was the problem.
+
+He could have moved away at the start.
+
+He could have stayed down after the first collision.
+
+He could have let Craig deal with his own problem.
+
+Instead he had gone back.
+
+Why?
+
+Connor did not have an answer that sounded clever.
+
+He barely knew Craig.
+
+He did not know why people wanted to hurt him.
+
+He did not know who the two men were.
+
+He did not know whether tomorrow he would go back to C Wing or whether he had just made himself part of something much larger than his own case.
+
+Mason's voice came back to him.
+
+*Hear all. See all. Say nothing.*
+
+Connor almost laughed.
+
+"Forgot the important bit, didn't you?" he muttered to the empty cell.
+
+What do you do when your body moves before your brain?
+
+Nobody had given him advice for that.
+
+He lay back and looked at the ceiling.
+
+For the first time since arriving at Lewes, Connor was not thinking about fifteen years.
+
+He was thinking about ten seconds.
+
+Ten seconds that might have changed every day that came after them.
