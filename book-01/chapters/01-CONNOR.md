@@ -224,15 +224,61 @@ Connor hated that sentence.
 
 Nobody ever said *let's go through it properly* before telling you something good.
 
-He listened, sort of.
+The solicitor sat opposite him and opened his notes.
 
-There were facts. Allegations. Evidence. Things the police said they could prove and things the solicitor said they would have to prove.
+"They've got blood from the scene."
 
-Connor heard perhaps half of it.
+Connor stared at him.
 
-He was waiting for a number.
+For a second, the sentence did not connect to anything.
 
-"How long?" he said.
+"What blood?"
+
+"Blood recovered at the robbery. They're saying it's yours."
+
+Connor looked down at his hands.
+
+And then he remembered.
+
+A cut on one finger afterwards.
+
+Small enough that he had noticed it and then forgotten it. He had never thought of it as part of the robbery. Never thought he had left anything behind. Never even considered that the stupid little cut mattered.
+
+Now it seemed to fill the whole room.
+
+"I cut my finger," Connor said quietly.
+
+His solicitor watched him.
+
+"Right."
+
+Connor rubbed the finger with his thumb even though the skin had healed weeks ago.
+
+"I didn't even think—"
+
+"Connor, listen to me. As things stand, that is very strong evidence. You're not dealing with a vague suspicion here."
+
+Connor looked up.
+
+The solicitor did not smile.
+
+"You've been caught red-handed, basically."
+
+Connor hated how ordinary the phrase sounded.
+
+Caught red-handed.
+
+As though there were something almost funny about the fact that a cut he had barely remembered could now be used to place him at the scene of the thing he thought he had got away with.
+
+The room felt smaller.
+
+Until that moment there had still been little escape routes in Connor's head. Maybe somebody had talked. Maybe the police were fishing. Maybe they had the wrong end of something and his solicitor would find the hole in it.
+
+Blood did not feel like a hole.
+
+It felt like a door closing.
+
+"How long?" Connor said.
 
 "We're nowhere near that stage yet."
 
