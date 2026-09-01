@@ -40,15 +40,29 @@ This was what being in control felt like to him then.
 
 People came to his house. Phones rang because people wanted something from him. Lads a couple of years younger listened when he spoke. Money arrived in little bursts. Problems arrived too, but Connor had begun to mistake having problems for being important.
 
-The robbery case was sitting somewhere in the background of his life, ugly and unfinished, but he had become good at not thinking about it.
+He had been out most of the day working his line. Running about, answering phones, chasing people, sorting little problems that felt important while he was in them and completely pointless once he got home.
 
-His solicitor was dealing with it.
+Now he was tired.
 
-That was how Connor described anything he didn't want to understand.
+That was all he was thinking about.
 
-*My solicitor's dealing with it.*
+The robbery was not a *case* in Connor's mind.
 
-As if there were a man in an office somewhere whose job was to absorb consequences on Connor's behalf.
+Not yet.
+
+It was something he had done and then pushed backwards into the part of his memory where uncomfortable things went when nothing happened quickly enough to force him to face them.
+
+Nobody had come for him.
+
+No arrest. No knock. No dramatic phone call.
+
+Days had become weeks, and Connor had gradually converted silence into proof that he had got away with it.
+
+Every now and then the memory surfaced — a face, a road, something somebody had said afterwards — but he pushed it down again without much effort.
+
+Tonight it was barely there at all.
+
+He was thinking about weed, money, food and getting everyone out of his house so he could sleep.
 
 He took the last pull of the joint, held it, coughed once and immediately pretended he hadn't.
 
@@ -144,11 +158,21 @@ Connor heard his own name.
 
 Then the word *robbery*.
 
-And that was when fear stopped being general and became specific.
+The robbery came back into his mind all at once.
 
-They weren't there because of the weed.
+Not as a memory anymore.
 
-They were there for the thing he had spent months telling himself his solicitor was dealing with.
+As a problem.
+
+A real one.
+
+They weren't there because Connor had spent the day working his line.
+
+They were there for the thing he had decided was finished simply because nobody had arrested him yet.
+
+For one stupid second his mind produced the thought: *How do they even know?*
+
+Then another voice said *robbery* again, and whatever little story Connor had told himself about getting away with it disappeared.
 
 ---
 
@@ -168,9 +192,13 @@ Reece's hands going up.
 
 The officer saying his name.
 
-He thought about the robbery.
+*Robbery.*
 
-He tried to remember who had said what afterwards. Who knew what. Who might have been arrested as well. Whether somebody had spoken. Whether there was CCTV he didn't know about. Whether police had messages. Whether there was something his solicitor knew and hadn't told him.
+Now that somebody else had said the word, Connor could not stop thinking about it.
+
+The whole thing he had spent weeks treating as old news was suddenly the only thing in the world.
+
+He tried to remember who had said what afterwards. Who knew what. Who might have been arrested as well. Whether somebody had spoken. Whether there was CCTV he didn't know about. Whether police had messages. How long they had been looking at him while he carried on living as though nothing was happening.
 
 Every possibility became evidence in his head.
 
@@ -183,6 +211,8 @@ By the time the hatch opened, Connor had mentally convicted himself of offences 
 "Solicitor's here."
 
 Connor stood too quickly.
+
+This was the first time all night that the word *solicitor* had become part of his life.
 
 "What are they saying?" he asked almost immediately.
 
