@@ -8,12 +8,39 @@ The answer is: it depends who you are.
 
 Every recurring character experiences the same institution differently. Status, sentence, family, addiction, fear, reputation, money, age, race, neighbourhood, personality, staff role and personal choices all change what prison becomes for them.
 
+## Real-prison principle
+
+The series is set in **real British prisons** rather than invented establishments. Book One begins at **HMP Lewes** in East Sussex.
+
+Real establishments give the reader a genuine sense of place: their age, architecture, purpose, atmosphere and publicly documented conditions should shape the fiction. We will distinguish between:
+
+- stable public facts such as history and architecture;
+- period-specific facts such as population, regime and wing use, which can change;
+- lived detail supplied by the creator;
+- fictional characters, conversations and plot events.
+
+We should never invent a current operational fact and present it as true. Before a book is finalised, its time period must be locked and prison-specific details checked against reliable public sources for that period.
+
+The story can feel highly authentic without describing security weaknesses or operational details that would turn criminal behaviour into a practical guide.
+
+## Book One location rule — HMP Lewes
+
+Book One is overwhelmingly anchored at **HMP Lewes**, a real men's Category B reception/resettlement prison in Lewes, East Sussex.
+
+The present prison is Victorian rather than eighteenth-century: it was built in the early 1850s and first used in **1853**. Its older core, high walls, flint, brick and stone, towers and semi-radial nineteenth-century design give the opening book the imposing, old-institution atmosphere we want.
+
+Lewes is especially useful to the story because it receives large numbers of men who are remanded or unsentenced. That makes it believable as the place where Connor, a frightened first-timer, can land while Craig arrives carrying a reputation that has already travelled ahead of him.
+
+The point is that the reader can watch the **same real prison** become a completely different world depending on whose chapter they are reading.
+
+Occasional chapters may leave Lewes when the story genuinely benefits from it. The main exception is **Big Sharky**, who is already held in a dispersal/high-security prison and can influence events from a distance.
+
 ## Long-term engine
 
 The series is designed as an expandable network rather than a closed trilogy.
 
 Characters can:
-- move between establishments;
+- move between real establishments;
 - disappear for a book and return later;
 - become leads after previously being side characters;
 - cross paths years later under completely different circumstances;
@@ -23,21 +50,13 @@ Characters can:
 
 Continuity matters. Every significant relationship, promise, betrayal, transfer and unresolved conflict should be tracked.
 
-## Book One location rule
-
-Book One is overwhelmingly anchored in one fictional local/remand prison: **HMP Greybank**.
-
-The point is that the reader can watch the same building become a completely different world depending on whose chapter they are reading.
-
-Occasional chapters may leave Greybank when the story genuinely benefits from it. The main exception is **Big Sharky**, who is already held in a dispersal/high-security prison and can influence Greybank from a distance.
-
 ## Book One dramatic engine
 
-Connor arrives at Greybank as a first-time prisoner after becoming involved in crime and taking part in a robbery. He is not naturally suited to the criminal world and does not understand prison culture.
+Connor arrives at HMP Lewes as a first-time prisoner after becoming involved in crime and taking part in a robbery. He is not naturally suited to the criminal world and does not understand prison culture.
 
-Craig arrives at roughly the same time. Unlike Connor, Craig's reputation reaches the wing before his personality does. Prisoners and staff react to his name before Connor understands why.
+Craig arrives at roughly the same time. Unlike Connor, Craig's reputation reaches the prison before his personality does. Prisoners and staff react to his name before Connor understands why.
 
-Far away, Big Sharky hears that Craig has landed at Greybank. Their history is deliberately withheld. Through intermediaries, pressure reaches the prison and a serious financial incentive is attached to somebody attacking Craig.
+Far away, Big Sharky hears that Craig has landed at Lewes. Their history is deliberately withheld. Through intermediaries, pressure reaches the prison and a serious financial incentive is attached to somebody attacking Craig.
 
 Connor initially hears fragments without understanding the full picture. During induction, trouble eventually reaches Craig. Connor intervenes on instinct and backs him.
 
@@ -73,7 +92,7 @@ Book Two opens the door to Craig's POV and eventually puts him in the same world
 
 ## Social-world rule
 
-Greybank has visible social clusters. Race can be one factor, as can neighbourhood, outside friendships, family links, religion, age and criminal associations.
+Lewes can contain visible social clusters. Race can be one factor, as can neighbourhood, outside friendships, family links, religion, age and criminal associations.
 
 Some crews may be predominantly Black or predominantly white, but the novel should never write either race as a single bloc. Individuals cross groups constantly through friendship, work, sport, cells, humour and mutual interest.
 
