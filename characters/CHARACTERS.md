@@ -1,58 +1,161 @@
 # Character Bible
 
-These are working versions. Ages, offences, sentence details and backgrounds remain adjustable until the first full outline is locked.
+These are working versions. Ages, offences, sentence details and backgrounds remain adjustable until the first full draft is locked.
+
+# Cast principle
+
+Book One should feel crowded in the best way: dozens of lives sharing one building, with different people interpreting the same event differently. Not everybody needs a POV chapter. We will use three tiers:
+
+1. **Core POVs** — recurring chapter viewpoints with their own arcs.
+2. **Secondary POVs** — occasional chapters that reveal another layer of the prison.
+3. **Recurring non-POVs** — memorable people who can later become leads or spin-off characters.
+
+Craig remains the major exception: he is central to Book One but receives **no POV chapter** until Book Two.
+
+---
+
+## CORE BOOK ONE POVs
 
 ## Connor — primary Book One POV
 
 **Function:** Reader's doorway into prison.
 
-Connor is young, inexperienced and entering custody for the first time after becoming involved in crime and participating in a robbery. He knows enough to have made serious mistakes but not enough to understand the world he has entered.
+Young, inexperienced and entering custody for the first time after becoming involved in crime and participating in a robbery. He knows enough to have made serious mistakes but not enough to understand the world he has entered.
 
-**Book One movement:** outsider → observer → makes a consequential choice → becomes associated with Craig → learns that protection, loyalty and status all carry costs.
+**Book One movement:** outsider → observer → makes a consequential choice → becomes associated with Craig → gains status → discovers that loyalty and reputation both carry a price.
 
 **Strengths:** instinctive loyalty, empathy, ability to notice people.
 
 **Weaknesses:** naïve, eager not to look weak, sometimes acts before understanding what he is stepping into.
 
-**Narrative value:** Connor can ask internally what the reader is asking without needing artificial exposition.
+## Craig — central mystery, NEVER POV in Book One
 
-## Craig — central mystery of Book One
+**Function:** Gravitational centre of the novel.
 
-**Function:** Gravitational centre rather than POV protagonist.
+Craig arrives with a reputation that reaches the wing before he does. His name changes conversations. Some prisoners respect him, some resent him, some see an opportunity, and some are frightened by what his arrival may bring.
 
-Craig arrives with a reputation that precedes him. Prisoners react to his name before Connor knows why. Some are curious, some cautious, some see opportunity and some see danger.
+**Book One rule:** We never enter Craig's thoughts. The reader builds an image of him from what he says, what he does and what other people believe.
 
-**Rule:** Craig has no POV chapter in Book One. We never directly explain what he is thinking. His character is constructed from what he says, what he does and what other people believe about him.
+**Book One movement:** arrival → rumours → outside pressure reaches the prison → Connor backs him → Connor becomes his right-hand companion while he awaits sentence → Craig receives a major sentence → transfer to the dispersal/high-security system.
 
-**Book One movement:** arrival → rumours intensify → threat becomes real → Connor backs him → Connor becomes close to him → sentencing → transfer into the dispersal/high-security system.
+**Book Two:** Craig becomes a POV character for the first time.
 
-**Book Two possibility:** Craig finally becomes a POV character, allowing the reader to discover how different the reality is from the legend built in Book One.
+## Malik — information broker
+
+Malik understands prison as a network: conversations, favours, loyalties, debts and news from outside. He moves across social groups more easily than most and knows that the wing is more complicated than simple racial lines.
+
+He is one of the first people to learn that serious money has been offered for Craig to be attacked.
+
+**Conflict:** information gives him power until the information becomes too dangerous to possess.
+
+## Officer Leah Mercer — female prison officer
+
+Competent, observant and initially one of the officers least impressed by prison mythology. She sees Craig first as a risk-management problem, then gradually notices the man underneath the stories.
+
+Her professional interest slowly becomes personal attachment. She tells herself she is simply trying to understand him, but by the middle of the book she is thinking about him outside work and making emotional allowances she would not normally make.
+
+**Important rule:** the story treats the officer/prisoner boundary as real and consequential. The attraction can be powerful without turning into an idealised forbidden-romance fantasy.
+
+**Book One movement:** professional distance → curiosity → emotional attachment → compromised judgement → fear of what the attachment could cost her.
+
+Craig's feelings remain unreadable because he has no POV.
+
+## Officer Tom Bennett — male prison officer
+
+A generally capable officer whose problems outside work make him vulnerable. A prisoner-connected network begins pressuring him to bring contraband packages into the prison. The story focuses on coercion, fear, corruption and consequences rather than the mechanics of smuggling.
+
+The network leaning on Bennett is predominantly connected to a Black street crew outside, but the book should make clear that this is one specific group, not a statement about Black prisoners generally.
+
+**Book One movement:** ordinary officer → small compromise → pressure escalates → trapped between prisoners, colleagues and his own fear → forced toward a decision that may destroy his career or place him at greater risk.
+
+## Mason — older repeat prisoner
+
+Understands prison better than he understands freedom. He notices patterns younger prisoners cannot see.
+
+**Function:** long-view perspective on institutionalisation, reputation and young prisoners becoming whatever identity the wing hands them.
+
+## Darren — addiction POV
+
+For Darren, prison is not primarily about Craig, gangs or status. It is about dependency, craving, debt, shame, recovery and relapse.
+
+His storyline repeatedly intersects with the larger plot because powerful people's conflicts distort the prison economy around everybody else.
+
+## Leon — discipline / gym POV
+
+Leon has reduced prison to routine: train, eat, read, sleep, repeat. He deliberately avoids politics.
+
+**Conflict:** neutrality becomes difficult when both sides interpret staying neutral as a choice.
+
+## Jamal "Jay" Cole — street-network POV
+
+Smart, socially confident and connected to a predominantly Black group of prisoners with links outside. Jay is not a caricatured gang boss; he has family, ambitions, loyalties and limits. He understands why people cluster by race, area and existing friendship while also having relationships across those lines.
+
+He becomes caught between outside instructions concerning Craig and what he personally believes is worth risking inside.
+
+## Dean "Deano" Walsh — wing-politics POV
+
+A white prisoner with his own friendship group and outside loyalties. Deano initially treats Craig's arrival as somebody else's problem, then realises that the money and attention around Craig are shifting the balance of the whole wing.
+
+Deano and Jay are useful mirrors: sometimes opposed, sometimes cooperating, sometimes simply trying to keep their own people out of somebody else's war.
+
+---
+
+## SECONDARY POVs
+
+## Big Sharky — remote Book One interlude / major Book Two character
+
+A senior figure held in a dispersal/high-security prison. He has unfinished business with Craig, but **Book One does not explain why**.
+
+From another establishment, Big Sharky receives word that Craig has landed at Greybank and pushes an instruction down through outside and prison contacts: there is money attached to Craig.
+
+His Book One scenes should reveal reach and threat, not backstory. Craig eventually reaches the dispersal system in Book Two, where the two men can finally meet and the reader learns what created the feud.
 
 ## Bruce — recurring wildcard / comic pressure-release
 
-**Function:** Memorable side character who can appear unexpectedly across the series.
+Small, skinny, ginger and routinely underestimated. Bruce has a talent for appearing exactly when nobody expects him.
 
-Bruce is small, skinny, ginger and routinely underestimated. He has a strange talent for appearing at exactly the moment nobody expects him. His reputation is disproportionate to his appearance, which makes other characters' reactions to him funny before the reader fully understands why.
+His mythology can include the famous tuna-tin-in-a-sock reputation, but humour comes from Bruce's timing, personality, confidence and other people's reactions rather than graphic violence.
 
-Bruce should remain funny because of his personality, timing, confidence and mythology around him—not because serious harm is treated as a joke.
+Bruce can vanish for long stretches, then reappear in another wing, prison or future book.
 
-**Long-term use:** Can vanish for long stretches and then reappear in another prison, another wing or another character's story.
+## Macca — family man
 
-## Future POV archetypes to develop
+His entire sentence is measured in missed birthdays, phone calls, visits and trouble at home. Prison politics matter mainly when they interfere with contact with his family.
 
-These should become specific people rather than stereotypes:
+## Tyler — frightened first-timer hiding it
 
-- **The trainer:** prison becomes routine, discipline, diet and gym progression.
-- **The person struggling with addiction:** prison is shaped by dependency, temptation, debt, recovery and relapse.
-- **The family man:** the hardest part of custody is what is happening at home without him.
-- **The older repeat prisoner:** understands prison better than life outside.
-- **The first-timer hiding fear:** performs toughness while privately overwhelmed.
-- **The officer POV:** sees the same incidents through institutional responsibility rather than prisoner politics.
-- **The quiet prisoner:** appears insignificant but has an unexpectedly important history.
+Loud, cocky and desperate not to be exposed as terrified. Useful as a contrast with Connor: two inexperienced prisoners can react in completely different ways.
 
-Every major character should eventually get five answers:
+## Yusuf — bridge character
+
+Quiet, well-liked and able to move between groups without being claimed by one. He demonstrates that the wing's racial and social clusters are real but never absolute.
+
+## Senior Officer Patel
+
+Experienced staff member who notices Bennett changing before Bennett realises anybody has noticed. Can become important in the corruption arc without immediately knowing the full truth.
+
+## Nurse Hannah Reed
+
+Healthcare POV candidate for later books. Sees prisoners at moments when status and performance often disappear.
+
+---
+
+# Social grouping rule
+
+Greybank contains informal clusters shaped by race, neighbourhood, family links, age, religion, sentence history and outside loyalties. Some groups are predominantly Black, some predominantly white, some mixed. People still train together, trade jokes, work, share cells, fall out, become friends and cross those lines.
+
+We should portray **specific people and specific crews**, not treat "the Blacks" or "the whites" as single personalities.
+
+---
+
+# Character test
+
+Every major character should eventually have clear answers to:
+
 1. What do they want today?
 2. What do they fear?
 3. What do they pretend not to care about?
 4. What misconception do other people have about them?
 5. What choice could permanently change their path?
+6. What does prison mean to them personally?
+7. What do they believe about Craig — and how wrong might they be?
