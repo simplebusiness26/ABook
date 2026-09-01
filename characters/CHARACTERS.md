@@ -18,7 +18,7 @@ Craig remains the major exception: he is central to Book One but receives **no P
 
 ## Connor — primary Book One POV
 
-**Function:** Reader's doorway into prison.
+**Function:** Reader's doorway into HMP Lewes and prison generally.
 
 Young, inexperienced and entering custody for the first time after becoming involved in crime and participating in a robbery. He knows enough to have made serious mistakes but not enough to understand the world he has entered.
 
@@ -32,17 +32,17 @@ Young, inexperienced and entering custody for the first time after becoming invo
 
 **Function:** Gravitational centre of the novel.
 
-Craig arrives with a reputation that reaches the wing before he does. His name changes conversations. Some prisoners respect him, some resent him, some see an opportunity, and some are frightened by what his arrival may bring.
+Craig arrives at HMP Lewes with a reputation that reaches the prison before he does. His name changes conversations. Some prisoners respect him, some resent him, some see an opportunity, and some are frightened by what his arrival may bring.
 
 **Book One rule:** We never enter Craig's thoughts. The reader builds an image of him from what he says, what he does and what other people believe.
 
-**Book One movement:** arrival → rumours → outside pressure reaches the prison → Connor backs him → Connor becomes his right-hand companion while he awaits sentence → Craig receives a major sentence → transfer to the dispersal/high-security system.
+**Book One movement:** arrival → rumours → outside pressure reaches Lewes → Connor backs him → Connor becomes his right-hand companion while he awaits sentence → Craig receives a major sentence → transfer to the dispersal/high-security system.
 
 **Book Two:** Craig becomes a POV character for the first time.
 
 ## Malik — information broker
 
-Malik understands prison as a network: conversations, favours, loyalties, debts and news from outside. He moves across social groups more easily than most and knows that the wing is more complicated than simple racial lines.
+Malik understands prison as a network: conversations, favours, loyalties, debts and news from outside. He moves across social groups more easily than most and knows that the prison is more complicated than simple racial lines.
 
 He is one of the first people to learn that serious money has been offered for Craig to be attacked.
 
@@ -62,7 +62,7 @@ Craig's feelings remain unreadable because he has no POV.
 
 ## Officer Tom Bennett — male prison officer
 
-A generally capable officer whose problems outside work make him vulnerable. A prisoner-connected network begins pressuring him to bring contraband packages into the prison. The story focuses on coercion, fear, corruption and consequences rather than the mechanics of smuggling.
+A generally capable officer whose problems outside work make him vulnerable. A prisoner-connected network begins pressuring him to bring contraband packages into HMP Lewes. The story focuses on coercion, fear, corruption and consequences rather than the mechanics of smuggling.
 
 The network leaning on Bennett is predominantly connected to a Black street crew outside, but the book should make clear that this is one specific group, not a statement about Black prisoners generally.
 
@@ -72,7 +72,7 @@ The network leaning on Bennett is predominantly connected to a Black street crew
 
 Understands prison better than he understands freedom. He notices patterns younger prisoners cannot see.
 
-**Function:** long-view perspective on institutionalisation, reputation and young prisoners becoming whatever identity the wing hands them.
+**Function:** long-view perspective on institutionalisation, reputation and young prisoners becoming whatever identity the prison hands them.
 
 ## Darren — addiction POV
 
@@ -92,9 +92,9 @@ Smart, socially confident and connected to a predominantly Black group of prison
 
 He becomes caught between outside instructions concerning Craig and what he personally believes is worth risking inside.
 
-## Dean "Deano" Walsh — wing-politics POV
+## Dean "Deano" Walsh — prison-politics POV
 
-A white prisoner with his own friendship group and outside loyalties. Deano initially treats Craig's arrival as somebody else's problem, then realises that the money and attention around Craig are shifting the balance of the whole wing.
+A white prisoner with his own friendship group and outside loyalties. Deano initially treats Craig's arrival as somebody else's problem, then realises that the money and attention around Craig are shifting relationships throughout Lewes.
 
 Deano and Jay are useful mirrors: sometimes opposed, sometimes cooperating, sometimes simply trying to keep their own people out of somebody else's war.
 
@@ -106,7 +106,7 @@ Deano and Jay are useful mirrors: sometimes opposed, sometimes cooperating, some
 
 A senior figure held in a dispersal/high-security prison. He has unfinished business with Craig, but **Book One does not explain why**.
 
-From another establishment, Big Sharky receives word that Craig has landed at Greybank and pushes an instruction down through outside and prison contacts: there is money attached to Craig.
+From another establishment, Big Sharky receives word that Craig has landed at HMP Lewes and pushes an instruction down through outside and prison contacts: there is money attached to Craig.
 
 His Book One scenes should reveal reach and threat, not backstory. Craig eventually reaches the dispersal system in Book Two, where the two men can finally meet and the reader learns what created the feud.
 
@@ -116,7 +116,7 @@ Small, skinny, ginger and routinely underestimated. Bruce has a talent for appea
 
 His mythology can include the famous tuna-tin-in-a-sock reputation, but humour comes from Bruce's timing, personality, confidence and other people's reactions rather than graphic violence.
 
-Bruce can vanish for long stretches, then reappear in another wing, prison or future book.
+Bruce can vanish for long stretches, then reappear in another prison or future book.
 
 ## Macca — family man
 
@@ -128,7 +128,7 @@ Loud, cocky and desperate not to be exposed as terrified. Useful as a contrast w
 
 ## Yusuf — bridge character
 
-Quiet, well-liked and able to move between groups without being claimed by one. He demonstrates that the wing's racial and social clusters are real but never absolute.
+Quiet, well-liked and able to move between groups without being claimed by one. He demonstrates that racial and social clusters can be real without ever being absolute.
 
 ## Senior Officer Patel
 
@@ -142,9 +142,17 @@ Healthcare POV candidate for later books. Sees prisoners at moments when status 
 
 # Social grouping rule
 
-Greybank contains informal clusters shaped by race, neighbourhood, family links, age, religion, sentence history and outside loyalties. Some groups are predominantly Black, some predominantly white, some mixed. People still train together, trade jokes, work, share cells, fall out, become friends and cross those lines.
+HMP Lewes contains informal clusters shaped by race, neighbourhood, family links, age, religion, sentence history and outside loyalties. Some groups may be predominantly Black, some predominantly white, some mixed. People still train together, trade jokes, work, share cells, fall out, become friends and cross those lines.
 
 We should portray **specific people and specific crews**, not treat "the Blacks" or "the whites" as single personalities.
+
+---
+
+# Real-setting rule for characters
+
+The characters and their plotlines are fictional even though HMP Lewes is real. No invented officer or prisoner should be written in a way that implies they represent a real identifiable person unless the creator deliberately supplies a real-life inspiration and we fictionalise it sufficiently.
+
+Real prison geography, history and period-specific routines should be checked before scenes are locked.
 
 ---
 
