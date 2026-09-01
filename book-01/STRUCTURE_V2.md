@@ -23,6 +23,21 @@ Working chronology:
 
 The waiting is part of the plot. By the time Connor reaches Lewes, several days of ordinary life have already disappeared.
 
+## Wing progression — creator-supplied period detail
+
+The prison geography must be clearer to the reader from this point onward.
+
+- **G Wing** is the induction/early-arrival wing in the creator's remembered period.
+- Connor and Craig spend roughly **two to three days physically on G Wing** after reception, even though the wider induction process can continue beyond that.
+- **C Wing** is double bang-up. Connor and Craig then move to C Wing, but they do **not** share a cell.
+- Connor shares with **Jamie “Jamo” Mills**, another first-time prisoner who has been inside around six months and has enough experience to give Connor an informal social map.
+- **A Wing** is also double bang-up. Jay, Deano and Leon can be based there during the opening movement.
+- **M Wing** is single bang-up. Mason can live there while his prison job takes him through reception/induction areas.
+
+These placements are drafting canon, not a claim about current HMP Lewes. Check them against the final story year before publication.
+
+The wing map should be taught naturally through scenes, not as an institutional diagram. Jamo is useful because he can point out recurring characters and explain prison reputations while also being wrong sometimes.
+
 ## Why this structure fits the story
 
 The central idea of the series is that there is no single answer to “what is prison like?” A dated mosaic lets several people experience the same day as completely different worlds.
@@ -54,29 +69,45 @@ A quieter but emotionally important chapter. Nothing dramatic needs to happen ev
 
 The absence of control is the event.
 
-### MONDAY 17 OCTOBER — LEWES
+### MONDAY 17 OCTOBER — LEWES / G WING
 Primary anchor: Connor, then the ensemble begins opening outward.
 
 Court. Waiting. Barrister. The word *remanded*. Connor finally understands he is not going home.
 
-Prison transport takes him past normal life. He reaches HMP Lewes, goes through reception/induction, is intimidated by the imposing female officer and the two large prisoner peer-workers, then reaches the holding area and first sees Craig.
+Prison transport takes him past normal life. He reaches HMP Lewes, goes through reception, is intimidated by the imposing female officer and the two large prisoner peer-workers, then reaches the holding area and first sees Craig.
 
 **End beat:** “Craig's here.”
 
-### TUESDAY 18 OCTOBER — THE NAME
+After reception Connor reaches G Wing, making clear that prison intake continues beyond the reception room.
+
+### TUESDAY 18 OCTOBER — G WING / THE NAME
 POVs: Mason, Leah, Connor, Malik.
 
-Mason sees Connor's terror as familiar first-timer behaviour and recognises the significance of Craig's arrival. Leah sees Craig as a risk/problem rather than a legend. Connor experiences his first proper night/next morning inside, tries to contact home and has his first real conversation with Craig. Malik hears that people outside are already asking questions about Craig.
+Mason sees Connor's terror as familiar first-timer behaviour and recognises the significance of Craig's arrival. Leah sees Craig as a risk/problem rather than a legend. Connor experiences his first full prison day, tries to contact home and has his first real conversation with Craig. Malik hears that people outside are already asking questions about Craig.
 
-### WEDNESDAY 19 OCTOBER — THE MESSAGE
+### WEDNESDAY 19 OCTOBER — G WING / THE MESSAGE
 POVs: Big Sharky, Jay, Connor, Bennett, Malik.
 
 Big Sharky receives confirmation that Craig is at Lewes. We do not learn their history, only that the news is personal. Serious money becomes attached to Craig. Jay hears the first version through his circle and dislikes outsiders treating prisoners as disposable. Connor is still preoccupied by family and his own case. Bennett's separate coercion storyline begins to tighten. Malik realises the rumour is not just gossip.
 
-### THURSDAY 20 OCTOBER — EVERYBODY KNOWS SOMETHING
-POVs: Connor, Bruce, Leah, Deano, Malik, Mason.
+### THURSDAY 20 OCTOBER — C WING / EVERYBODY KNOWS SOMETHING
+POVs: Connor, Jamo, Jay, Deano, Leah, Malik, Mason.
 
-The message mutates. Different people have different figures, different stories and different ideas about what Big Sharky wants. Connor starts learning the social map of Lewes but does not know why people are looking at Craig. Bruce provides comic pressure-release while demonstrating an unexpectedly large network of acquaintances. Leah notices unusual interest around Craig. Deano does not want somebody else's feud swallowing his circle.
+Connor and Craig leave G Wing after roughly two to three days and move to **C Wing**.
+
+Connor arrives carrying his property and immediately feels that everybody can see how fresh he is. Early in the move, an alarm interrupts the ordinary wing noise. Connor witnesses the **non-graphic aftermath of a serious assault** near the shower area and initially believes the injury is worse than it later proves to be. The important beat is his shock at how quickly the wing returns to ordinary conversation afterwards.
+
+Connor is placed in a double cell with **Jamie “Jamo” Mills**, another first-time prisoner who has been inside about six months. To Connor, six months sounds like expertise. To older prisoners, Jamo is still new.
+
+Jamo gives Connor the first proper informal “who's who” breakdown of the recurring cast. He identifies Mason, Bruce, Malik, Jay, Deano, Leon, Darren, Macca and Craig through a mixture of observation, rumour and what he thinks he knows. The reader should later discover where Jamo was right and wrong.
+
+This chapter also makes the wing geography legible:
+- Connor/Craig/Jamo primarily on C;
+- Jay/Deano/Leon based on A during the opening movement;
+- Mason based on M while working reception/induction;
+- other characters can cross through shared prison life without the book becoming an operational map.
+
+The Craig money story continues mutating across wings. Different people have different figures and different ideas about what Big Sharky wants. Connor still does not understand why his proximity to Craig is becoming a fact other people care about.
 
 ### FRIDAY 21 OCTOBER — LINES
 POVs: Leon, Jay, Connor, Bennett, Macca, Malik.
@@ -86,12 +117,18 @@ People begin being asked where they stand. Leon refuses involvement. Jay faces p
 ### SATURDAY 22 OCTOBER — PRESSURE
 POVs: Big Sharky, Deano, Connor, Bruce, Leah, Mason.
 
-Big Sharky's patience is shown without revealing motive. Men around Lewes discuss the money more seriously, but practical attack mechanics remain off-page. Connor begins to be noticed simply because he is often near Craig. Bruce recognises the atmosphere before Connor does. Leah sees Connor drifting into somebody else's risk. Mason warns Connor about borrowed reputations.
+Big Sharky's patience is shown without revealing motive. Men around Lewes discuss the money more seriously, but practical attack mechanics remain off-page. Connor begins to be noticed simply because he is often near Craig. Bruce recognises the atmosphere before Connor does. Leah sees Connor drifting into somebody else's risk.
+
+Mason gives Connor a piece of prison wisdom that becomes a recurring rule:
+
+**Hear all. See all. Say nothing.**
+
+Connor should remember the phrase later, especially at moments when status tempts him to talk or involve himself where he should not.
 
 ### SUNDAY 23 OCTOBER — THE CHOICE
 POVs: Connor, Jay, Leah, Mason, Connor.
 
-The threat finally reaches Craig during an ordinary prison movement/induction setting. The violence is brief and non-graphic. Connor has only seconds to choose whether to move away or help. He acts instinctively and backs Craig. Staff intervene. The important event is not the mechanics of the attack; it is Connor's decision and the fact that everybody sees it.
+The threat finally reaches Craig during an ordinary main-wing/induction-related movement. The violence is brief and non-graphic. Connor has only seconds to choose whether to move away or help. He acts instinctively and backs Craig. Staff intervene. The important event is not the mechanics of the attack; it is Connor's decision and the fact that everybody sees it.
 
 By the end of the date, Connor's social meaning inside Lewes has changed. He entered as an unknown frightened first-timer. He ends the opening movement as the young prisoner who stood beside Craig when it mattered.
 
@@ -101,6 +138,7 @@ From Monday 24 October onward, develop:
 
 - aftermath and competing versions of the attack;
 - Connor becoming informally close to Craig;
+- Jamo watching Connor change from close range;
 - Connor learning that his old cannabis line ultimately sat inside Craig's wider network;
 - Connor enjoying status and then discovering its cost;
 - Leah's curiosity about Craig becoming personal;
@@ -112,8 +150,20 @@ From Monday 24 October onward, develop:
 - Connor eventually overreaching by acting as though Craig's reputation belongs to him;
 - Craig's case moving toward sentence and eventual transfer into the dispersal system.
 
+## Violence rule
+
+The book can contain more prison violence and sudden threat than the earliest draft, because violence is part of the reality being depicted. It should remain **non-graphic and character-led**.
+
+Use violence to show:
+- how fast ordinary routines can change;
+- how newcomers perceive events differently from experienced prisoners;
+- fear, aftermath and social consequences;
+- the contrast between rumour and what actually happened.
+
+Do not linger on wounds, gore, weapon construction or practical attack technique.
+
 ## Draft rule
 
 Draft V2 is allowed to be expansive and imperfect. The goal is to create enough connected story that the creator can react to characters, pace and plot from actual scenes rather than from an abstract outline. We will revise aggressively after the opening run exists.
 
-**Chronology rule:** where an existing Draft V2 scene conflicts with the Friday-arrest-to-Monday-Lewes timeline above, this structure is canon and the scene must be moved/reworked during the next manuscript pass.
+**Chronology rule:** where an existing Draft V2 scene conflicts with this timeline, this structure is canon and the scene must be moved/reworked.
