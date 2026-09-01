@@ -2,153 +2,294 @@
 
 **Working title:** *Big Shark in a Creek*
 
-**Target:** approximately 75,000–90,000 words.
+**Primary location:** fictional local/remand prison **HMP Greybank**.
 
-**Structure:** roughly 28 chapters, usually 2,500–3,500 words each. Chapter titles are POV names. Connor has the largest share. Craig never receives a POV chapter.
+**Target:** approximately 90,000–105,000 words.
+
+**Structure:** roughly 36 chapters, usually 2,300–3,200 words each. Chapter titles are POV names. Connor has the largest share. Craig never receives a POV chapter.
 
 ## What Book One is really about
 
 On the surface, Connor enters prison, meets a feared man called Craig, intervenes when trouble reaches him and becomes part of Craig's orbit.
 
-Underneath, the book teaches the reader that there is no single answer to “What is prison like?” Every POV lives in the same building but inhabits a different world.
+Underneath, the book answers the question: **What is prison like?**
 
-The central suspense question is not simply *Will somebody get Craig?* It is also: **Who is Craig really, and why does everybody seem to know something Connor doesn't?**
+There is no single answer. Connor, an addict, a gym obsessive, an older repeat prisoner, competing friendship groups, a frightened first-timer, two officers and a man pulling strings from another prison can all experience the same institution as completely different worlds.
+
+The central suspense questions are:
+
+- Who is Craig really?
+- Why is there money on his head?
+- Who is Big Sharky and why does he care that Craig has landed at Greybank?
+- What will Connor become after choosing to stand beside Craig?
+
+The book **does not reveal the origin of Craig and Big Sharky's feud**. That belongs to Book Two, after Craig reaches the dispersal system.
 
 ---
 
-# ACT I — THE DOOR CLOSES
+# ACT I — EVERYBODY HEARS THE NAME
 
 ## 1 — CONNOR
-Connor arrives in custody for the first time after a robbery case. Everything feels simultaneously intimidating and disappointingly ordinary: waiting, paperwork, bad jokes, people pretending not to look nervous. While being processed he notices another new arrival. The atmosphere changes around that man in a way Connor cannot explain. He first hears the name **Craig**.
+Connor arrives at Greybank for the first time after a robbery case. Reception is intimidating, boring and strangely ordinary all at once. Another new arrival causes a subtle change in the atmosphere.
 
-**End beat:** somebody farther down reception quietly says, “That's him.”
+Connor first hears the name **Craig**.
+
+**End beat:** somebody farther down reception says, “That's him.”
 
 ## 2 — MASON
-Mason is an older repeat prisoner who understands institutions better than he understands freedom. Prison is routine to him: where to stand, who to ask, when not to ask. He recognizes Craig's name and notices staff and prisoners taking unusual interest.
+Older repeat prisoner Mason knows every small rhythm of reception. He recognises Craig's name and notices prisoners watching him without trying to look as though they are watching him.
 
-Mason's POV establishes an important rule: reputation travels faster than people.
+Mason establishes the first rule of this world: **reputation travels faster than people**.
 
-## 3 — CONNOR
-Connor goes through the strange indignities and boredom of first-night procedure. He tries to copy people who look as though they know what they are doing. He briefly speaks to Craig and is surprised by how normal he seems compared with the rumours forming around him.
+## 3 — LEAH MERCER
+Officer Leah Mercer processes the same arrivals from the staff side. To her, Connor is an inexperienced young prisoner and Craig is a name attached to risk information, rumours and unusual interest.
 
-## 4 — MALIK
-Malik lives prison as a marketplace of information, favours and opportunity. He hears that somebody outside is willing to put serious money behind an attack on Craig. At first he assumes it is exaggerated wing gossip.
+She is initially irritated by the mythology surrounding him.
 
-**End beat:** he learns the offer is real enough for people to take seriously.
+## 4 — CONNOR
+First-night procedures, cell allocation, strange noises through doors, bravado disappearing when Connor is alone. A call home makes prison suddenly real.
 
-## 5 — BRUCE
-Bruce arrives in the narrative as the opposite of what Connor expects a feared prisoner to look like: small, skinny, ginger, permanently appearing from nowhere and somehow known by everyone. His chapter is funny, quick and strange. He knows more about the social map of the wing than people realise.
+Craig briefly speaks to him. Connor is surprised by how normal he seems.
 
-Bruce hears that Craig has arrived and responds with amusement rather than fear, which makes the reader wonder what Bruce knows.
+## 5 — MALIK
+Malik hears fragments: Craig has arrived; people outside care; somebody may be willing to pay serious money for somebody to hurt him.
 
-## 6 — CONNOR
-Connor is allocated, learns the basic rhythm of the wing and experiences his first evening behind a closed door. The bravado drains away when he is alone. A phone call home reminds him that prison continues outside the prison too.
+Malik initially treats it as exaggerated wing gossip.
+
+## 6 — JAY
+Jamal “Jay” Cole hears the same rumour inside his own friendship network. His group is predominantly Black and has strong neighbourhood connections outside, but Jay is immediately wary of letting somebody else's feud turn his people into disposable soldiers.
+
+The chapter shows that group identity, friendship, race and outside loyalty overlap without being the same thing.
+
+## 7 — TOM BENNETT
+Officer Tom Bennett starts an ordinary shift carrying an extraordinary private problem. A prisoner-linked network already has leverage over him and is pressuring him to bring contraband packages into Greybank.
+
+He tells himself he can contain the situation.
+
+## 8 — BIG SHARKY
+For the first time the book leaves Greybank.
+
+Big Sharky is already housed in a dispersal/high-security prison. He receives word that Craig has landed at Greybank.
+
+We learn almost nothing about their history. What matters is his reaction: calm, immediate and personal.
+
+He makes it known through his contacts that there is serious money attached to Craig.
+
+**Do not explain why.**
+
+## 9 — BRUCE
+Bruce enters the story: small, skinny, ginger, permanently appearing from nowhere and known by people Connor would never expect to know him.
+
+His tuna-tin mythology is introduced through other prisoners' stories rather than a graphic scene.
+
+Bruce hears Craig is on the wing and finds the situation more amusing than frightening.
 
 ---
 
-# ACT II — EVERYONE HAS A DIFFERENT PRISON
+# ACT II — ONE PRISON, TEN DIFFERENT WORLDS
 
-## 7 — OFFICER HALE
-An officer's POV. Hale sees new arrivals not as legends but as risk, paperwork, personalities and patterns. Hale notices that unusual attention is clustering around Craig and that Connor, who appears inexperienced, keeps watching the wrong people at the wrong moments.
+## 10 — CONNOR
+Connor begins learning the wing: where people gather, how quickly gossip moves, why harmless questions can expose a newcomer.
 
-## 8 — DARREN
-Darren's prison revolves around addiction and the constant negotiation between wanting to change and wanting immediate relief. His chapter should make the institution feel completely different from Connor's. Rumours about Craig barely matter to him until they begin changing debts and behaviour around the wing.
+He notices groups forming naturally — some mostly Black, some mostly white, some mixed — while friendship and everyday prison life constantly cross those lines.
 
-## 9 — CONNOR
-Connor starts learning invisible rules: who sits where, how quickly gossip moves, why a harmless question can mark somebody as new. Craig gives him one small piece of advice without explaining why. Connor begins to notice that people are testing him simply because he has been seen talking to Craig.
+## 11 — DARREN
+Darren's prison revolves around addiction. Craig's reputation is almost irrelevant to him until the increased tension begins affecting debts, availability and who is willing to deal with whom.
 
-## 10 — LEON
-Leon treats prison almost like a brutal training camp: routine, exercise, food, sleep, repeat. He avoids politics because he has constructed a life around control. Craig's arrival threatens that neutrality when somebody asks Leon to become involved in something he wants no part of.
+The reader sees an entirely different Greybank.
 
-## 11 — MALIK
-Malik receives confirmation that the reward attached to Craig is far larger than normal wing talk. He does not immediately want to act himself. His problem is worse: once enough people know about money, he cannot control who will try.
+## 12 — DEANO
+Dean “Deano” Walsh sees the wing through another social group. His circle is mostly white and initially regards the Craig problem as something happening elsewhere.
 
-## 12 — CONNOR
-Connor begins induction alongside Craig. Connor is still trying to decide whether Craig is genuinely dangerous, merely famous or simply a man surrounded by other people's stories. Their conversations are brief and unexpectedly dry. Craig finds Connor's nervous attempts to appear experienced funny.
+Then money enters the story. Suddenly neutrality has a price.
 
-## 13 — BRUCE
-Bruce notices movement and behaviour that Connor does not. People who normally avoid one another are suddenly speaking. Bruce's instinct tells him that something is about to happen. The chapter keeps its comic voice while tightening the tension.
+## 13 — LEAH MERCER
+Leah watches Craig on the wing and realises the man in front of her does not neatly match either the frightening reports or the heroic stories prisoners tell.
+
+Her curiosity begins here — not romance yet, simply an uncomfortable desire to understand him.
+
+## 14 — CONNOR
+Connor starts induction alongside Craig. Their conversations are dry, funny and surprisingly ordinary.
+
+Craig notices Connor trying to look experienced and quietly takes the mickey out of him.
+
+Connor starts liking him before he has decided whether he should.
+
+## 15 — LEON
+Leon has built a prison life around training and discipline. He avoids politics because routine gives him control.
+
+Somebody asks him to become involved in the developing Craig situation. Leon refuses.
+
+He discovers that people can interpret refusal as a political choice.
+
+## 16 — TOM BENNETT
+Pressure on Bennett increases. A “small favour” has become an expectation.
+
+He knows the risks but also knows the people applying pressure have information about his life outside work.
+
+The chapter focuses on fear and compromise, not the mechanics of contraband smuggling.
+
+## 17 — MALIK
+Malik confirms the reward on Craig is real enough that multiple people are discussing it seriously.
+
+His problem changes: knowing about the money once gave him status; now it makes him vulnerable.
+
+## 18 — JAY
+Outside associates expect Jay's circle to help. Jay has to weigh loyalty to people outside against the reality that they will not be the ones serving the consequences inside Greybank.
+
+He does not want to attack Craig himself, but he cannot control everybody who has heard the figure being offered.
+
+## 19 — CONNOR
+Connor spends more time near Craig. People begin testing Connor simply because they have seen the two men talking.
+
+Craig gives Connor one piece of advice: being close to somebody with a reputation can give you a reputation you never earned.
+
+## 20 — MACCA
+Macca's chapter barely cares about prison politics. His partner is struggling outside and his child has started asking why he is never home.
+
+The Craig situation intrudes only because lockdowns, tension and staff attention interfere with the small routines Macca depends on.
+
+The point is clear: **the biggest story on the wing is not the biggest story in every prisoner's life.**
+
+## 21 — BRUCE
+Bruce notices unusual conversations, people temporarily forgetting old grudges and men hovering where they normally would not.
+
+He realises something is coming before Connor does.
+
+Humour remains present, but the chapter tightens the tension.
 
 ---
 
 # ACT III — THE CHOICE
 
-## 14 — CONNOR
-During induction, trouble reaches Craig. Connor has only seconds to decide whether to stay out of it. He acts on instinct and backs Craig rather than standing aside.
+## 22 — CONNOR
+During induction, trouble finally reaches Craig.
 
-The scene is tense but not written graphically. The important event is Connor's **choice**, not the mechanics of violence.
+Connor has seconds to decide whether to step away or help him. He acts on instinct and backs Craig.
 
-**End beat:** once it is over, Connor realises everybody has seen what he did.
+The scene is tense but not graphic. The defining event is **Connor's decision**.
 
-## 15 — OFFICER HALE
-The institutional aftermath looks completely different from the heroic version prisoners will later tell. Hale deals with statements, separation, risk decisions and contradictory stories. Connor has unintentionally changed how staff categorise him.
+**End beat:** afterwards Connor looks around and realises the entire social meaning of his sentence has changed because people saw what he did.
 
-## 16 — CONNOR
-Connor expects punishment or gratitude. Instead he gets something more complicated: attention. People who ignored him now know his name. Craig does not make a dramatic speech; he simply starts treating Connor as somebody inside his circle.
+## 23 — LEAH MERCER
+The staff-side aftermath looks nothing like the story already spreading through the wing.
 
-Connor likes the feeling more than he wants to admit.
+Leah deals with separation, conflicting accounts, risk decisions and the reality that Connor has now been reclassified in everybody's mind.
 
-## 17 — DARREN
-Darren's debts and desperation worsen as the failed attempt changes the wing economy. Through him, the reader sees how a conflict between powerful people ripples outward into the lives of people who have nothing to do with it.
+She also notices herself caring whether Craig is all right more than professional distance should allow.
 
-## 18 — MALIK
-Malik now has a problem with whoever expected the job to be completed. He must decide whether to distance himself, redirect blame or become more deeply involved. His chapter reveals that Craig's problem extends beyond this one prison.
+## 24 — TOM BENNETT
+The failed attack changes the atmosphere around the network pressuring Bennett. Prisoners are angry, outside pressure increases and Bennett realises he is connected to a world he cannot simply walk away from at the end of a shift.
 
-## 19 — CONNOR
-Connor spends more time around Craig and begins benefiting from the association: easier conversations, fewer tests, more information. But he also loses freedom. Every conversation with Craig is noticed. Every friendship Connor forms is interpreted politically.
+## 25 — CONNOR
+Connor expects either punishment or gratitude. Instead he gets **attention**.
 
-Craig warns him, in his own understated way, that being next to somebody important can make you important for all the wrong reasons.
+People who ignored him now know his name. Craig does not make a grand speech; he simply begins treating Connor as somebody he trusts to stand beside him.
 
-## 20 — LEON
-Leon watches Connor changing. He tells Connor that prison rewards identities quickly and then makes them difficult to escape. Leon's own disciplined life is revealed to be partly an attempt to avoid becoming the person he was outside.
+Connor becomes, informally, Craig's right-hand companion while Craig awaits sentence.
 
-## 21 — BRUCE
-Bruce reappears at exactly the wrong/right moment during a smaller wing dispute. His mythology grows. The chapter gives the book breathing room but also reveals that Bruce is not merely comic relief: he understands loyalty extremely seriously.
+Connor likes the status more than he admits.
+
+## 26 — DEANO
+Deano sees the failed attempt reshuffle relationships on the wing. Some men suddenly want distance from the money; others see the failure as unfinished business.
+
+Deano and Jay have a conversation that would surprise Connor: two men from different groups trying to stop another man's conflict swallowing their own people.
+
+## 27 — DARREN
+The fallout hits Darren's world. Debts move, people become nervous and his dependency puts him in the path of people using weaker prisoners to carry messages and pressure.
+
+Darren gets an opportunity to step away from one bad pattern — but taking it costs him something immediately.
+
+## 28 — MALIK
+Malik learns that the order did not originate at Greybank. The name **Big Sharky** becomes more concrete.
+
+He still does not know the whole history. What he understands is worse: Craig's problem will follow him from prison to prison.
+
+## 29 — CONNOR
+Connor is now treated differently. He has easier conversations, fewer casual tests and access to information he did not have before.
+
+Then he overreaches. A minor disagreement nearly becomes serious because somebody assumes Connor is speaking for Craig.
+
+Craig makes Connor fix his own mistake rather than rescuing him.
+
+## 30 — MASON
+Mason sees Connor becoming whatever identity Greybank is handing him.
+
+He warns Connor that prison gives young men characters to play and then keeps them in costume long after the performance stops being useful.
+
+Mason hears Craig's sentencing date is approaching.
 
 ---
 
-# ACT IV — THE PRICE OF A REPUTATION
+# ACT IV — EVERYBODY PAYS DIFFERENTLY
 
-## 22 — CONNOR
-Connor starts behaving less like the frightened newcomer from Chapter One. He also starts making mistakes because he thinks he now understands prison. A minor conflict nearly becomes major because somebody assumes Connor is speaking on Craig's behalf.
+## 31 — LEAH MERCER
+Leah's professional curiosity has become emotional attachment.
 
-Craig makes Connor fix the problem himself.
+She catches herself thinking about Craig away from work and giving his behaviour interpretations she would not automatically give another prisoner.
 
-## 23 — MASON
-Mason sees the pattern before Connor does. He has watched dozens of young prisoners become whatever identity the wing gives them. Mason's chapter contrasts Connor's growing status with the quiet long-term damage of institutional life.
+Nothing needs to become physically romantic. The tension is that Leah understands the boundary perfectly and is nevertheless struggling with her own feelings.
 
-Mason also hears that Craig's sentencing date is approaching.
+Because Craig has no POV, neither Leah nor the reader can be completely sure what Craig thinks of her.
 
-## 24 — DARREN
-Darren gets a genuine opportunity to change direction. The choice is small rather than cinematic. His chapter reinforces the book's thesis: a prisoner's biggest battle may have absolutely nothing to do with the people everyone else is talking about.
+## 32 — TOM BENNETT
+Senior Officer Patel notices Bennett's behaviour changing.
 
-## 25 — MALIK
-The outside pressure around Craig has not disappeared, but circumstances are changing. Malik understands that Craig may soon be moved somewhere where the stakes are much higher. He chooses self-preservation, but not without creating a loose end that can return in a later book.
+Bennett now faces two dangers: the people pressuring him and the colleagues beginning to suspect something is wrong.
 
-## 26 — CONNOR
-Craig receives a major sentence. Connor had heard numbers and rumours before, but the reality of the sentence changes the mood. Craig is going into the dispersal/high-security system.
+He must decide whether to keep compromising himself, seek help and risk exposure, or make an even worse decision to buy time.
 
-For the first time Connor understands that the person who transformed his prison experience is about to disappear from it.
+His arc remains unresolved enough to continue into another book if needed.
 
-Connor asks Craig a question the reader has wanted answered all book. Craig gives him only half an answer.
+## 33 — BIG SHARKY
+Big Sharky learns the Greybank attempt failed.
 
-## 27 — OFFICER HALE
-Transfer preparation from the institutional side. Hale reflects on how quickly prisoners build legends from fragments. Hale has seen enough of Craig to know that some rumours are false, some are understated and some cannot yet be verified.
+He is not furious in the theatrical way people expect. His calm makes him more unsettling.
 
-This chapter quietly sets up the scale change for Book Two.
+He learns Craig is likely heading into the dispersal system after sentence.
 
-## 28 — CONNOR
-Craig leaves.
+For the first time, Big Sharky appears almost pleased.
 
-Connor watches the departure and realises the wing already feels different. People immediately begin rewriting what happened during Craig's time there, turning recent events into mythology.
+**End beat:** “Then let him come.”
 
-Connor is no longer the boy who arrived in Chapter One—but he is also not sure whether that is a good thing.
+No explanation of the feud.
 
-The final pages show several characters continuing their completely different prison lives: Leon training, Darren facing his next choice, Bruce appearing where he should not be, Mason settling into routine.
+## 34 — JAY
+Jay deals with the consequences of refusing to let outside people dictate every decision his group makes inside.
 
-**Final hook:** somewhere else, Craig arrives at the next prison.
+This chapter reinforces that “the Black lads,” “the white lads” or any other label hides individual arguments, friendships and ambitions.
 
-For the first time in the series, the next chapter heading we are promised is:
+Jay also realises Craig leaving Greybank may solve one problem while carrying a much larger one elsewhere.
+
+## 35 — CONNOR
+Craig receives a major sentence.
+
+Connor has heard rumours and numbers for weeks, but the reality changes the mood. Craig is being transferred into the dispersal/high-security system.
+
+Connor asks the question the reader wants answered: what exactly happened between Craig and Big Sharky?
+
+Craig gives him only enough of an answer to make the mystery bigger.
+
+## 36 — CONNOR
+Craig leaves Greybank.
+
+Connor watches the departure and realises the wing already feels different. People immediately begin rewriting what happened, turning recent events into legend.
+
+Around him, everybody returns to their own prison:
+- Darren faces his next choice;
+- Leon trains;
+- Macca waits for a call;
+- Jay and Deano manage their people;
+- Bennett turns up for another shift carrying a secret;
+- Leah watches a space on the wing where Craig used to be;
+- Mason returns to routine;
+- Bruce appears somewhere he absolutely should not be.
+
+Connor is no longer the frightened newcomer from Chapter One. He is not sure whether that is a victory.
+
+**Final sequence:** at another establishment, Craig arrives in the dispersal system.
+
+For the first time in the series, the next book can open with the chapter heading the reader has been denied all novel:
 
 # CRAIG
 
@@ -156,22 +297,27 @@ For the first time in the series, the next chapter heading we are promised is:
 
 # Book Two launch point
 
-Book Two can open with Craig's POV, immediately paying off an entire novel of withheld interiority. The reader finally discovers the difference between:
+Book Two opens inside Craig's head for the first time.
+
+The world becomes larger and more dangerous because Craig is now in the dispersal system — the same network in which Big Sharky already lives.
+
+The reader can finally discover the difference between:
 
 - what Connor believed about Craig;
-- what the wing believed about Craig;
-- what Craig believed about himself.
+- what Greybank believed about Craig;
+- what Leah believed about Craig;
+- what Big Sharky believes Craig did;
+- and what actually happened.
 
-That becomes the engine for the next stage of the series.
+Craig and Big Sharky's eventual meeting becomes one of Book Two's major engines.
 
-# Questions to answer during drafting
-
-These do not need to block the first draft, but they should eventually be made specific:
+# Drafting rules still to lock
 
 1. Connor's exact age, background and robbery circumstances.
-2. Craig's age, case and the reason for the outside hostility.
-3. The fictional prison's location, category and layout.
-4. Whether real UK prison terminology is used directly or a lightly fictionalised system is created.
-5. Connor's important family relationships outside.
-6. Which Book One side character is most likely to become a future lead.
-7. The exact nature of Connor and Craig's relationship: friendship, mentorship, loyalty, usefulness—or an unstable mixture of all four.
+2. Craig's age, case and sentence.
+3. Leah and Bennett's exact ages/backgrounds.
+4. Big Sharky's real name and origin of nickname.
+5. The true Craig/Big Sharky backstory — known to us before Book Two is drafted, but withheld from Book One readers.
+6. Greybank's internal geography and which characters live/work on which wing.
+7. Which secondary characters are likely to transfer with, before or after Craig so later reunions feel earned.
+8. Which Book One characters have enough life to lead their own future books.
