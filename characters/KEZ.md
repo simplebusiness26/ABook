@@ -37,9 +37,10 @@ He is nevertheless **not a harmless victim**. He has friends, associates and out
 - rarely explains more than he needs to;
 - dislikes being challenged publicly;
 - not cowardly, but prefers leverage and people to unnecessary direct confrontation;
-- believes Connor should have asked questions if Connor wanted a better deal.
+- believes Connor should have asked questions if Connor wanted a better deal;
+- capable of giving a little ground when that is easier than creating a bigger dispute.
 
-That last point is important: Kez does not think of himself as having cheated Connor in quite the same way Connor does. In Kez's mind, Connor agreed before understanding the terms. That is Connor's mistake.
+That last point matters. Kez is not written as a cartoon thief who pockets everything. He has genuine costs and other people attached to the arrangement. But he also deliberately leaves Connor ignorant of the split because that ignorance benefits Kez.
 
 ## The visit storyline
 
@@ -58,9 +59,18 @@ The visitor then has to be added to Connor's approved visiting arrangements. Thi
 
 The dangerous visit occurs on **19 October 2019**.
 
-Only after Connor returns does Kez reveal the split. Connor discovers that his share is roughly **one fifth**, while Kez keeps the much larger share despite Connor having carried the immediate risk.
+Only after Connor returns does Kez reveal that Connor's initial share is roughly **one fifth**.
 
-Connor becomes furious and feels like a mug.
+Connor becomes furious and feels like a mug because he carried the immediate risk without knowing the terms.
+
+When Connor nearly loses his temper, Kez gives a little ground and raises Connor's share to roughly **one quarter**. Kez argues that not everything he retains is profit because he has to cover the cost of the pack and other costs attached to the arrangement.
+
+The important dramatic point is that **both things can be true**:
+
+- Kez may have genuine costs;
+- Kez still saw Connor coming and let him take the risk without telling him the terms.
+
+Craig later explains exactly that distinction to Connor. Craig does not simply side with Connor. He points out that the unfairness is not only the percentage; it is that Connor agreed first and learned the value of his own risk afterwards.
 
 The story should not explain practical smuggling or concealment mechanics.
 
@@ -90,11 +100,14 @@ The exact retaliation, if any, should remain a story decision and should not be 
 
 The strongest current version is that Connor **nearly** attacks Kez immediately after learning the split but stops.
 
-That does three useful things:
+Kez notices how close Connor is to losing his temper and concedes a little, moving Connor from roughly a fifth to a quarter.
+
+That does four useful things:
 
 1. It keeps the anger real.
-2. It allows Connor to recognise the trap a fraction earlier than he would have at the start of the book.
-3. It gives Craig's lesson more weight: if Kez can make Connor carry the risk and then make Connor get himself punished for being angry, Kez has used him twice.
+2. It makes Kez feel like a believable negotiator rather than a one-note exploiter.
+3. It allows Connor to recognise the trap a fraction earlier than he would have at the start of the book.
+4. It gives Craig's lesson more weight: genuine costs can exist **and** Connor can still have been used.
 
 A later physical confrontation remains available if the wider story earns it.
 
