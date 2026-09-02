@@ -1,67 +1,96 @@
 # 2019 Timeline Working Plan
 
-**Status: recommended structure, NOT fully locked until creator approves the exact opening month/date.**
+**Status: core legal/prison rhythm now locked; exact opening month/date still to be finalised.**
 
-## Key structural problem
+## Core structural solution
 
-Connor and Craig should feel as though they enter the reader's prison world together and eventually leave Lewes for very different futures. They do **not** need to have cases that began on the same day or move prisons on the exact same day.
-
-The cleanest solution is to let them arrive at Lewes at roughly the same time while their legal cases are at different stages.
-
-## Why 18 months is probably unnecessary
-
-2019 Crown Court waiting times were substantially shorter than modern post-pandemic waits. A serious contested case could still take longer than the median, especially if it involved multiple defendants and complex evidence, but Craig does not automatically need an eighteen-month Lewes remand simply because the case is large.
-
-Connor's guilty-plea case should resolve faster than Craig's contested conspiracy case, but ordinary adjournments, reports and listing delays can keep Connor on remand long enough for both arcs to overlap meaningfully.
-
-## Preferred story window
-
-**Recommended:** late summer / early autumn 2019 → early 2020, ending before COVID prison restrictions become part of the historical setting.
-
-This also fits the creator's remembered three-level IEP language better because Entry level ceased in August 2019, leaving Basic / Standard / Enhanced.
-
-## Working legal rhythm
+Connor and Craig enter the reader's Lewes world at roughly the same time, but they are **not at the same stage of their criminal cases**.
 
 ### Connor
 
-- arrives on remand;
-- initially experiences the uncertainty as though he could receive an enormous sentence;
-- indicates / enters a guilty plea at the appropriate Crown Court stage;
-- sentencing is adjourned for ordinary case-management/report reasons;
-- at least one further frustrating delay can occur for a mundane administrative/listing reason;
-- eventually receives the planned five-year sentence;
-- is categorised / allocated for transfer to a Category C prison.
-
-The exact legal sequence and sentence basis must be checked before publication. Do not manufacture an implausible six-month delay purely to keep Connor beside Craig.
+Connor is genuinely near the beginning of his case when he arrives at HMP Lewes. He has just been arrested, remanded and is still mentally treating every possible sentence as catastrophic.
 
 ### Craig
 
-Craig can arrive at Lewes at the same story moment as Connor **without his case needing to be the same age**.
+Craig has **already been on remand in another prison** before the reader meets him.
 
-Possible clean solution: Craig's conspiracy case is already further advanced when he lands at Lewes. His arrival is the prison event that matters to the novel, not necessarily the first day of the entire prosecution.
+He is moved out of that establishment for security reasons and transferred to HMP Lewes. His arrival at Lewes therefore feels sudden and significant to the prison population even though his conspiracy case has already been progressing elsewhere.
 
-- conspiracy case continues through preparation;
-- Craig contests important parts of it;
-- trial occurs later than Connor's guilty-plea process;
-- Craig loses the contested case / is convicted on the relevant counts;
-- he receives a major sentence;
-- his risk/category position sends him toward the high-security/dispersal estate.
+This solves the timing problem naturally: Connor and Craig can physically land in the same prison world together while Craig's much larger contested prosecution is already further advanced.
 
-## Ending recommendation
+The exact previous establishment and exact reason recorded for Craig's security transfer remain to be chosen later. Keep this high-level in the novel; do not turn it into an explanation of prison security weaknesses.
 
-Do **not** force Connor and Craig onto transport on the same morning just for symmetry.
+## Preferred story window
 
-A stronger and more believable ending is a **parallel departure sequence across the same week or short period**:
+**Working period:** late 2019 into early 2020.
 
-- Connor learns he is finally leaving Lewes for a Category C prison;
-- Craig's sentence lands and everybody understands he is going somewhere very different;
-- their final Lewes conversation happens before either departure;
-- Connor leaves into one version of sentenced prison life;
-- Craig leaves into the dispersal/high-security world;
-- the book closes the Lewes chapter for both men while clearly launching two different Book Two worlds.
+The exact opening date must be reset now that 2019 is canon. Existing October weekday/date placeholders are drafting remnants and are not final calendar dates.
 
-The emotional symmetry matters more than identical transport timing.
+If the story extends materially beyond March 2020, COVID-19 prison restrictions would become historically impossible to ignore. Unless the creator deliberately chooses to include the pandemic, Book One should conclude before those restrictions dominate prison life.
 
-## COVID constraint
+## Connor's legal rhythm
 
-If the story extends materially beyond March 2020, pandemic restrictions would affect visits, regimes, work, education, movement and court processes so strongly that they would become part of the novel. Unless that is deliberately wanted, Book One should finish before those restrictions dominate prison life.
+Connor's case should normally resolve faster than Craig's because Connor ultimately pleads guilty.
+
+Working sequence:
+
+- Connor arrives at Lewes on remand.
+- He spends the early part of Book One catastrophising about ten, twelve or fifteen years because he does not yet know the outcome.
+- He indicates / enters a guilty plea at the appropriate stage.
+- Sentencing is adjourned for ordinary case-management/report reasons.
+- At least one further mundane delay / listing knock-back keeps him waiting longer than he expected and gives the novel a genuine emotional beat: he thinks he is finally going to know his future, then gets returned to Lewes still waiting.
+- Connor eventually receives the planned **five-year sentence**.
+- He is categorised / allocated toward a **Category C prison**.
+
+Do not invent an absurd legal delay simply to keep Connor beside Craig. The delay only needs to be long enough for their arcs to converge emotionally near the end.
+
+## Craig's legal rhythm
+
+Craig's conspiracy case is already underway when his security transfer brings him to Lewes.
+
+Working sequence:
+
+- Craig has already spent time remanded elsewhere.
+- A security decision results in his transfer to Lewes.
+- He lands at Lewes at roughly the same story moment as Connor, creating the opening coincidence that links their prison lives.
+- His large conspiracy case continues through preparation while he is at Lewes.
+- Craig contests important parts of the prosecution rather than simply pleading everything guilty.
+- His trial / contested proceedings therefore run longer than Connor's guilty-plea path.
+- Craig is ultimately convicted on the relevant serious counts and receives a major sentence.
+- His sentence/risk position sends him toward the high-security/dispersal estate.
+
+The reader should gradually realise that Craig's arrival at Lewes was **not the beginning of Craig's case**. Connor has entered prison. Craig has been moved within prison.
+
+That contrast reinforces their different levels of experience from the first day.
+
+## Final convergence — LOCKED DIRECTION
+
+Connor and Craig should end Book One reaching sentence/transfer at roughly the same time after taking very different legal routes.
+
+The symmetry is deliberate but does not require impossible coincidence. Connor's ordinary sentencing delays and Craig's already-advanced but complex contested case allow the two timelines to converge.
+
+Preferred final sequence:
+
+- Connor receives five years and learns he is going to a Category C prison.
+- Craig receives his major sentence and learns he is heading into the high-security/dispersal system.
+- Their final Lewes conversation happens with both men knowing they are leaving this shared prison world.
+- Connor's transport goes toward one kind of sentenced prison life.
+- Craig's transport goes toward another.
+- The departures can happen the same day if the final researched logistics make that plausible, or within a very short period if that reads more naturally.
+- Visually/emotionally, Book One closes on **two men who arrived in the reader's Lewes story together now being sent in opposite directions**.
+
+Book Two then opens those two new worlds: Connor in the Category C estate and Craig in the dispersal/high-security estate, with Craig finally eligible to become a POV character.
+
+## Thematic value
+
+At the beginning:
+
+- Connor is entering prison for the first time.
+- Craig is being moved because prison already knows him.
+
+At the end:
+
+- Connor has become Rush and is being sent onward as a sentenced prisoner.
+- Craig's legend has become a major sentence and a move deeper into the system.
+
+They share the same building for only one stage of their lives, but that stage changes both of their trajectories and launches the next book.
