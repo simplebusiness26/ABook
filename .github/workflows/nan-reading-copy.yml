@@ -1,0 +1,212 @@
+name: Build Nan Reading Copy
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'book-01/draft-v3/**'
+      - 'bible/STAFF_NAMING_CANON.md'
+      - '.github/workflows/nan-reading-copy.yml'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Install PDF tools
+        run: pip install reportlab pypdf pymupdf
+
+      - name: Build large-print reading copy
+        run: |
+          cat > /tmp/build_reading_copy.py <<'PY'
+          from pathlib import Path
+          import re, html
+          from reportlab.lib.pagesizes import A5
+          from reportlab.platypus import SimpleDocTemplate, Paragraph, Spacer, PageBreak, KeepTogether
+          from reportlab.lib.styles import getSampleStyleSheet, ParagraphStyle
+          from reportlab.lib.enums import TA_CENTER, TA_LEFT
+          from reportlab.lib import colors
+          from reportlab.pdfbase.ttfonts import TTFont
+          from reportlab.pdfbase import pdfmetrics
+          from reportlab.lib.units import mm
+          from pypdf import PdfReader
+          import fitz
+
+          root = Path('.')
+          draft = root / 'book-01' / 'draft-v3'
+          outdir = root / 'reading-copies'
+          outdir.mkdir(exist_ok=True)
+          out = outdir / 'Hear_All_See_All_Say_Nothing_Nans_Reading_Copy_v3.pdf'
+
+          # Only reader-facing dated manuscript chapters; exclude notes/index/readmes.
+          files = []
+          for p in draft.glob('*.md'):
+              if re.match(r'^(?:\d{2}|\d{2}[A-Z])-\d{2}-(?:SEPTEMBER|OCTOBER)-2019\.md$', p.name):
+                  files.append(p)
+
+          def key(p):
+              m = re.match(r'^(\d{2})([A-Z]?)-', p.name)
+              n = int(m.group(1))
+              suffix = m.group(2)
+              return (n, suffix or '')
+          files.sort(key=key)
+
+          def normalise_staff(text: str) -> str:
+              # Book One reader-facing convention: title/rank + surname; first names remain private.
+              text = text.replace('Officer Leah Mercer', 'Officer Mercer')
+              text = text.replace('Leah Mercer', 'Mercer')
+              text = re.sub(r'\bLeah\b', 'Mercer', text)
+              text = text.replace('Officer Tom Bennett', 'Officer Bennett')
+              text = text.replace('Tom Bennett', 'Officer Bennett')
+              text = re.sub(r'\bTom\b', 'Bennett', text)
+
+              text = re.sub(r'^##\s+LEAH(?=\s|$)', '## OFFICER MERCER', text, flags=re.M)
+              text = re.sub(r'^##\s+MERCER(?=\s|$)', '## OFFICER MERCER', text, flags=re.M)
+              text = re.sub(r'^##\s+TOM BENNETT(?=\s|$)', '## OFFICER BENNETT', text, flags=re.M)
+              text = re.sub(r'^##\s+BENNETT(?=\s|$)', '## OFFICER BENNETT', text, flags=re.M)
+              text = re.sub(r'^##\s+GRANT(?=\s|$)', '## OFFICER GRANT', text, flags=re.M)
+              text = re.sub(r'^##\s+PATEL(?=\s|$)', '## SENIOR OFFICER PATEL', text, flags=re.M)
+              text = re.sub(r'^##\s+SENIOR OFFICER PATEL(?=\s|$)', '## SENIOR OFFICER PATEL', text, flags=re.M)
+
+              # Avoid doubled titles caused by replacement order.
+              text = text.replace('Officer Officer Mercer', 'Officer Mercer')
+              text = text.replace('Officer Officer Bennett', 'Officer Bennett')
+              return text
+
+          manuscript = []
+          for p in files:
+              manuscript.append(normalise_staff(p.read_text(encoding='utf-8')))
+
+          # Font: use DejaVu if present on runner, otherwise Helvetica.
+          regular = '/usr/share/fonts/truetype/dejavu/DejaVuSerif.ttf'
+          bold = '/usr/share/fonts/truetype/dejavu/DejaVuSerif-Bold.ttf'
+          italic = '/usr/share/fonts/truetype/dejavu/DejaVuSerif-Italic.ttf'
+          if Path(regular).exists():
+              pdfmetrics.registerFont(TTFont('BookSerif', regular))
+              pdfmetrics.registerFont(TTFont('BookSerifBold', bold))
+              pdfmetrics.registerFont(TTFont('BookSerifItalic', italic))
+              body_font, bold_font, italic_font = 'BookSerif', 'BookSerifBold', 'BookSerifItalic'
+          else:
+              body_font, bold_font, italic_font = 'Times-Roman', 'Times-Bold', 'Times-Italic'
+
+          styles = getSampleStyleSheet()
+          title = ParagraphStyle('BookTitle', parent=styles['Title'], fontName=bold_font,
+                                 fontSize=24, leading=29, alignment=TA_CENTER,
+                                 spaceAfter=16, textColor=colors.black)
+          subtitle = ParagraphStyle('Subtitle', parent=styles['Normal'], fontName=body_font,
+                                    fontSize=12.5, leading=17, alignment=TA_CENTER,
+                                    spaceAfter=10)
+          h1 = ParagraphStyle('Chapter', parent=styles['Heading1'], fontName=bold_font,
+                              fontSize=16.5, leading=21, alignment=TA_CENTER,
+                              spaceBefore=4, spaceAfter=16, keepWithNext=True)
+          h2 = ParagraphStyle('POV', parent=styles['Heading2'], fontName=bold_font,
+                              fontSize=12.8, leading=16, alignment=TA_LEFT,
+                              spaceBefore=13, spaceAfter=7, keepWithNext=True)
+          body = ParagraphStyle('Body', parent=styles['BodyText'], fontName=body_font,
+                                fontSize=13.2, leading=18.2, alignment=TA_LEFT,
+                                spaceAfter=7.5, allowWidows=0, allowOrphans=0)
+          italic_style = ParagraphStyle('Italic', parent=body, fontName=italic_font)
+          small = ParagraphStyle('Small', parent=styles['Normal'], fontName=body_font,
+                                 fontSize=10.5, leading=14, alignment=TA_CENTER,
+                                 textColor=colors.HexColor('#444444'))
+
+          def footer(canvas, doc):
+              canvas.saveState()
+              canvas.setFont(body_font, 8.5)
+              canvas.setFillColor(colors.HexColor('#555555'))
+              canvas.drawCentredString(A5[0] / 2, 8 * mm, str(doc.page))
+              canvas.restoreState()
+
+          doc = SimpleDocTemplate(str(out), pagesize=A5,
+                                  rightMargin=17*mm, leftMargin=17*mm,
+                                  topMargin=18*mm, bottomMargin=17*mm,
+                                  title='Hear All, See All, Say Nothing - Nan Reading Copy',
+                                  author='')
+
+          story = []
+          story.append(Spacer(1, 32*mm))
+          story.append(Paragraph('Hear All, See All,<br/>Say Nothing', title))
+          story.append(Spacer(1, 5*mm))
+          story.append(Paragraph('Book One - Draft Reading Copy', subtitle))
+          story.append(Paragraph('Manuscript through 31 October 2019', small))
+          story.append(Spacer(1, 9*mm))
+          story.append(Paragraph('Large-print family reading edition', small))
+          story.append(PageBreak())
+
+          first_chapter = True
+          for text in manuscript:
+              if not first_chapter:
+                  story.append(PageBreak())
+              first_chapter = False
+              blocks = re.split(r'\n\s*\n', text.strip())
+              for block in blocks:
+                  s = block.strip()
+                  if not s:
+                      continue
+                  if s == '---':
+                      story.append(Spacer(1, 5*mm))
+                      continue
+                  if s.startswith('# '):
+                      heading = html.escape(s[2:].strip()).replace('—', '-').replace('–', '-')
+                      story.append(Paragraph(heading, h1))
+                      continue
+                  if s.startswith('## '):
+                      heading = html.escape(s[3:].strip()).replace('—', '-').replace('–', '-')
+                      story.append(Paragraph(heading, h2))
+                      continue
+
+                  # Keep simple emphasis used in manuscript without exposing markdown marks.
+                  raw = s.replace('—', '-').replace('–', '-')
+                  escaped = html.escape(raw)
+                  # Whole-paragraph italics such as *Hear all.*
+                  if raw.startswith('*') and raw.endswith('*') and raw.count('*') == 2:
+                      escaped = html.escape(raw[1:-1])
+                      story.append(Paragraph(escaped, italic_style))
+                  else:
+                      # Inline simple italics.
+                      escaped = re.sub(r'\*([^*]+)\*', r'<i>\1</i>', escaped)
+                      story.append(Paragraph(escaped.replace('\n', '<br/>'), body))
+
+          doc.build(story, onFirstPage=footer, onLaterPages=footer)
+
+          reader = PdfReader(str(out))
+          if len(reader.pages) < 20:
+              raise RuntimeError(f'Unexpectedly short PDF: {len(reader.pages)} pages')
+
+          # Render every page to confirm the file is structurally renderable and has non-empty pages.
+          pdf = fitz.open(str(out))
+          for i, page in enumerate(pdf):
+              pix = page.get_pixmap(matrix=fitz.Matrix(0.5, 0.5), alpha=False)
+              if pix.width < 100 or pix.height < 100:
+                  raise RuntimeError(f'Bad render on page {i+1}')
+          print(f'Built {out} with {len(reader.pages)} pages from {len(files)} manuscript files')
+          PY
+          python /tmp/build_reading_copy.py
+
+      - name: Commit reading copy to repository
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add reading-copies/Hear_All_See_All_Say_Nothing_Nans_Reading_Copy_v3.pdf
+          if git diff --cached --quiet; then
+            echo 'Reading copy unchanged'
+          else
+            git commit -m 'Build updated Nan reading copy PDF'
+            git push
+          fi
+
+      - name: Upload reading copy artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: nan-reading-copy-v3
+          path: reading-copies/Hear_All_See_All_Say_Nothing_Nans_Reading_Copy_v3.pdf
+          if-no-files-found: error
