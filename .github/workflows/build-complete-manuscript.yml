@@ -16,14 +16,11 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-
       - uses: actions/setup-python@v5
         with:
           python-version: '3.12'
-
       - name: Install manuscript tools
         run: pip install reportlab pypdf pymupdf
-
       - name: Build professional reading manuscript
         run: |
           cat > /tmp/build_complete.py <<'PY'
@@ -36,7 +33,6 @@ jobs:
           from reportlab.lib import colors
           from reportlab.pdfbase.ttfonts import TTFont
           from reportlab.pdfbase import pdfmetrics
-          from reportlab.lib.units import inch as INCH
           from pypdf import PdfReader
           import fitz
 
@@ -53,13 +49,11 @@ jobs:
               if not m:
                   continue
               n = int(m.group(1))
-              if n < 1:
-                  continue
-              files.append((n, p.name, p))
+              if n >= 1:
+                  files.append((n, p.name, p))
           files.sort(key=lambda x: (x[0], x[1]))
 
-          def normalise_legacy_staff(text: str, n: int) -> str:
-              # Before the intentional January first-name reveal, staff are surname/title only.
+          def normalise_staff(text, n):
               if n <= 41:
                   text = text.replace('Officer Leah Mercer', 'Officer Mercer')
                   text = text.replace('Leah Mercer', 'Mercer')
@@ -73,167 +67,98 @@ jobs:
               text = re.sub(r'^##\s+BENNETT(?=\s|$)', '## OFFICER BENNETT', text, flags=re.M)
               text = re.sub(r'^##\s+GRANT(?=\s|$)', '## OFFICER GRANT', text, flags=re.M)
               text = re.sub(r'^##\s+PATEL(?=\s|$)', '## SENIOR OFFICER PATEL', text, flags=re.M)
-              text = text.replace('Officer Officer Mercer', 'Officer Mercer')
-              text = text.replace('Officer Officer Bennett', 'Officer Bennett')
-              return text
+              return text.replace('Officer Officer Mercer','Officer Mercer').replace('Officer Officer Bennett','Officer Bennett')
 
-          def reader_cleanup(text: str) -> str:
-              # Remove a handful of author-side/meta phrases from the working source for the clean reading manuscript.
+          def reader_cleanup(text):
               text = text.replace('"Book Two."', '"Ask me another time."')
               text = text.replace('Book One still did not explain why.', 'The truth remained somewhere beyond Lewes.')
               text = text.replace('He did not receive a POV.\n\nNot yet.', 'No one in Lewes could see what he was thinking as the vehicle carried him away.')
+              text = text.replace('## CRAIG\n\nCraig found Connor later.', '## CONNOR AND CRAIG\n\nCraig found Connor later.')
+              text = text.replace('## CRAIG — SEEN FROM OUTSIDE', "## THE WING — CRAIG'S DEPARTURE")
+              text = text.replace('## CRAIG - SEEN FROM OUTSIDE', "## THE WING - CRAIG'S DEPARTURE")
               text = text.replace('# END OF BOOK ONE', '')
               return text
 
-          manuscript = []
-          raw_for_count = []
-          for n, name, p in files:
-              t = p.read_text(encoding='utf-8')
-              t = normalise_legacy_staff(t, n)
-              t = reader_cleanup(t)
-              manuscript.append(t)
-              raw_for_count.append(t)
+          manuscript=[]
+          for n,name,p in files:
+              manuscript.append(reader_cleanup(normalise_staff(p.read_text(encoding='utf-8'), n)))
 
-          # Approximate fiction word count: remove Markdown heading marks/emphasis punctuation.
-          count_text = '\n'.join(raw_for_count)
-          count_text = re.sub(r'^#{1,6}\s+', '', count_text, flags=re.M)
-          count_text = re.sub(r'\*|`|---', ' ', count_text)
-          words = re.findall(r"\b[\w’'-]+\b", count_text)
-          word_count = len(words)
+          count_text='\n'.join(manuscript)
+          count_text=re.sub(r'^#{1,6}\s+','',count_text,flags=re.M)
+          count_text=re.sub(r'\*|`|---',' ',count_text)
+          words=re.findall(r"\b[\w’'-]+\b",count_text)
+          word_count=len(words)
+          est_low=round(word_count/205)
+          est_high=round(word_count/165)
 
-          regular = '/usr/share/fonts/truetype/dejavu/DejaVuSerif.ttf'
-          bold = '/usr/share/fonts/truetype/dejavu/DejaVuSerif-Bold.ttf'
-          italic = '/usr/share/fonts/truetype/dejavu/DejaVuSerif-Italic.ttf'
+          regular='/usr/share/fonts/truetype/dejavu/DejaVuSerif.ttf'
+          bold='/usr/share/fonts/truetype/dejavu/DejaVuSerif-Bold.ttf'
+          italic='/usr/share/fonts/truetype/dejavu/DejaVuSerif-Italic.ttf'
           if Path(regular).exists():
-              pdfmetrics.registerFont(TTFont('BookSerif', regular))
-              pdfmetrics.registerFont(TTFont('BookSerifBold', bold))
-              pdfmetrics.registerFont(TTFont('BookSerifItalic', italic))
-              body_font, bold_font, italic_font = 'BookSerif', 'BookSerifBold', 'BookSerifItalic'
+              pdfmetrics.registerFont(TTFont('BookSerif',regular)); pdfmetrics.registerFont(TTFont('BookSerifBold',bold)); pdfmetrics.registerFont(TTFont('BookSerifItalic',italic))
+              body_font,bold_font,italic_font='BookSerif','BookSerifBold','BookSerifItalic'
           else:
-              body_font, bold_font, italic_font = 'Times-Roman', 'Times-Bold', 'Times-Italic'
+              body_font,bold_font,italic_font='Times-Roman','Times-Bold','Times-Italic'
 
-          page_size = (6*inch, 9*inch)
-          styles = getSampleStyleSheet()
-          title = ParagraphStyle('Title', parent=styles['Title'], fontName=bold_font,
-                                 fontSize=25, leading=30, alignment=TA_CENTER, spaceAfter=18)
-          subtitle = ParagraphStyle('Subtitle', parent=styles['Normal'], fontName=body_font,
-                                    fontSize=11.5, leading=16, alignment=TA_CENTER, spaceAfter=9)
-          note = ParagraphStyle('Note', parent=styles['Normal'], fontName=body_font,
-                                fontSize=9.5, leading=14, alignment=TA_LEFT, spaceAfter=8,
-                                textColor=colors.HexColor('#333333'))
-          chapter = ParagraphStyle('Chapter', parent=styles['Heading1'], fontName=bold_font,
-                                    fontSize=15, leading=19, alignment=TA_CENTER,
-                                    spaceBefore=4, spaceAfter=24, keepWithNext=True)
-          pov = ParagraphStyle('POV', parent=styles['Heading2'], fontName=bold_font,
-                                fontSize=10.2, leading=13, alignment=TA_LEFT,
-                                spaceBefore=13, spaceAfter=6, keepWithNext=True)
-          body = ParagraphStyle('Body', parent=styles['BodyText'], fontName=body_font,
-                                fontSize=10.5, leading=14.4, alignment=TA_LEFT,
-                                firstLineIndent=0.18*INCH, spaceAfter=1.8,
-                                allowWidows=0, allowOrphans=0)
-          body_no_indent = ParagraphStyle('BodyNoIndent', parent=body, firstLineIndent=0)
-          italic_style = ParagraphStyle('Italic', parent=body, fontName=italic_font)
-          small_center = ParagraphStyle('SmallCenter', parent=note, alignment=TA_CENTER, fontSize=9)
+          page_size=(6*inch,9*inch)
+          styles=getSampleStyleSheet()
+          title=ParagraphStyle('Title',parent=styles['Title'],fontName=bold_font,fontSize=24,leading=28,alignment=TA_CENTER,spaceAfter=16)
+          subtitle=ParagraphStyle('Subtitle',parent=styles['Normal'],fontName=body_font,fontSize=11,leading=15,alignment=TA_CENTER,spaceAfter=8)
+          note=ParagraphStyle('Note',parent=styles['Normal'],fontName=body_font,fontSize=9.3,leading=13,alignment=TA_LEFT,spaceAfter=7,textColor=colors.HexColor('#333333'))
+          chapter=ParagraphStyle('Chapter',parent=styles['Heading1'],fontName=bold_font,fontSize=13.2,leading=16.5,alignment=TA_CENTER,spaceBefore=2,spaceAfter=16,keepWithNext=True)
+          pov=ParagraphStyle('POV',parent=styles['Heading2'],fontName=bold_font,fontSize=9.3,leading=11.5,alignment=TA_LEFT,spaceBefore=9,spaceAfter=4,keepWithNext=True)
+          body=ParagraphStyle('Body',parent=styles['BodyText'],fontName=body_font,fontSize=9.5,leading=11.35,alignment=TA_LEFT,firstLineIndent=0.16*inch,spaceAfter=0.15,allowWidows=1,allowOrphans=1)
+          body_no_indent=ParagraphStyle('BodyNoIndent',parent=body,firstLineIndent=0)
+          italic_style=ParagraphStyle('Italic',parent=body,fontName=italic_font)
+          small_center=ParagraphStyle('SmallCenter',parent=note,alignment=TA_CENTER,fontSize=8.8)
 
-          def footer(canvas, doc):
-              canvas.saveState()
-              canvas.setFont(body_font, 7.6)
-              canvas.setFillColor(colors.HexColor('#666666'))
-              if doc.page > 2:
-                  canvas.drawString(0.72*INCH, 0.44*INCH, 'HEAR ALL, SEE ALL, SAY NOTHING')
-                  canvas.drawRightString(page_size[0]-0.72*INCH, 0.44*INCH, str(doc.page-2))
+          def footer(canvas,doc):
+              canvas.saveState(); canvas.setFont(body_font,7.2); canvas.setFillColor(colors.HexColor('#666666'))
+              if doc.page>2:
+                  canvas.drawString(0.60*inch,0.38*inch,'HEAR ALL, SEE ALL, SAY NOTHING')
+                  canvas.drawRightString(page_size[0]-0.60*inch,0.38*inch,str(doc.page-2))
               canvas.restoreState()
 
-          doc = SimpleDocTemplate(str(out), pagesize=page_size,
-                                  rightMargin=0.72*INCH, leftMargin=0.72*INCH,
-                                  topMargin=0.72*INCH, bottomMargin=0.68*INCH,
-                                  title='Hear All, See All, Say Nothing - Complete Manuscript Draft',
-                                  author='')
+          doc=SimpleDocTemplate(str(out),pagesize=page_size,rightMargin=0.60*inch,leftMargin=0.60*inch,topMargin=0.58*inch,bottomMargin=0.58*inch,title='Hear All, See All, Say Nothing - Complete Manuscript Draft',author='')
+          story=[]
+          story += [Spacer(1,1.5*inch),Paragraph('HEAR ALL, SEE ALL,<br/>SAY NOTHING',title),Spacer(1,0.14*inch),Paragraph('Book One',subtitle),Paragraph('Complete Manuscript Draft - Draft V3',subtitle),Spacer(1,0.55*inch),Paragraph('20 September 2019 - 25 February 2020',small_center),PageBreak()]
+          story += [Paragraph('AUTHOR REVIEW COPY',chapter),Paragraph(f'This is the complete Book One story draft. Approximate manuscript word count: <b>{word_count:,}</b>.',note),Paragraph(f'This PDF is typeset at a 6 x 9 inch trade-paperback trim to make the reading experience close to a real novel. Based on the current {word_count:,}-word draft and its dialogue-heavy, short-paragraph style, a realistic final paperback is likely to land around <b>{est_low}-{est_high} pages</b> after professional editing and typesetting.',note),Paragraph('The exact final count will move with editing, font choice, chapter openings and front/back matter. Treat this as a complete story manuscript for developmental review, not the final proof sent to a printer.',note),PageBreak()]
 
-          story = []
-          story.append(Spacer(1, 1.55*INCH))
-          story.append(Paragraph('HEAR ALL, SEE ALL,<br/>SAY NOTHING', title))
-          story.append(Spacer(1, 0.16*INCH))
-          story.append(Paragraph('Book One', subtitle))
-          story.append(Paragraph('Complete Manuscript Draft - Draft V3', subtitle))
-          story.append(Spacer(1, 0.6*INCH))
-          story.append(Paragraph('20 September 2019 - 25 February 2020', small_center))
-          story.append(PageBreak())
-
-          story.append(Paragraph('AUTHOR REVIEW COPY', chapter))
-          story.append(Paragraph(
-              f'This is the complete Book One story draft assembled from the canonical Draft V3 manuscript. '
-              f'Approximate manuscript word count: <b>{word_count:,}</b>.', note))
-          story.append(Paragraph(
-              'The PDF is laid out at a 6 x 9 inch trade-paperback trim with readable novel typography so the page count gives a realistic early indication of printed length. '
-              'Final professional typesetting, front/back matter, chapter styling and copy edits can move the finished page count by roughly 10-15%.', note))
-          story.append(Paragraph(
-              'This is a manuscript draft for story, continuity and pacing review - not the final copy-edited publication file.', note))
-          story.append(PageBreak())
-
-          first_chapter = True
-          just_heading = False
+          first_chapter=True; just_heading=False
           for text in manuscript:
-              blocks = re.split(r'\n\s*\n', text.strip())
-              for block in blocks:
-                  s = block.strip()
-                  if not s:
-                      continue
-                  if s == '---':
-                      story.append(Spacer(1, 0.10*INCH))
-                      continue
+              for block in re.split(r'\n\s*\n',text.strip()):
+                  s=block.strip()
+                  if not s: continue
+                  if s=='---': story.append(Spacer(1,0.06*inch)); continue
                   if s.startswith('# '):
-                      if not first_chapter:
-                          story.append(PageBreak())
-                      first_chapter = False
-                      h = html.escape(s[2:].strip()).replace('—', '-').replace('–', '-')
-                      story.append(Spacer(1, 0.42*INCH))
-                      story.append(Paragraph(h, chapter))
-                      just_heading = True
-                      continue
+                      if not first_chapter: story.append(PageBreak())
+                      first_chapter=False
+                      h=html.escape(s[2:].strip()).replace('—','-').replace('–','-')
+                      story += [Spacer(1,0.22*inch),Paragraph(h,chapter)]; just_heading=True; continue
                   if s.startswith('## '):
-                      h = html.escape(s[3:].strip()).replace('—', '-').replace('–', '-')
-                      story.append(Paragraph(h, pov))
-                      just_heading = True
-                      continue
-
-                  raw = s.replace('—', '-').replace('–', '-')
-                  escaped = html.escape(raw)
-                  if raw.startswith('*') and raw.endswith('*') and raw.count('*') == 2:
-                      story.append(Paragraph(html.escape(raw[1:-1]), italic_style))
+                      h=html.escape(s[3:].strip()).replace('—','-').replace('–','-')
+                      story.append(Paragraph(h,pov)); just_heading=True; continue
+                  raw=s.replace('—','-').replace('–','-')
+                  if raw.startswith('*') and raw.endswith('*') and raw.count('*')==2:
+                      story.append(Paragraph(html.escape(raw[1:-1]),italic_style))
                   else:
-                      escaped = re.sub(r'\*([^*]+)\*', r'<i>\1</i>', escaped)
-                      escaped = re.sub(r'\*\*([^*]+)\*\*', r'<b>\1</b>', escaped)
-                      style = body_no_indent if just_heading else body
-                      story.append(Paragraph(escaped.replace('\n', '<br/>'), style))
-                  just_heading = False
+                      escaped=html.escape(raw)
+                      escaped=re.sub(r'\*\*([^*]+)\*\*',r'<b>\1</b>',escaped)
+                      escaped=re.sub(r'\*([^*]+)\*',r'<i>\1</i>',escaped)
+                      story.append(Paragraph(escaped.replace('\n','<br/>'),body_no_indent if just_heading else body))
+                  just_heading=False
 
-          doc.build(story, onFirstPage=footer, onLaterPages=footer)
-
-          reader = PdfReader(str(out))
-          page_count = len(reader.pages)
-          if page_count < 150:
-              raise RuntimeError(f'Unexpectedly short complete manuscript PDF: {page_count} pages')
-
-          pdf = fitz.open(str(out))
-          for i, page in enumerate(pdf):
-              pix = page.get_pixmap(matrix=fitz.Matrix(0.35, 0.35), alpha=False)
-              if pix.width < 100 or pix.height < 100:
-                  raise RuntimeError(f'Bad render on page {i+1}')
-
-          stats = (
-              f'Title: Hear All, See All, Say Nothing\n'
-              f'Draft: Complete Draft V3\n'
-              f'Word count: {word_count:,}\n'
-              f'6x9 manuscript-reading PDF pages: {page_count}\n'
-              f'Estimated final trade range: approximately {max(1, round(page_count*0.90))}-{round(page_count*1.15)} pages depending on final typesetting.\n'
-              f'Manuscript files assembled: {len(files)}\n'
-          )
-          stats_out.write_text(stats, encoding='utf-8')
-          print(stats)
+          doc.build(story,onFirstPage=footer,onLaterPages=footer)
+          reader=PdfReader(str(out)); page_count=len(reader.pages)
+          if page_count<150: raise RuntimeError(f'Unexpectedly short PDF: {page_count}')
+          pdf=fitz.open(str(out))
+          for i,page in enumerate(pdf):
+              pix=page.get_pixmap(matrix=fitz.Matrix(0.25,0.25),alpha=False)
+              if pix.width<80 or pix.height<80: raise RuntimeError(f'Bad render page {i+1}')
+          stats=(f'Title: Hear All, See All, Say Nothing\nDraft: Complete Draft V3\nWord count: {word_count:,}\n6x9 author-review PDF pages: {page_count}\nEstimated final trade paperback range: approximately {est_low}-{est_high} pages\nManuscript files assembled: {len(files)}\n')
+          stats_out.write_text(stats,encoding='utf-8'); print(stats)
           PY
           python /tmp/build_complete.py
-
       - name: Upload complete manuscript artifact
         uses: actions/upload-artifact@v4
         with:
