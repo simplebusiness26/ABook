@@ -1,6 +1,30 @@
 # 2019 Timeline Working Plan
 
-**Status: core legal/prison rhythm now locked; exact opening month/date still to be finalised.**
+**Status: core legal/prison rhythm locked. Exact day-by-day opening is now fixed.**
+
+The detailed story architecture is in `book-01/MASTER_STORY_ARCHITECTURE_2019.md`.
+
+## Book One time window
+
+**Opening:** Friday **20 September 2019**.
+
+**Target ending:** February 2020, before COVID-19 restrictions become part of ordinary prison life.
+
+The old October weekday/date filenames and outline dates are historical drafting remnants. Where they conflict with this file or the master architecture, the September 2019 chronology wins.
+
+## Opening chronology — LOCKED
+
+- **Friday 20 September 2019 — ARREST:** Connor's ordinary evening collapses into armed arrest.
+- **Saturday 21 September — CUSTODY:** solicitor, recovered C63, blood evidence, middle-finger memory, firearm allegation, no-comment interview.
+- **Sunday 22 September — WAITING:** family, girlfriend, co-offenders and imagined sentence lengths dominate Connor's thoughts.
+- **Monday 23 September — COURT / LEWES / G WING:** Connor is remanded and enters HMP Lewes. Craig arrives at Lewes on a security transfer from another prison. Connor first hears the name matter.
+- **Tuesday 24 September — THE NAME:** G Wing / first full day.
+- **Wednesday 25 September — THE MESSAGE:** Big Sharky's remote influence begins moving toward Lewes.
+- **Thursday 26 September — C WING:** Connor and Craig move from G to C. Connor meets Jamo.
+- **Friday 27 September — LINES:** different groups begin deciding where they stand.
+- **Saturday 28 September — PRESSURE:** Mason gives Connor: **"Hear all. See all. Say nothing."**
+- **Sunday 29 September — THE CHOICE:** attack on Craig; Connor intervenes; staff separate everyone; Connor spends the night segregated/separated.
+- **Monday 30 September — RUSH:** Connor returns to C Wing; Bruce coins Rush; Craig continues calling him Connor.
 
 ## Core structural solution
 
@@ -10,87 +34,84 @@ Connor and Craig enter the reader's Lewes world at roughly the same time, but th
 
 Connor is genuinely near the beginning of his case when he arrives at HMP Lewes. He has just been arrested, remanded and is still mentally treating every possible sentence as catastrophic.
 
+He later pleads guilty. His sentencing is adjourned and then suffers at least one ordinary frustrating delay. The delay is long enough for his timeline to converge with Craig's but must remain legally plausible.
+
+Connor ultimately receives the planned **five-year sentence** and is allocated toward a **Category C prison**.
+
 ### Craig
 
 Craig has **already been on remand in another prison** before the reader meets him.
 
-He is moved out of that establishment for security reasons and transferred to HMP Lewes. His arrival at Lewes therefore feels sudden and significant to the prison population even though his conspiracy case has already been progressing elsewhere.
+He is moved out of that establishment for security reasons and transferred to HMP Lewes. His arrival is therefore significant to prisoners even though his conspiracy case has already been progressing elsewhere.
 
-This solves the timing problem naturally: Connor and Craig can physically land in the same prison world together while Craig's much larger contested prosecution is already further advanced.
+The exact previous prison and exact security-transfer reason remain unlocked. Keep the reason high-level in the novel; do not explain prison security weaknesses.
 
-The exact previous establishment and exact reason recorded for Craig's security transfer remain to be chosen later. Keep this high-level in the novel; do not turn it into an explanation of prison security weaknesses.
+Craig contests important parts of his large conspiracy case. His proceedings continue longer than Connor's guilty-plea path, but because Craig's case began earlier the two legal timelines can converge naturally.
 
-## Preferred story window
+Craig ultimately receives a major sentence and is allocated toward the **high-security / dispersal estate**.
 
-**Working period:** late 2019 into early 2020.
+## Autumn / winter rhythm
 
-The exact opening date must be reset now that 2019 is canon. Existing October weekday/date placeholders are drafting remnants and are not final calendar dates.
+### October 2019
 
-If the story extends materially beyond March 2020, COVID-19 prison restrictions would become historically impossible to ignore. Unless the creator deliberately chooses to include the pandemic, Book One should conclude before those restrictions dominate prison life.
+- Connor enjoys becoming Rush.
+- Connor is used in a risky visit-related prohibited favour and Craig corrects his understanding of status versus being used.
+- Connor/Jamo cell fallout and a search damage Jamo's trusted-job prospects.
+- Connor becomes a wing cleaner because his risk/reputation closes trusted-job options.
+- Darren's addiction/informing storyline becomes active.
+- Josh arrives and attaches himself to Darren.
+- Tyler arrives later as another young first-timer with a very different response to fear.
 
-## Connor's legal rhythm
+### November–December 2019
 
-Connor's case should normally resolve faster than Craig's because Connor ultimately pleads guilty.
+- Jamo and Connor's friendship fractures; Jamo moves out.
+- Stuart becomes Connor's new cellmate.
+- Josh and Darren become a warm, established pair before deterioration.
+- Grant pressures Darren for information.
+- Malik, Jinx and Deano are pulled into the consequences of information moving around the prison.
+- Connor learns his old cannabis line sat several layers beneath Craig's wider network.
+- Leah's attachment to Craig and Bennett's fear-driven compromise develop in parallel.
+- Macca, Leon, Yusuf and Bruce carry substantial non-Craig prison life.
+- Christmas becomes a proper ensemble movement rather than a montage.
 
-Working sequence:
+### January 2020
 
-- Connor arrives at Lewes on remand.
-- He spends the early part of Book One catastrophising about ten, twelve or fifteen years because he does not yet know the outcome.
-- He indicates / enters a guilty plea at the appropriate stage.
-- Sentencing is adjourned for ordinary case-management/report reasons.
-- At least one further mundane delay / listing knock-back keeps him waiting longer than he expected and gives the novel a genuine emotional beat: he thinks he is finally going to know his future, then gets returned to Lewes still waiting.
-- Connor eventually receives the planned **five-year sentence**.
-- He is categorised / allocated toward a **Category C prison**.
+- Connor expects sentence and gets knocked back / adjourned again.
+- Craig's contested proceedings intensify and he is absent at court more often.
+- Connor overreaches by treating Craig's reputation as if it belongs to him.
+- Stuart is pushed out of Connor's cell, later deteriorates, then wins his self-defence case and leaves Lewes.
+- Tyler's invented reputation collapses and he finally admits his fear.
+- Leah recognises Bennett is trapped and uses Craig's influence to try to remove immediate pressure around him.
+- Josh's deterioration becomes visible.
 
-Do not invent an absurd legal delay simply to keep Connor beside Craig. The delay only needs to be long enough for their arcs to converge emotionally near the end.
+### Late January / February 2020
 
-## Craig's legal rhythm
-
-Craig's conspiracy case is already underway when his security transfer brings him to Lewes.
-
-Working sequence:
-
-- Craig has already spent time remanded elsewhere.
-- A security decision results in his transfer to Lewes.
-- He lands at Lewes at roughly the same story moment as Connor, creating the opening coincidence that links their prison lives.
-- His large conspiracy case continues through preparation while he is at Lewes.
-- Craig contests important parts of the prosecution rather than simply pleading everything guilty.
-- His trial / contested proceedings therefore run longer than Connor's guilty-plea path.
-- Craig is ultimately convicted on the relevant serious counts and receives a major sentence.
-- His sentence/risk position sends him toward the high-security/dispersal estate.
-
-The reader should gradually realise that Craig's arrival at Lewes was **not the beginning of Craig's case**. Connor has entered prison. Craig has been moved within prison.
-
-That contrast reinforces their different levels of experience from the first day.
+- Josh dies following a substance-related medical collapse, depicted non-graphically and through aftermath.
+- Darren survives and carries the guilt; he does not receive a magical recovery arc.
+- Malik learns that sometimes information should stop with him.
+- Jinx chooses the people physically around him over outside demands.
+- Connor and Craig's legal outcomes converge.
+- Connor receives five years / Cat C allocation.
+- Craig receives a major sentence / dispersal allocation.
+- Connor faces a final choice that echoes the first fight, but this time pauses and chooses rather than simply reacting.
+- Connor and Craig share a restrained final Lewes conversation.
+- Their respective prison transports take them into different Book Two worlds.
 
 ## Final convergence — LOCKED DIRECTION
 
-Connor and Craig should end Book One reaching sentence/transfer at roughly the same time after taking very different legal routes.
-
-The symmetry is deliberate but does not require impossible coincidence. Connor's ordinary sentencing delays and Craig's already-advanced but complex contested case allow the two timelines to converge.
+The emotional symmetry matters more than identical logistics.
 
 Preferred final sequence:
 
 - Connor receives five years and learns he is going to a Category C prison.
 - Craig receives his major sentence and learns he is heading into the high-security/dispersal system.
-- Their final Lewes conversation happens with both men knowing they are leaving this shared prison world.
+- Their final Lewes conversation happens with both men knowing this shared stage is ending.
 - Connor's transport goes toward one kind of sentenced prison life.
 - Craig's transport goes toward another.
-- The departures can happen the same day if the final researched logistics make that plausible, or within a very short period if that reads more naturally.
-- Visually/emotionally, Book One closes on **two men who arrived in the reader's Lewes story together now being sent in opposite directions**.
+- The departures may be the same day if final logistics support it, or within a very short period.
 
-Book Two then opens those two new worlds: Connor in the Category C estate and Craig in the dispersal/high-security estate, with Craig finally eligible to become a POV character.
+At the beginning Connor is entering prison for the first time while Craig is being moved because prison already knows him.
 
-## Thematic value
+At the end Connor has become Rush and Craig's reputation has become a major sentence.
 
-At the beginning:
-
-- Connor is entering prison for the first time.
-- Craig is being moved because prison already knows him.
-
-At the end:
-
-- Connor has become Rush and is being sent onward as a sentenced prisoner.
-- Craig's legend has become a major sentence and a move deeper into the system.
-
-They share the same building for only one stage of their lives, but that stage changes both of their trajectories and launches the next book.
+Book Two opens those two new worlds, with Craig finally eligible to become a POV character.
