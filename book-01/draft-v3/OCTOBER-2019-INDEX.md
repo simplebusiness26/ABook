@@ -13,25 +13,37 @@ October is written as selected dated chapters rather than one chapter for every 
   - Malik/Yusuf and Leah observe Connor changing.
 
 - `13-02-OCTOBER-2019.md` — **USEFUL**
-  - Kez approaches Connor for a risky visit-related favour.
+  - Kez pressures Connor to attend a separate visit with an unknown woman connected to Kez's people.
+  - Connor is expected to take responsibility for a prohibited parcel and return from the visit with it.
   - Connor hears being used as being respected.
   - Jamo spots the danger.
   - Darren gives Grant information he tells himself is harmless.
 
-- `14-03-OCTOBER-2019.md` — **THE VISIT**
-  - Visit pressure is experienced through fear and consequence, with no operational smuggling detail.
-  - Connor's family/girlfriend remain emotionally present.
-  - Craig teaches Connor: **useful is not the same as important**.
-  - Jamo explicitly worries Connor's choices will reach their shared cell.
+- `14-03-OCTOBER-2019.md` — **HOME**
+  - Connor has a genuine family visit with his mum and girlfriend.
+  - The visit carries the emotional cost of seeing home continue without him.
+  - His little brother sleeping in Connor's T-shirt becomes an important family beat.
+  - Jamo knows the separate Kez visit is still hanging over Connor.
 
 - `15-04-OCTOBER-2019.md` — **IMPORTANT**
-  - Connor starts hearing compliments differently after Craig's lesson.
+  - Kez confirms the pressured visit is happening next day.
+  - Connor begins wondering why the people praising him are not carrying the risk themselves.
   - Jamo's trusted-job application continues stalling.
   - Mason deepens the title advice.
   - Darren gives Grant another supposedly harmless fragment.
 
+- `15A-05-OCTOBER-2019.md` — **THE OTHER VISIT**
+  - Connor sits a visit with a woman he has never met.
+  - She passes responsibility for a prohibited parcel to him.
+  - Connor then has to face the normal post-visit search process, including a strip search, while terrified of being caught.
+  - The scene makes the act and the risk clear without describing concealment or search-evasion mechanics.
+  - Connor gets through undetected, initially mistakes survival for proof of courage, and returns visibly shaken.
+  - Jamo realises Connor has done something serious and worries that Connor's risks are becoming his too.
+  - Craig delivers the key lesson: **useful is not the same as important**.
+  - Kez's casual reaction afterwards proves Craig's point.
+
 - `16-06-OCTOBER-2019.md` — **THE SPIN**
-  - Connor/Jamo's cell is searched.
+  - Connor/Jamo's cell is searched the day after the pressured visit.
   - Nothing dramatic is found; the emotional/institutional consequences matter more.
   - Jamo's frustration becomes legitimate rather than simple jealousy.
   - Leah reminds Connor that trusted work and unnecessary problems do not mix.
