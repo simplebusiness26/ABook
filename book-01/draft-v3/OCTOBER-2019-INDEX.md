@@ -13,39 +13,31 @@ October is written as selected dated chapters rather than one chapter for every 
   - Malik/Yusuf and Leah observe Connor changing.
 
 - `13-02-OCTOBER-2019.md` — **USEFUL**
-  - Kez pressures Connor to attend a separate visit with an unknown woman connected to Kez's people.
-  - Connor is expected to take responsibility for a prohibited parcel and return from the visit with it.
-  - Connor hears being used as being respected.
-  - Jamo spots the danger.
-  - Darren gives Grant information he tells himself is harmless.
+  - Kez gases Connor up with money, reputation and the idea of making a proper name for himself.
+  - Kez proposes a future visit with an unknown woman connected to his people.
+  - The woman first has to be added to Connor's approved visiting arrangements, creating a wait of more than two weeks.
+  - Connor is told he will make money but **does not know the eventual split and does not ask**.
+  - Connor hears being useful as being respected.
+  - Jamo spots that Connor has agreed to something stupid.
 
 - `14-03-OCTOBER-2019.md` — **HOME**
   - Connor has a genuine family visit with his mum and girlfriend.
   - The visit carries the emotional cost of seeing home continue without him.
   - His little brother sleeping in Connor's T-shirt becomes an important family beat.
-  - Jamo knows the separate Kez visit is still hanging over Connor.
+  - The separate Kez visit remains a future pressure rather than happening immediately.
 
 - `15-04-OCTOBER-2019.md` — **IMPORTANT**
-  - Kez confirms the pressured visit is happening next day.
-  - Connor begins wondering why the people praising him are not carrying the risk themselves.
+  - Kez confirms the visitor paperwork is going in and that the dangerous visit is still likely a couple of weeks away.
+  - He keeps Connor committed through praise rather than a direct threat.
   - Jamo's trusted-job application continues stalling.
   - Mason deepens the title advice.
   - Darren gives Grant another supposedly harmless fragment.
 
-- `15A-05-OCTOBER-2019.md` — **THE OTHER VISIT**
-  - Connor sits a visit with a woman he has never met.
-  - She passes responsibility for a prohibited parcel to him.
-  - Connor then has to face the normal post-visit search process, including a strip search, while terrified of being caught.
-  - The scene makes the act and the risk clear without describing concealment or search-evasion mechanics.
-  - Connor gets through undetected, initially mistakes survival for proof of courage, and returns visibly shaken.
-  - Jamo realises Connor has done something serious and worries that Connor's risks are becoming his too.
-  - Craig delivers the key lesson: **useful is not the same as important**.
-  - Kez's casual reaction afterwards proves Craig's point.
-
 - `16-06-OCTOBER-2019.md` — **THE SPIN**
-  - Connor/Jamo's cell is searched the day after the pressured visit.
+  - Connor/Jamo's cell is searched **before** the Kez visit occurs.
+  - The search is no longer presented as a direct consequence of that future visit.
+  - It shows how Connor's new reputation/security attention already affects Jamo's sense of safety in their shared cell.
   - Nothing dramatic is found; the emotional/institutional consequences matter more.
-  - Jamo's frustration becomes legitimate rather than simple jealousy.
   - Leah reminds Connor that trusted work and unnecessary problems do not mix.
 
 - `17-08-OCTOBER-2019.md` — **WING CLEANER**
@@ -79,7 +71,19 @@ October is written as selected dated chapters rather than one chapter for every 
   - Darren/Josh become warmer and funnier together.
   - Grant's information pressure tightens.
   - Jamo's visits-orderly application is explicitly delayed by association/security concerns.
-  - Darren begins feeling protective of Josh.
+  - Kez tells Connor the unknown visitor has finally been approved and the visit is booked for Saturday 19 October.
+  - Connor still does not know what his share will be.
+
+- `21A-19-OCTOBER-2019.md` — **THE OTHER VISIT**
+  - More than two weeks after Kez first approached him, Connor sits a visit with a woman he has never met.
+  - She passes responsibility for a prohibited parcel to him.
+  - Connor faces the normal post-visit process, including a strip search, while terrified of being caught.
+  - The act and emotional risk are clear without describing concealment or search-evasion mechanics.
+  - Connor gets back undetected.
+  - **Only afterwards** does Kez reveal the split: Connor receives roughly one fifth while Kez keeps the much larger share.
+  - Connor becomes furious and feels like a mug because Kez used praise, status and vague promises rather than ever agreeing terms.
+  - Connor nearly attacks Kez but recognises that doing so would let Kez make him lose his head as well as carry the risk.
+  - Jamo and Craig both reinforce the same lesson from different angles: **useful is not the same as important**.
 
 - `22-20-OCTOBER-2019.md` — **OUTSIDE**
   - Connor speaks to his little brother and feels the powerlessness of prison.
@@ -129,6 +133,10 @@ It ends with the reward already producing costs:
 - Craig's attention / other prisoners trying to use him;
 - a new identity / a strained friendship with Jamo;
 - greater prison confidence / increasing distance from the outside world.
+
+The corrected Kez storyline now works as a slow manipulation rather than a quick favour:
+
+**2 Oct pitch → visitor approval wait → 17 Oct confirmation → 19 Oct visit → unfair split revealed only after Connor has already carried the risk.**
 
 At the same time the ensemble has expanded so November no longer depends on Connor/Craig to carry every chapter.
 
