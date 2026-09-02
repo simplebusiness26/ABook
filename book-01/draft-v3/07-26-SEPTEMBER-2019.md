@@ -480,7 +480,7 @@ Trouble rarely respected geography for long.
 
 ---
 
-## JMO / JAMO
+## JAMO
 
 That night Jamo talked through the dark as if silence personally offended him.
 
