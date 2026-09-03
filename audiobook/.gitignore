@@ -1,0 +1,7 @@
+# Generated locally or on Kaggle. These files can be rebuilt from the manuscript.
+work/
+exports/
+*.zip
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/

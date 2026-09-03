@@ -1,0 +1,5 @@
+# Kaggle already supplies torch and ffmpeg. espeak-ng is installed by the notebook.
+kokoro==0.9.4
+misaki[en]==0.9.4
+numpy>=1.26,<3
+soundfile>=0.12,<1

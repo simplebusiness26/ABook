@@ -34,7 +34,8 @@ The wider series can follow characters when they are transferred, released, reca
 - `characters/CHARACTERS.md` — evolving character records.
 - `style/VOICE_GUIDE.md` — the writing rules for every draft.
 - `book-01/STRUCTURE_V2.md` — active dated/mosaic story structure.
-- `book-01/draft-v2/` — active manuscript scenes.
+- `book-01/draft-v3/` — complete Book One author-review manuscript.
+- `audiobook/` — free, resumable Kaggle audiobook production system.
 
 ## Build process
 
@@ -45,5 +46,6 @@ The wider series can follow characters when they are transferred, released, reca
 5. Developmental edit: plot, pacing, character arcs and unanswered questions.
 6. Line edit: clarity, humour, dialogue and consistency.
 7. Format the finished manuscript for ebook and paperback publication.
+8. Approve a narration sample, then generate and review the audiobook edition.
 
 The goal is not just one novel. It is a reusable fictional universe capable of supporting a long-running series and spin-offs.

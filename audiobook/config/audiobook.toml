@@ -1,0 +1,181 @@
+schema_version = 1
+
+[book]
+title = "Hear All, See All, Say Nothing"
+subtitle = "Book One"
+edition = "Draft V3 author-review audiobook"
+author = ""
+source_dir = "book-01/draft-v3"
+source_glob = "*.md"
+output_slug = "hear-all-see-all-say-nothing"
+language = "en-GB"
+
+[engine]
+name = "kokoro"
+package_version = "0.9.4"
+model = "hexgrad/Kokoro-82M"
+language_code = "b"
+sample_rate = 24000
+
+[production]
+# Start with one coherent narrator. Switch to "pov" only after the cast audition is approved.
+voice_mode = "narrator"
+max_segment_characters = 850
+paragraph_pause_ms = 420
+section_pause_ms = 900
+chapter_pause_ms = 1500
+scene_break_pause_ms = 1200
+sample_max_characters = 2600
+sample_chapter = 1
+
+[mastering]
+sample_rate = 44100
+channels = 1
+target_lufs = -19.0
+true_peak_db = -3.0
+loudness_range = 7.0
+mp3_bitrate = "96k"
+m4b_bitrate = "64k"
+
+[validation]
+expected_source_files = 46
+expected_chapters = 74
+minimum_spoken_words = 65000
+first_chapter = "FRIDAY 20 SEPTEMBER 2019 — ARREST"
+last_chapter = "TUESDAY 25 FEBRUARY 2020 — TWO VANS"
+
+[voices.default]
+voice = "bm_george"
+speed = 0.96
+
+[voices.chapter_heading]
+voice = "bm_george"
+speed = 0.90
+
+[voices.section_heading]
+voice = "bm_george"
+speed = 0.92
+
+# POV profiles are intentionally subtle. The prose remains a novel, not an automated radio play.
+# Compound or ambiguous POV headings fall back to the main narrator.
+[cast."CONNOR"]
+voice = "bm_lewis"
+speed = 0.98
+
+[cast."MASON"]
+voice = "bm_daniel"
+speed = 0.93
+
+[cast."JAMO"]
+voice = "bm_fable"
+speed = 0.97
+
+[cast."BRUCE"]
+voice = "bm_george"
+speed = 1.00
+
+[cast."DARREN"]
+voice = "bm_daniel"
+speed = 0.97
+
+[cast."JOSH"]
+voice = "bm_fable"
+speed = 1.02
+
+[cast."MALIK"]
+voice = "bm_george"
+speed = 0.97
+
+[cast."JINX"]
+voice = "bm_lewis"
+speed = 0.95
+
+[cast."TYLER"]
+voice = "bm_fable"
+speed = 1.03
+
+[cast."STUART"]
+voice = "bm_daniel"
+speed = 0.96
+
+[cast."MACCA"]
+voice = "bm_george"
+speed = 0.94
+
+[cast."LEON"]
+voice = "bm_lewis"
+speed = 0.96
+
+[cast."YUSUF"]
+voice = "bm_daniel"
+speed = 0.98
+
+[cast."KEZ"]
+voice = "bm_george"
+speed = 0.96
+
+[cast."CRAIG"]
+voice = "bm_george"
+speed = 0.91
+
+[cast."DEANO"]
+voice = "bm_lewis"
+speed = 0.96
+
+[cast."OFFICER MERCER"]
+voice = "bf_emma"
+speed = 0.96
+
+[cast."OFFICER BENNETT"]
+voice = "bm_daniel"
+speed = 0.96
+
+[cast."OFFICER GRANT"]
+voice = "bm_fable"
+speed = 0.95
+
+[cast."SENIOR OFFICER PATEL"]
+voice = "bm_george"
+speed = 0.95
+
+[cast."GIRLFRIEND"]
+voice = "bf_isabella"
+speed = 0.98
+
+[cast."MUM"]
+voice = "bf_emma"
+speed = 0.94
+
+[aliases]
+"LEAH" = "OFFICER MERCER"
+"MERCER" = "OFFICER MERCER"
+"TOM BENNETT" = "OFFICER BENNETT"
+"BENNETT" = "OFFICER BENNETT"
+"GRANT" = "OFFICER GRANT"
+"PATEL" = "SENIOR OFFICER PATEL"
+"OFFICER PATEL" = "SENIOR OFFICER PATEL"
+
+[[pronunciations]]
+written = "HMP"
+spoken = "H M P"
+approved = true
+
+[[pronunciations]]
+written = "Lewes"
+spoken = "Loo-iss"
+approved = true
+
+[[pronunciations]]
+written = "C63 AMG"
+spoken = "C sixty-three A M G"
+approved = true
+
+[[pronunciations]]
+written = "Jamo"
+spoken = "Jam-oh"
+approved = false
+
+[[pronunciations]]
+written = "Macca"
+spoken = "Mack-uh"
+approved = false
